@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7F66862-BD0F-41A2-9871-AC96BC8443AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>e09a05c4-09b3-ad4f-bc91-2e4bdf949496++6948</key>
+		<string>https://192.168.1.51:8443/svn/apps/IOS/%25E6%2596%25B0%25E7%2589%25882cu</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Camnoopy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>e09a05c4-09b3-ad4f-bc91-2e4bdf949496++6948</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>e09a05c4-09b3-ad4f-bc91-2e4bdf949496++6948</key>
+		<string>https://192.168.1.51:8443/svn/apps</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.51:8443/svn/apps/IOS/%25E6%2596%25B0%25E7%2589%25882cu/Camnoopy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>e09a05c4-09b3-ad4f-bc91-2e4bdf949496++6948</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e09a05c4-09b3-ad4f-bc91-2e4bdf949496++6948</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%96%B0%E7%89%882cu--</string>
+		</dict>
+	</array>
+</dict>
+</plist>

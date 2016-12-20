@@ -1,0 +1,609 @@
+/* Localized versions of Info.plist keys */
+
+"account_login" = "Аккаунт";
+"input_username" = "Email / Аккаунт / Номер телефона";
+"input_password" = "Введите пароль";
+"login" = "Login";
+"unInputUsername" = "Email / Аккаунт / Номер телефона";
+"unInputPassword" = "Введите пароль";
+
+"login_failure" = "Авторизация не удалась";
+"user_unexist" = "Аккаунт не существует";
+"password_error" = "Неправильный пароль";
+
+"ok" = "OK";
+"cancel" = "Отмена";
+
+"contact" = "Список устройств";
+"discover" = "Shake to search Camera Device";
+"no_device" = "No available Camera Device";
+"recent" = "Recent";
+"toolbox" = "Инструменты";
+"setting" = "Системные настройки";
+
+"logout" = "Выход";
+"exit" = "Закрыть";
+
+"account_information" = "Учетная запись";
+
+
+"exit_prompt" = "Закрыть приложение?";
+"logout_prompt" = "Выйти из аккаунта?";
+"call" = "Call Camera Device";
+"monitor" = "Remote Access Real-time Monitoring";
+"accept" = "Принять";
+"reject" = "Hang Up";
+
+"input_monitor_id" = "Input Camera Device ID to start monitor";
+"input_call_id" = "Input Camera Device ID to call";
+"input_device_password" = "Введите пароль камеры";
+
+"account_info" = "Учетная запись";
+"check_update" = "Update Version";
+"screenshot" = "Снимки";
+"about_us" = "О программе";
+
+"screenshot_success" = "Снимок сохранен";
+
+"device_name" = "Camera Device Customize Name";
+"device_password" = "Camera Device Password";
+"delete_device" = "Delete Camera Device";
+"delete" = "Удалить";
+
+"sure_to_delete" = "Удалить камеру из списка?";
+"sure_to_clear" = "Стереть записи в журнале?";
+"operator_success" = "Изменения приняты";
+"operator_failure" = "Изменения не удались";
+"operator_failure_unsupport_wifi" = "Modify Failed, Camera Device does not support WiFi";
+"operator_failure_unsupport_wire" = "Modify Failed, Camera Device might not support Ethernet connection";
+"modify_success" = "Modified Successful";
+"modify_failure" = "Modified Failed";
+"no_permission" = "Permission denied";
+
+"online" = "(Online)";
+"offline" = "(Offline)";
+"add_contact" = "Добавление камеры";
+"add_Wi-Fi" = "Добавить через WiFi";
+"add_new_device" = "Добавление новой камеры";
+"addByManual" = "Добавление камеры";
+"add_manual" = "Добавить вручную";
+"input_contact_id" = "Введите ID-номер камеры";
+"input_contact_name" = "Введите название для камеры";
+"input_contact_password" = "Введите пароль камеры";
+
+"next" = "Далее";
+"save" = "Сохранить";
+
+"contact_already_exists" = "Такое устройство уже в списке";
+
+"monitor" = "Remote Access Real-time Monitoring";
+"chat" = "Call Camera Device";
+"message" = "Message";
+"playback" = "Видеозаписи";
+"control" = "Device Settings";
+"device_control" = "Device Settings";
+"modify" = "Edit";
+
+"recent_one_day" = "Один день";
+"recent_three_day" = "Три дня";
+"recent_one_month" = "Один месяц";
+"custom" = "Выбрать";
+
+"device_password_error" = "Camera Device password error";
+"net_exception" = "Проверьте подключение устройства к сети";
+
+"about" = "О приложении";
+"about_text" = "Camnoopy, As micro video service platform, provides real-time view, the remote care, video sharing and other comprehensive video application service for family and small & micro enterprise users.\n◎With Camnoopy, you are easy to view the real-time and the history at your home, your store and your office etc.\n◎With Camnoopy, you can receive instant exception alert from the places you care about, and take the safety protection measures at once.\n◎With Camnoopy, you can share your most interesting life to whom you care about most.\n";
+
+"start_time" = "Время начала:";
+"end_time" = "Время конца:";
+"search" = "Поиск";
+
+"unselected_start_time" = "Select video start time";
+"unselected_end_time" = "Select video end time";
+"start_time_must_before_end_time" = "Search starting time must not exceed Search ending time";
+
+"account_info" = "Учетная запись";
+"account" = "Account";
+"email" = "Email";
+"phone_number" = "Mobile Number";
+"modify_login_password" = "Изменить пароль";
+
+"unbind" = "Not Bind";
+"UNbind" = "Unbind";
+"modify_password" = "Изменить пароль";
+"input_original_password" = "старый пароль";
+"input_new_password" = "новый пароль";
+"confirm_input" = "повторите новый пароль";
+"two_passwords_not_match" = "пароли не совпадают";
+"password_too_long" = "Пароль не может быть более 30 символов";
+"original_password_error" = "Неверный старый пароль";
+
+"unknown_error" = "Неивестная ошибка";
+
+"sure_to_unbind_email" = "Отвязать Email?";
+"sure_to_unbind_phone" = "Отвязать телефон?";
+
+"bind_email" = "Bind Email";
+"unbind_email" = "Edit Email address";
+"input_email" = "Input Email address";
+"email_length_error" = "Email must be 5 to 31 characters in length";
+"email_used" = "Email address has been used";
+"email_format_error" = "Email address error";
+
+"input_login_password" = "Input login password";
+"session_error" = "Login error. Account might be login from another device, please login again.";
+
+//"control" = "Control";
+
+"time_set" = "Дата и время";
+"media_set" = "Настройки видео";
+"security_set" = "Настройки безопастности";
+"network_set" = "Настройки сети";
+"alarm_set" = "Настройки тревоги";
+"record_set" = "Настройки записи";
+"defenceArea_set" = "Настройки зон контроля";
+"remote_set" = "Remote Settings";
+"remote_reset" = "Сброс настроек камеры";
+"device_update" = "Обновление ПО камеры";
+"time_zone" = "Часовой пояс";
+"apply" = "Принять";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "Формат видео";
+"volume" = "Громкость";
+
+"modify_device_password" = "Modify Device password";
+
+"motion" = "Датчик движения";
+"buzzer" = "Сирена";
+"buzzer_time" = "Время работы сирены (мин)";
+
+"alarm_email" = "Notify Email";
+"bind_account" = "Bind Account";
+
+"sure_to_unbind_account" = "Confirm to remove ID from APP Notification?";
+"input_alarm_id" = "Input Account ID to receive Notification";
+"id_too_long" = "ID must not exceed 9 character";
+"alarm_id_must_zero_begin" = "Alarm ID must start with \'0\' ";
+"add_bind_account_prompt1" = "Can add only";
+"add_bind_account_prompt2" = "Alarm Notify account";
+
+"remote_defence" = "Remote Access Arm Camera Device";
+"remote_record" = "Remote Access Recording";
+
+"record_type" = "Режим записи";
+"record_time" = "Время записи(мин)";
+
+"manual_record" = "Круглосуточная запись";
+"alarm_record" = "Запись по тревоге";
+"timer_record" = "Запись по расписанию";
+"plan_time_table" = "Таблица расписания";
+
+"net_type" = "Тип сети";
+"wired" = "Ethernet";
+"wifi" = "Wi-Fi";
+"alarm_push" = "Alarm Notification ID";
+
+"change_net_prompt" = "Changing current network might cause device to disconnect, please confirm to proceed!!";
+
+"wifi_list" = "Сети Wi-Fi";
+
+"input_wifi_password" = "Введите пароль WiFi сети";
+"wifi_password_format_error" = "Неверный пароль WiFi сети";
+
+"remote" = "Remote Controller";
+"hall" = "Холл";
+"window" = "Окно";
+"balcony" = "Балкон";
+"bedroom" = "Спальня";
+"kitchen" = "Кухня";
+"courtyard" = "Двор";
+"door_lock" = "Вход";
+"other" = "Другое";
+"infrared" = "PIR датчик";
+"smoke" = "Дым";
+"gas" = "Газ";
+
+"clear_defence_prompt" = "Confirm to clear?";
+"learn_defence_prompt" = "Click OK to pair and code Sensor";
+"device_not_support_defence_area" = "Device does not support Defense Area";
+"modify_defenceArea_name" = "Customize Name";
+"modify_channel_name" = "Customize Name";//2016.1.18
+
+"bind_phone" = "Bind Mobile Number";
+"unbind_phone" = "Unbind Mobile Number";
+"input_phone" = "Input your Mobile Number";
+
+"china" = "China";
+"america" = "America";
+
+"phone_length_error" = "Number must be 6~15 characters in length";
+
+"phone_used" = "Mobile Number has been used";
+"get_phone_code_too_times" = "Try again later. Excessive Verication Code Sent";
+"phone_format_error" = "Mobile number format error";
+
+"phone_code_was_send_to" = "Verification code sent to";
+"phone_check_code" = "Verification Code";
+
+"choose_country" = "Choose Country";
+
+"email_id_login" = "Email/ Account ID Login";
+"phone_login" = "Mobile Number Login";
+
+"register_success_prompt" = "Sign Up Success";
+
+"searching_device_in_local" = "Searching Device in Local Area Network";
+
+"create_init_password_prompt" = "Device Password cannot be empty!";
+
+"device_already_exist_password" = "Adding Device Failed. Device password already exist";
+
+"call_in_prompt" = "Call from";
+"call_out_prompt" = "Calling to";
+"monitor_out_prompt" = "Connecting to";
+
+"net_warning_prompt" = "Current network not available, please check your network settings and router configuration";
+
+"now_version_is_latest" = "Latest Version, No Upgrades required";
+"other_was_check_device_update" = "Try again later";
+"device_not_support" = "Device does not support";
+
+"send" = "Отправить";
+
+"alarm_history" = "Журнал тревоги";
+"alarm_device" = "Устройство:";
+"alarm_type" = "Тип тревоги:";
+
+"input_message" = "Input message";
+"message_too_long" = "Message too long";
+"can_not_send_message_to_myself" = "Cannot send msg to yourself";
+"send_failure" = "Sending Failed";
+
+"device" = "Камера";
+"view" = "View";
+"extern_alarm" = "External Alarm";
+"motion_dect_alarm" = "Движение";
+"emergency_alarm" = "Emergency Alarm";
+"debug_alarm" = "Debug";
+"ext_line_alarm" = "I/O Alarm";
+"low_vol_alarm" = "Low Voltage Alarm";
+"pir_alarm" = "PIR Detection Alarm";
+"defence_enable_alarm" = "ВКЛ охрану";
+"defence_disable_alarm" = "ОТКЛ охрану";
+"battery_low_alarm" = "Низкий заряд батареи";
+"parameters_upload_alarm" = "Upload Parameters to Server";
+"temperature_alarm" = "TEMP & HUM Alarm";
+"doorbell_alarm" = "Visitor Notification";
+"keypress_alarm" = "SOS Alarm";
+"record_failed_alarm" = "Recording failed";
+
+"forget_password" = "Forget Password?";
+
+"device_password_too_long" = "Пароль не должен быть длиннее 100 символов";
+"password_zero_format_error" = "Пароль не должен начинаться с \'0\'";
+"password_number_format_error" = "Device password must be combination of numerics 0 to 9";
+
+"set_wifi" = "Set WiFi Connection";
+
+"no_connect_wifi" = "Mobile or Tablet has no WiFi connection, please connect to WiFi";
+"set" = "Set";
+
+"infrared_remote" = "Infra-red Remote";
+
+"input_ssid" = "Введите название WiFi сети";
+
+
+"discovered" = "Discover";
+"new_device" = "New Device";
+"local_device_list" = "New Список устройств";
+
+"device_id_zero_format_error" = "Device ID must be combination of numerics and should not begin with \'0\'";
+
+"id_unknown_error" = "Unknown Error";
+"id_overdate" = "Device ID expired";
+"id_disabled" = "Device ID disabled";
+"id_inactived" = "Device ID not activated";
+"id_offline" = "Device offline, Pls check device network status";
+"id_busy" = "Try again later";
+"id_powerdown" = "Device ID is powered off";
+"id_connect_failed" = "Pls check device network status";
+"id_hangup" = "Hangup";
+"id_timeout" = "Network status is not good, pls try again later";
+"id_internal_error" = "Internal Error";
+"id_no_accept" = "No Answer";
+"id_password_error" = "Device password error";
+"id_not_support" = "Device ID does not support";
+
+"cur_version_is" = "Текущая версия ";
+"can_update_to" = "Доступна новая версия, хотите обновить сейчас?";
+"start_update" = "Обновление";
+"update_failed" = "Ошибка обновления";
+"cancel_update" = "Отменить обновление";
+
+"loading" = "Загрузка...";
+"cur_version" = "Версия прошивки";
+"kernel_version" = "Версия Kernel";
+"rootfs_version" = "Версия Roots";
+"uboot_version" = "Версия uBoot";
+
+"device_info" = "Об устройстве";
+
+"release_new_version"="Доступна новая версия";
+"ask_update_immediately"="Обновить сейчас?";
+"remain_me"="Напомнить позже";
+"update_me"="Обновить сейчас";
+"rate_me"="Give us a rating";
+"skip_me"="Skip Upgrade Version";
+"latest_version"="Уже установлена последняя версия";
+"quit_update"="Выход из обновления";
+
+"no_init_password_device" = "Device password empty";
+
+"defence_group" = "Defense Area";
+"defence_item" = "Sensor";
+"already_learn" = "Paired and Coded";
+"learning" = "Pairing Coding in process...";
+"clearing" = "Deleting in process...";
+
+"qrcode_add" = "Add with QR Code";
+"qrcode" = "Настроить WiFi через QR код";
+"wifi_set_title" = "Настройки WiFi";
+"make" = "Создать QR код";
+"help" = "FAQ";
+
+"add_device" = "Добавить устройство";
+
+"empty_contact_prompt" = "В списке нет устройств, добавьте устройство";
+"smart_key" = "Set WiFi By Smart IR Key";
+"smart_key_add" = "Smart IR Key";
+"search_local_area" = "Scan Local Area Network";
+"manually_add" = "Add Device Manually";
+
+"input_smart_key_prompt" = "insert Smart IR Key, and adjust media sound settings to highest volume.";
+
+"input_wifi_password_sk" = "Input WiFi password";
+"input_device_password_sk" = "Input Device password";
+"set_wifi_content_prompt" = "Hold Smart IR Key to the camera til “Ding” sound is heard.";
+"set_wifi_content_prompt1" = "Position Smart IR Key infront the camera:";
+"set_wifi_content_prompt2" = "“Ding” sound is heard,click Heard";
+"set_wifi_content_prompt3" = "“Bi-Bi-Bi” is heard,Click Return and re-enter Device password";
+"set_scanning_code_prompt" = "Направьте экран устройства с QR кодом в объектив камеры. Удерживайте устройство пока не услышите характерный звуковой сигнал";
+"heard" = "Услышал";
+"back" = "Возврат";
+"waiting_content_prompt" = "Ожидайте подключения к WiFi сети";
+"set_wifi_failed_title" = "Не удалось добавить устройство,\nпопробуйте ещё раз";
+"set_wifi_failed_prompt" = "Возможные причины:\n1.Неверный пароль WiFi сети\n2.В роутере установлен режим WiFi 5 Ghz и текущая камера его не поддерживает\n3.Нестабильная работа WiFi сети";
+"set_wifi_success_title" = "Подключение выполнено!";
+"try_again" = "Try again";
+
+"qrcode_prompt" = "Расположите экран мобильного устройства с QR кодом напротив объектива камеры на расстоянии 20-30 см и позвольте камере распознать QR код. Зафиксируйте устройство и ожидайте звукового сигнала.";
+
+"modify_visitor_password" = "Пароль гостя";
+"auto_update" = "Automatically Update";
+
+"accept_alarm" = "Receive Notification";
+"human_infrared_detection" = "PIR Sensor";
+"wired_alarm_input" = "Wired Sensor input";
+"wired_alarm_output" = "Wired Sensor output";
+"image_inversion" = "Переворот изображения";
+
+"TH_alert" = "TEMP & HUM alarm";
+"temperature_now" = "Current Temperature";
+"humidity_now" = "Current Humidity";
+"temperature_max" = "Upper Temperature Limit";
+"temperature_min" = "Lower Temperature Limit";
+"input_new_visitor_password" = "Please input Guest password";
+"human_infrared" = "PIR Sensor Switch";
+"anonymous_login" = "Anonymous Login";
+
+"anonymous" = "Anonymous";
+
+"remote_record_switch" = "Запись ВКЛ/ВЫКЛ";
+
+"modify_manager_password" = "Пароль камеры";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "Пользователей:";
+
+"time_zone_set" = "Настройки часового пояса";
+
+
+"new_account_register" = "Sign Up";
+"phone_register" = "Номер телефона";
+"email_register" = "Email";
+"register_account" = "Register Account Guide";
+
+"storage_info" = "Карта памяти";
+"sd_card_capacity" = "Объём:";
+"sd_card_rem_capacity" = "Доступно:";
+"u_disk_capacity" = "Flash Disk Capacity:";
+"u_disk_rem_capacity" = "Remaining Capacitiy:";
+"sd_card_format" = "Стереть и форматировать";
+"no_storage" = "Карта Micro SD отсутствует";
+"device_not_support_no_storage" = "Устройство не поддерживает действие или SD карта отсутствует";
+"not_support_format" = "Формат не поддерживается";
+"sd_format_success" = "Карта успешно отформатирована";
+"format_sd_card" = "Форматирование SD карты";
+"confirm_format" = "Вся информация на карте будет удалена. Продолжить?";
+
+"device_not_support_sensor_switch" = "Current Device does not support Sensor Pairing";
+"learn_code" = "Pairing and Code Sensor";
+
+"no_record" = "No Record";
+//"unknown_error" = "Unknown Error";
+"no_more_record" = "Record list is empty.";
+
+//----------
+"scan_switch" = "Change Batch";
+"scan_complete" = "Add completed";
+"scan_add_successfully" = "Added successfully";
+"scan_tip" = "Tips";
+"scan_tryagain" = "Попробуйте снова";
+"scan_error01" = "WiFi ошибка пароля";
+"scan_error02" = "Device does not support 5G router currently";
+"scan_error03" = "Router DHCP function is turned off";
+
+"mainmenu_alarmset" = "Тревога";
+"mainmenu_help" = "FAQ";
+
+"adddevice_btn_rader" = "Radar";
+"adddevice_btn_manual" = "Manual";
+"adddevice_tip" = "Подключение камеры к WiFi сети";
+"adddevice_btn_setwifi" = "Set WiFi";
+"adddevice_btn_skip" = "Skip";
+"add_guard_text06" = "Включите камеру";
+"add_guard_text07" = "Включите камеру и дождитесь повторяющегося звукового сигнала;\nВыполните сброс камеры, если звук отсутствует";
+"waiting_content_prompt01" = "Ожидание подключения";
+"waiting_content_prompt02" = "Подключение...\nПожалуйста подождите";
+"adddevice_warm_tip" = "Внимание: Используйте латинские символы для ввода пароля";
+"addDevice_warm_tips" = "Внимание: Во избежание несанкционированного доступа к камере, измените пароль по умолчанию на новый при первом использовании!";
+
+"manual_set_time" = "Установить время вручную";
+"network_set_time" = "Синхронизировать время с сервером";
+"year" = "Год";
+"month" = "Месяц";
+"day" = "День";
+"hour" = "Час";
+"minute" = "Мин";
+"mac_address" = "MAC адрес";
+"enabled" = "Включено";
+"Automatic_get_ip" = "Получать IP автоматически";
+"ip_address" = "IP";
+"Subnet_mask" = "Маска сети";
+"gateway" = "Шлюз";
+"dns" = "DNS";
+"input_ip" = "Введите IP адрес";
+"input_subnet" = "Введите маску сети";
+"input_gateway" = "Введите шлюз";
+"input_dns" = "Введите DNS";
+"connected" = "Подключено";
+"connect_ipc_wifi" = "Please Connected WiFi--%@,Password 12345678";
+
+"one_min" = "1 мин";
+"two_min" = "2 мин";
+"three_min" = "3 мин";
+"addshield_device" = "Добавление в список";
+"addshield_tip" = "От указанного устройства тревога будет игнорироваться";
+"already_shield" = "Added Account ID to Block List";
+"alarm_shield_device" = "Список игнорируемых устройств";
+"alarm_interval" = "Время до повторного оповещения (сек)";
+
+"smart_cameras" = "Smart Camera";
+"check_for_setting" = "Авторизация...";
+
+
+"pull_to_refresh" = "Потяните чтобы обновить";
+"release_refresh" = "Отпустите чтобы обновить";
+"loading" = "Обновление...";
+
+"resend" = "Повторить";
+"Skip" = "Пропустить";
+
+"tempe_format_error" = "Input format error";
+"set_TH_alert" = "Тревога по ТЕМП и ВЛАЖ";
+"please_input_number" = "Введите значение температуры";
+"input_outnumber_limit" = "Зайдайте диапазон температуры";
+
+"select_all" = "Все";
+"sure_delete" = "Выполнить удаление?";
+
+"delete_success" = "Удаление выполнено";//2015.8.6
+"select_reset" = "Выполнить сброс к заводским настройкам?";
+
+
+"mailbox" = "Email:";
+"password" = "Пароль:";
+"validating" = "Проверка...";
+"pwd_error" = "Пароль не совпадает";
+"not_verified" = "Mailbox not verified，ensure SMTP service is enable.";
+"not_support" = "Not supported";
+"check_box" = "Tick on option box - Sender and Receipent will be from same address";
+"recipient" = "Recipient:";
+
+"set_preset" = "Set Preset View Position";
+"check_preset" = "View Preset Position";
+
+"confirm_unblock" = "Удалить из списка устройство:";
+
+"sound_alarm" = "Sound Alarm";
+
+"humidity_min" = "Lower Humidity Limit";
+"humidity_max" = "Upper Humidity Limit";
+"input_humidity_limit" = "Humidity limit range:30~90(Up), 10~70(Low)";
+"input_TH_tips" = "Reminder(Limit range):\nTemperature:  5~65(Up),  -5~55(Low)\nHumidity:      30~90(Up), 10~70(Low)";
+
+//手动设置邮箱翻译
+"recipient" = "Recipient:";
+"recipient_number" = "Support three recipients,separate by commas";
+"recipient_not_empty" = "Recipient list cannot be empty";
+"recipient_scope" = "Limit to only three receipients";
+"recipient_length_format" = "Email must be 5 to 31 characters in length";
+"recipient_format" = "Mail format error";
+
+"sender" = "Sender:";
+"input_sender" = "Input sender's mail address";
+"sender_not_empty" = "The sender can't be empty";
+"sender_scope" = "The sender can't exceed one";
+"sender_length_format" = "Email must be 5 to 31 characters in length";
+"sender_format" = "Mail format error";
+
+"smtp_address" = "Smtp Address:";
+"smtp_number" = "Support five smtps.Separated stmps by commas";
+"smtp_not_empty" = "Smtp address can't be empty";
+"smtp_scope" = "Limit to only five smtps";
+"smtp_format" = "Smtp format error";
+
+"port" = "Port:";
+"input_port" = "Input port number";
+"non_encrypted" = "25(unencrypted)";
+"port_not_empty" = "Port number cannot be empty";
+"port_scope" = "Port number should be between 0 to 65535";
+"port_format" = "Port format to be only numeric";
+
+"encryption_mode" = "Encryption mode";
+"one_encryption" = "None";
+
+"manual_setting" = "Manual setting";
+"pwd_smtp_error" = "Smtp or password is incorrect";
+
+//DoorBell_2016.1.11
+"somebody_visit" = "Vistor Alert";
+
+"door_bell" = "Doorbell";
+"confirm_open" = "Open the door?";
+"not_support_operation" = "Device not support";
+"too_frequent" = "The operation is too frequent.";
+"not_open" = "GPIO not open";
+
+"motion_adjust" = "Motion Level";
+"no_playback_file" = "No saving files";
+
+//V8.4.1_新增
+"playback_TFCard" = "Видео на камере";
+"playback_cellphone" = "Видео на телефоне";
+"no_record_file" = "Нет видеозаписей";
+"no_previous_files" = "Ранее нет файлов";
+"no_next_files" = "Далее нет фалов";
+"file_info" = "Информация о файле";
+"save_ok_photoalbum" = "Сохранено";
+"save_to_photoalbum" = "Сохранено в фотоальбом";
+"save_photoalbum_tip" = "Pls set Iphone menu‘setting-privacy-photo’ to be allowed view your photo.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+

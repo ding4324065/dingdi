@@ -1,0 +1,691 @@
+"account_login" = "Account Login";
+"input_username" = "Login mit Email / Account ID / Mobilnummer";
+"input_password" = "Account-Passwort eingeben";
+"login" = "Login";
+"unInputUsername" = "Login mit Email / Account ID / Mobilnummer";
+"unInputPassword" = "Account-Passwort eingeben";
+
+"login_failure" = "Login fehlgeschlagen";
+"user_unexist" = "Benutzer existiert nicht";
+"password_error" = "Password Fehler";
+
+"ok" = "OK";
+"cancel" = "Abbrechen";
+
+"contact" = "Gerät-Liste";
+"discover" = "Schütteln um Kamera zu suchen";
+"no_device" = "Keine verfügbare Kamera";
+"recent" = "Neu";
+"toolbox" = "Werkzeuge";
+"setting" = "Systemeinstellung";
+
+"logout" = "Ausloggen";
+"exit" = "Beenden";
+
+"account_information" = "Account Information";
+
+"exit_prompt" = "Zum beenden bestätigen";
+"logout_prompt" = "Zum beenden bestätigen";
+"call" = "Kamera anrufen";
+"monitor" = "Fernzugriff Live-Übertragung";
+"accept" = "Annehmen";
+"reject" = "Auflegen";
+
+"input_monitor_id" = "Kamera-ID eingeben um den Monitor zu starten";
+"input_call_id" = "Kamera-ID eingeben zum anrufen";
+"input_device_password" = "Kamera-Passwort eingeben";
+
+"account_info" = "Account Info";
+"check_update" = "Version updaten";
+"screenshot" = "Sschnappschuss";
+"about_us" = "About";
+
+"screenshot_success" = "Schnappschuss erfolgreich";
+
+"device_name" = "Kamera-Name ändern";
+"device_password" = "Kamera-Passwort";
+"delete_device" = "Kamera löschen";
+"delete" = "Löschen";
+
+"sure_to_delete" = "Kamera löschen bestätigen";
+"sure_to_clear" = "Daten entfernen bestätigen";
+"operator_success" = "Ändern erfolgreich";
+"operator_failure" = "Ändern fehlgeschlagen";
+"operator_failure_unsupport_wifi" = "Ändern fehlgeschlagen, Kamera unterstützt kein WiFi";
+"operator_failure_unsupport_wire" = "Äbdern fehlgeschlagen, Kamera unterstützt keine Ethernet-Verbindung";
+"modify_success" = "Ändern erfolgreich";
+"modify_failure" = "Ändern fehlgeschlagen";
+"no_permission" = "Erlaubnis verweigert";
+
+"online" = "(Online)";
+"offline" = "(Offline)";
+"add_contact" = "Kamera hinzufügen";
+"add_Wi-Fi" = "WiFi-Konfiguration";
+"add_new_device" = "Neue Kamera hinzufügen";
+"addByManual" = "Kamera hinzufügen";
+"add_manual" = "Manuell hinzüfügen";
+"input_contact_id" = "Kamera-ID eingeben";
+"input_contact_name" = "Kamera-Name eingeben";
+"input_contact_password" = "Kamera-Passwort eingeben";
+
+"next" = "Weiter";
+"save" = "Speichern";
+
+"contact_already_exists" = "Gerät existiert schonDevice already exist";
+
+"monitor" = "Fernzugriff Live-Übertragung";
+"chat" = "Kamera anrufen";
+"message" = "Nachricht";
+"playback" = "Wiedergabe";
+"control" = "Gerät-Einstellung";
+"device_control" = "Gerät-Einstellung";
+"modify" = "Bearbeiten";
+
+"recent_one_day" = "Ein Tag";
+"recent_three_day" = "Drei Tage";
+"recent_one_month" = "Ein Monat";
+"custom" = "Angepasst";
+
+"device_password_error" = "Kamera-Passwort Fehler";
+"net_exception" = "Prüfen Sie den Netzwerk-Status";
+
+"about" = "About";
+"about_text" = "Camnoopy, verfügt über eine Live-Übertragung, Überwachung aus der Ferne, die Möglichkeit Videos zu teilen und andere Vergleichbare Video Anwendungen für die Familie, sowie Kleinstunternehmen..\n◎Mit Camnoopy ist es einfach Live-Übertragungen und die Aufnahmen des Tages aus ihrem Zuhause, Laden oder Büro anzusehen.\n◎Sie erhalten bei einem Ausnahmefall ein Alarm, von den Orten um die Sie sich sorgen und somit erhöhen Sie auch Gleichzeitig die Sicherheit.\n◎Mit Camnoopy können Sie die interessantesten Momente mit denen teilen die Ihnen am wichtigsten sind.\n";
+
+"start_time" = "Startzeit:";
+"end_time" = "Endzeit:";
+"search" = "Suche";
+
+"unselected_start_time" = "Video-Startzeit wählen";
+"unselected_end_time" = "Video_Endzeit wählen";
+"start_time_must_before_end_time" = "Startzeit darf Endzeit nicht überschreiten";
+
+"account_info" = "Account Information";
+"account" = "Account";
+"email" = "Email";
+"phone_number" = "Mobilnummer";
+"modify_login_password" = "Passwort ändern";
+
+"unbind" = "Nicht verbinden";
+"UNbind" = "Trennen";
+"modify_password" = "Passwort ändern";
+"input_original_password" = "Alter Passwort eingeben";
+"input_new_password" = "Neues Passwort eingeben";
+"confirm_input" = "Passwort bestätigen";
+"two_passwords_not_match" = "Passwörter stimmen nicht überein";
+"password_too_long" = "Passwort darf nicht mehr als 100 Zeichen haben";
+"original_password_error" = "Standard-Passwort Fehler";
+
+"unknown_error" = "Unbekannter Fehler";
+
+"sure_to_unbind_email" = "Email trennen bestätigen";
+"sure_to_unbind_phone" = "Mobiltelefon trennen bestätigen?";
+
+"bind_email" = "Email verbinden";
+"unbind_email" = "Email-Adresse ändern";
+"input_email" = "Email-Adresse eingeben";
+"email_length_error" = "Email muss 5-31 Zeichen lang sein";
+"email_used" = "Email-Adresse wird bereits genutzt";
+"email_format_error" = "Email-Adresse Fehler";
+
+"input_login_password" = "Login-Passwort eingeben";
+"session_error" = "Login Fehler. Account ist mit einem anderen Gerät verbunden, versuchen Sie es erneut.";
+
+//"control" = "Steuerung";
+
+"time_set" = "Datum und Zeit";
+"media_set" = "Medieneinstellung";
+"security_set" = "Sicherheitseinstellung";
+"network_set" = "Netzwerkeinstellung";
+"alarm_set" = "Alarmeinstellung";
+"record_set" = "Aufnahmeeinstellung";
+"defenceArea_set" = "Abwehrbereichseinstellung";
+"remote_set" = "Ferneinstellung";
+"remote_reset" = "Kamera zurücksetzten";
+"device_update" = "Gerät-Firmware updaten";
+"time_zone" = "Zeitzone";
+"apply" = "Anwenden";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "Video-Format";
+"volume" = "Lautstärke";
+"modify_device_password" = "Gerät-Passwort ändern";
+
+"motion" = "Bewegunserkennung";
+"buzzer" = "Alarm-Auslöser";
+"buzzer_time" = "Alarm-Auslöser Zeit(Minute)";
+
+"alarm_email" = "Email mitteilen";
+"bind_account" = "Account verbinden";
+
+"sure_to_unbind_account" = "Bestätige um ID von der APP-Beanchrichtigung zu entfernen";
+"input_alarm_id" = "Account-ID eingeben um Benachrichtigung zu erhalten";
+"id_too_long" = "ID darf 9 Zeichen nicht überschreiten";
+"alarm_id_must_zero_begin" = "Alarm-ID muss starten mit \'0\' ";
+"add_bind_account_prompt1" = "Kann nur hinzufügen";
+"add_bind_account_prompt2" = "Alarm-Account mitteilen";
+
+"remote_defence" = "Fernzugriff Kamera rüsten";
+"remote_record" = "Remote Access Recording";
+
+"record_type" = "Aufnahme-Typ";
+"record_time" = "Aufnahme-Zeit(Minute)";
+
+"manual_record" = "24 Stunden-Aufnahme";
+"alarm_record" = "Alarm-Auslöser-Aufnahme";
+"timer_record" = "Zeitplan-Aufnahme";
+"plan_time_table" = "Zeitplan-Tabelle";
+
+"net_type" = "Netzwerk-Typ";
+"wired" = "Ethernet";
+"wifi" = "WiFi";
+"alarm_push" = "Alarmbenachrichtigung-ID";
+
+"change_net_prompt" = "Wechsel aus dem aktuellen Netzwerk führt zur Trennung, bestätigen Sie diesen Prozess!!";
+
+"wifi_list" = "WiFi-Liste";
+
+"input_wifi_password" = "Router-WiFi-Passwort eingeben";
+"wifi_password_format_error" = "WiFi-Passwort Fehler";
+
+"remote" = "Fernbedienung";
+"hall" = "Halle";
+"window" = "Fenster";
+"balcony" = "Balkon";
+"bedroom" = "Schlafzimmer";
+"kitchen" = "Küche";
+"courtyard" = "Hof";
+"door_lock" = "Tür";
+"other" = "Andere";
+"infrared" = "PIR-Sensor";
+"smoke" = "Rauch";
+"gas" = "Gas";
+
+"clear_defence_prompt" = "Säubern bestätigen";
+"learn_defence_prompt" = "Klicke OK zum paaren und verschlüsseln des Sensors";
+"device_not_support_defence_area" = "Gerät unterstüzt Abwehrbereich nicht";
+
+"bind_phone" = "Mobilnummer verbinden";
+"unbind_phone" = "Mobilnummer trennen";
+"input_phone" = "Mobilnummmer eingeben";
+
+"china" = "China";
+"america" = "Amerika";
+
+"phone_length_error" = "Nummer muss 6-15 Zeichen lang sein";
+
+"phone_used" = "Mobilnummer wird bereits genutzt";
+"get_phone_code_too_times" = "Versuche es später. Zu viele Bestätigungscode gesendet";
+"phone_format_error" = "Mobilnummer-Format Fehler";
+
+"phone_code_was_send_to" = "Bestätigungscode gesendet an";
+"phone_check_code" = "Bestätigungscode";
+
+"choose_country" = "Wähle Land";
+
+"email_id_login" = "Email/ Account-ID Login";
+"phone_login" = "Mobilnummer Login";
+
+"register_success_prompt" = "Anmelden erfolgreich";
+
+"searching_device_in_local" = "Suche Gerät im lokalen Netzwerk";
+
+"create_init_password_prompt" = "Gerät-passwort darf nicht leer sein!";
+
+"device_already_exist_password" = "Gerät hinzufügen fehlgeschlagen. Passwort existiert bereits.";
+
+"call_in_prompt" = "Anrufen von";
+"call_out_prompt" = "Anruf an";
+"monitor_out_prompt" = "Verbinden..";
+
+"net_warning_prompt" = "Aktuelles Netzwerk nicht verfügbar, prüfen Sie die Netzwerkeinstellung und Router-Konfiguration";
+
+"now_version_is_latest" = "Letzte Version, kein Update notwendig.";
+"other_was_check_device_update" = "Versuche es später";
+"device_not_support" = "Gerät wird nicht unterstützt";
+
+"send" = "Senden";
+
+"alarm_history" = "Alarm-Protokoll";
+"alarm_device" = "Gerät:";
+"alarm_type" = "Alarm-Typ:";
+
+"input_message" = "Nachricht eingeben";
+"message_too_long" = "Nachricht zu lang";
+"can_not_send_message_to_myself" = "Nachricht kann nicht an sie selbst gesendet werden";
+"send_failure" = "Senden fehlgeschlagen";
+
+"device" = "Gerät";
+"view" = "Ansicht";
+"extern_alarm" = "Äußerer-Alarm";
+"motion_dect_alarm" = "Bewegunserkennung-Alarm";
+"emergency_alarm" = "Notfall-Alarm";
+"debug_alarm" = "Fehler beheben";
+"ext_line_alarm" = "I/O Alarm";
+"low_vol_alarm" = "Niederspannung-Alarm";
+"pir_alarm" = "PIR-Erkennung-Alarm";
+"defence_enable_alarm" = "Abwehr aktivieren";
+"defence_disable_alarm" = "Abwehr deaktivieren";
+"battery_low_alarm" = "Niedrige Batterie";
+"parameters_upload_alarm" = "Daten auf Server hochladen";
+"temperature_alarm" = "Temp. und Feucht. Alarm";
+"doorbell_alarm" = "Gast-Benachrichtigung";
+"keypress_alarm" = "SOS-Alarm";
+"record_failed_alarm" = "Aufnahme fehlgeschlagen";
+
+"forget_password" = "Passwort vergessen?";
+
+"device_password_too_long" = "Gerät-Passwort darf 10 Zeichen nicht überschreiten";
+"password_zero_format_error" = "Gerät-Passwort muss mit Ziffern kombiniert werden und darf nicht beginnen mit \'t be \'0\'";
+"password_number_format_error" = "Gerät-Passwort muss Ziffern von 0-9 enthalten";
+
+"set_wifi" = "WiFi-Verbindung festlegen";
+
+"no_connect_wifi" = "Mobiltelefon oder Tablet muss mit dem WiFi verbunden werden";
+"set" = "Festlegen";
+
+"infrared_remote" = "Infrarot-Fernbedienung";
+
+"input_ssid" = "WiFi-SSID eingeben";
+
+
+"discovered" = "Finden";
+"new_device" = "Neues Gerät";
+"local_device_list" = "Neue Gerät-Liste";
+
+"device_id_zero_format_error" = "Gerät-ID muss Ziffern enthalten und darf nicht beginnen mit \'0\'";
+
+"id_unknown_error" = "Unbekannter Fehler";
+"id_overdate" = "Gerät-ID ungültig";
+"id_disabled" = "Gerät-ID verhindert";
+"id_inactived" = "Gerät-ID ist deaktiviert";
+"id_offline" = "Gerät ist offline, prüfen Sie den Netzwerk-Status";
+"id_busy" = "Versuch es später";
+"id_powerdown" = "Gerät-ID ist ausgeschalten";
+"id_connect_failed" = "Prüfen Sie den Netzwerk-Status";
+"id_hangup" = "Auflegen";
+"id_timeout" = "Netzwerk-Status ist nicht stabil, versuche es später";
+"id_internal_error" = "Interner Fehler";
+"id_no_accept" = "Keine Antwort";
+"id_password_error" = "Gerät-Passwort Fehler";
+"id_not_support" = "Gerät-ID wird nicht unterstützt";
+
+"cur_version_is" = "Aktuelle Version";
+"can_update_to" = "Neue Version verfügbar, wollen Sie updaten?";
+"start_update" = "Updaten..";
+"update_failed" = "Update fehlgeschlagen";
+"cancel_update" = "Update abbrechen";
+
+
+
+"loading" = "Laden...";
+"cur_version" = "Akutelle Version";
+"kernel_version" = "Kernel Version";
+
+
+"rootfs_version" = "Roots Version";
+"uboot_version" = "uBoot Version";
+
+"device_info" = "Gerät Info";
+
+"release_new_version"="Neue Version verfügbar";
+"ask_update_immediately"="Jetzt upgraden?";
+"remain_me"="Später erinnern";
+"update_me"="Sofort updaten";
+"rate_me"="Geben Sie uns eine Berwertung";
+"skip_me"="Version-Update überspringen";
+"latest_version"="Aktuellste Version";
+"quit_update"="Upgrade beenden";
+
+"no_init_password_device" = "Gerät-Passwort ist leer";
+
+"defence_group" = "Abwehrbereich";
+"defence_item" = "Sensor";
+"already_learn" = "Verbunden und verschlüsselt";
+"learning" = "Verbinden verschlüsseln in Bearbeitung...";
+"clearing" = "Löschen in Bearbeitung...";
+
+"qrcode_add" = "mit QR-Code verbinden";
+"qrcode" = "WiFi-Einstellung mit QR-Code";
+"make" = "QR-Scancode erstellen";
+"help" = "FAQ";
+
+"add_device" = "Gerät hinzufügen";
+
+"empty_contact_prompt" = "Gerät-Liste ist leer, Gerät hinzufügen!";
+"smart_key" = "WiFi mit Smart-IR-Key festlegen";
+"smart_key_add" = "Smart-IR-Key";
+"search_local_area" = "Lokales Netzwerk scannen";
+"manually_add" = "Gerät manuell hinzufügen";
+
+"input_smart_key_prompt" = "Smart-IR-Key eingeben, und Medieneinstellung auf volle Lautstärke stellen.";
+
+"input_wifi_password_sk" = "WiFi-Passwort eingeben";
+"input_device_password_sk" = "Gerät-Passwort eingeben";
+"set_wifi_content_prompt" = "Smart-IR-Key an Kamera halten bis ein “Ding”-Ton ertönt.";
+"set_wifi_content_prompt1" = "Positioniere Smart-IR-Key vor der Kamera:";
+"set_wifi_content_prompt2" = "“Ding”-Ton ist ertönt, klicke auf 'Gehört'";
+"set_wifi_content_prompt3" = "“Bi-Bi-Bi”-Ton ist ertönt, klicke auf Zurück und gebe das Passwort erneut ein";
+"set_scanning_code_prompt" = "Halte den QR-Code vor die Kamera bis ein 'Ding'-Ton ertönt";
+"heard" = "Gehört";
+"back" = "Zurück";
+"waiting_content_prompt" = "Warte auf WiFi-Verbindung";
+"set_wifi_failed_title" = "Gerät nicht verbunden, versuche es später";
+
+
+"try_again" = "Nochmal versuchen";
+
+"qrcode_prompt" = "Positioniere den QR-Code des Mobiltelefon 20-30cm vor der Kamera und erlaube der Kamera den QR-Code zu scannen. Halte den Code bis ein 'Ding' ertönt.";
+
+"modify_visitor_password" = "Gast-Passwort";
+"auto_update" = "Automatisches Update";
+
+"accept_alarm" = "Beanchrichtigung erhalten";
+"human_infrared_detection" = "PIR-Sensor";
+"wired_alarm_input" = "Sensor-Eingabe verbunden";
+"wired_alarm_output" = "Sensor-Ausgabe verbunden";
+"image_inversion" = "Bild drehen";
+
+"TH_alert" = "Temp. & Feucht. Alarm";
+"temperature_now" = "Aktuelle Temperatur";
+"humidity_now" = "Aktuelle Feuchtigkeit";
+"temperature_max" = "Oberes Temperatur-Limt";
+"temperature_min" = "Unteres Temperatur-Limit";
+"input_new_visitor_password" = "Gast-Passwort eingeben";
+"human_infrared" = "PIR-Sensor-Schalter";
+"anonymous_login" = "Anonymer Login";
+
+"anonymous" = "Anonym";
+
+"remote_record_switch" = "Aufnahme I/O";
+
+"modify_manager_password" = "Admin-Passwort";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "Anzahl der Zuschauer:";
+
+"time_zone_set" = "Zeitzoneneinstellung";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "Anmelden";
+"phone_register" = "Mobiltelefon";
+"email_register" = "Email";
+"register_account" = "Account registrieren";
+
+"storage_info" = "Micro-SD-Karte Info";
+"sd_card_capacity" = "Kaptazität:";
+"sd_card_rem_capacity" = "Verfügbar:";
+"u_disk_capacity" = "Flash-Disk Kapazität:";
+"u_disk_rem_capacity" = "Vorhandene Kapazität:";
+"sd_card_format" = "Löschen & Format";
+"no_storage" = "Micro-SD-Karte ist nicht verfügbar.";
+"device_not_support_no_storage" = "Gerät unterstützt keine SD-Karte oder sie wurde nicht gefunden";
+"not_support_format" = "Formatieren wird nicht unterstützt.";
+"sd_format_success" = "Speicher erfolgreich gelöscht";
+"format_sd_card" = "Format SD-Card";
+"confirm_format" = "Alle Daten werden mit dieser Option gelöscht. Löschen bestätitgen";
+
+"device_not_support_sensor_switch" = "Aktuelles Gerät unterstüzt keine Sensorpaarung";
+"learn_code" = "Parrungs- und Codesensor";
+
+"no_record" = "Keine Aufnahme";
+//"unknown_error" = "Unbekannter Fehler";
+"no_more_record" = "Aufnahme-Liste ist leer.";
+
+//----------
+"scan_switch" = "Ändere Stapel";
+"scan_complete" = "Hinzugefügt";
+"scan_add_successfully" = "Hinzufügen erfolgreich";
+"scan_tip" = "Tipps";
+"scan_tryagain" = "Versuch es nochmal";
+"scan_error01" = "WiFi-Passwort Fehler";
+"scan_error02" = "5G-Router wird von dem Gerät nicht unterstützt";
+"scan_error03" = "Router-DHCP ist ausgeschalten";
+
+"mainmenu_alarmset" = "Alarm festlegen";
+"mainmenu_help" = "FAQ";
+
+"adddevice_btn_rader" = "Radar";
+"adddevice_btn_manual" = "Handbuch";
+"adddevice_tip" = "Kamera verbindet sich mit WiFi";
+"adddevice_btn_setwifi" = "WiFi festlegen";
+"adddevice_btn_skip" = "Überspringen";
+"add_guard_text06" = "Gerät einschalten";
+"add_guard_text07" = "Gerät einschalten und auf 'Di-Di-Di'-Ton der Kamera warten;\nif Kamera neustarten, wenn kein Ton erklingt";
+"waiting_content_prompt01" = "Wart auf Verbindung";
+"waiting_content_prompt02" = "Verbinde...\n Verbindung wird bald abgeschlossen werden.";
+"adddevice_warm_tip" = "Tipps: Nutze den Englischen Modus um das Passwort einzugeben.";
+"addDevice_warm_tips" = "Tipps: Um Datenverlust zu vermeiden, ändere das Gerät-Passwort auf das Standard-Passwort!";
+
+"manual_set_time" = "Zeit manuell festlegen";
+"network_set_time" = "Netzwerk-System-Zeit";
+"year" = "Jahr";
+"month" = "Monat";
+"day" = "Tag";
+"hour" = "Stunde";
+"minute" = "Min";
+"mac_address" = "MAC-Adresse";
+"enabled" = "Deaktiviert";
+"Automatic_get_ip" = "IP automatisch suchen";
+"ip_address" = "IP";
+"Subnet_mask" = "Subnetz-Maske";
+"gateway" = "Gateway";
+"dns" = "DNS";
+"input_ip" = "IP-Adresse eingeben";
+"input_subnet" = "Subnetz-Maske eingeben";
+"input_gateway" = "Gateway eingeben";
+"input_dns" = "DNS eingeben";
+"connected" = "Verbunden";
+"connect_ipc_wifi" = "Verbinden Sie das WiFi--%@,Passwort 12345678";
+
+"one_min" = "1 Min";
+"two_min" = "2 Min";
+"three_min" = "3 min";
+"addshield_device" = "Zur Block-Liste hinzufügen";
+"addshield_tip" = "APP erhält keine Alarm-Beanchrichtigung, wenn die ID geblockt ist";
+"already_shield" = "Account-ID der Block-Liste hinzufügen";
+"alarm_shield_device" = "Gerät-Alarm blocken";
+"alarm_interval" = "Benachrichtigungs-Intervall (Sek.)";
+
+"smart_cameras" = "Smart Camera";
+"check_for_setting" = "Authentifizierung...";
+
+
+"pull_to_refresh" = "Ziehe um Gerät-Status zu aktualisieren";
+"release_refresh" = "Loslassen um Gerät-Status zu aktualisieren";
+"loading" = "Aktualisiere...";
+
+"resend" = "Erneut senden";
+"Skip" = "Überspringen";
+
+"tempe_format_error" = "Format Fehler";
+"set_TH_alert" = "Temp. & Feucht. Alarm festlegen";
+"please_input_number" = "Temperatur-Wert eingeben";
+"input_outnumber_limit" = "Überschreitet Wert-Einstellung";
+
+"select_all" = "Alle";
+"sure_delete" = "Löschen bestätigen";
+
+"delete_success" = "Löschen erfolgreich";//2015.8.6
+"select_reset" = "Gerät auf Werkeinstellung zurücksetzten?";
+
+
+"mailbox" = "Email:";
+"password" = "Passwort:";
+"validating" = "Prüfe...";
+"pwd_error" = "Passwort stimmt nicht überein";
+"not_verified" = "Mailbox nicht verifiziert，prüfen Sie, ob SMTP-Service aktiviert ist.";
+"not_support" = "Nicht unterstützt";
+"check_box" = "Klicke auf Option-Box - Sender und Empfänger haben die selbe Adresse";
+"recipient" = "Empfänger:";
+
+"set_preset" = "Ansicht-Voreinstellung festlegen";
+"check_preset" = "Voreinstellung-Position anzeigen";
+
+"confirm_unblock" = "Gerät von der Block-Liste entfernen:";
+
+"sound_alarm" = "Alarm-Ton";
+
+"humidity_min" = "Unteres Feuchtigkeit-Limit";
+"humidity_max" = "Oberes Feuchtigkeit-Limit";
+"input_humidity_limit" = "Feuchtigkeit-Limit-Bereich:30~90(Hoch), 10~70(Niedrig)";
+"input_TH_tips" = "Reminder(Limit range):\nTemperature:  5~65(Up),  -5~55(Low)\nHumidity:      30~90(Up), 10~70(Low)";
+
+//手动设置邮箱翻译
+"recipient" = "Empfänger:";
+"recipient_number" = "Untersützt 3 Empfänger, mit Kommas trennen";
+"recipient_not_empty" = "Emüfänger-Liste darf nicht leer sein";
+"recipient_scope" = "Maximal 3 Empfänger";
+"recipient_length_format" = "Email muss 5-31 Zeichen lang sein";
+"recipient_format" = "Mail format error";
+
+"sender" = "Sender:";
+"input_sender" = "Sender-Email-Adresse eingeben";
+"sender_not_empty" = "Sender darf nicht leer sein";
+"sender_scope" = "Maximal 1 Sender möglich";
+"sender_length_format" = "Email muss 5-31 Zeichen lang sein";
+"sender_format" = "Mail-Format Fehler";
+
+"smtp_address" = "SMTP-Adresse:";
+"smtp_number" = "Unterstützt 5 SMTPs. SMTPs mit Komma trennen";
+"smtp_not_empty" = "SMTP-Adresse darf nicht leer sein";
+"smtp_scope" = "Maximal 5 SMTPs erlaubt";
+"smtp_format" = "SMTP-Format Fehler";
+
+"port" = "Port:";
+"input_port" = "Port-Nummer eingeben";
+"non_encrypted" = "25(verschlüsselt)";
+"port_not_empty" = "Port-Nummer darf nicht leer sein";
+"port_scope" = "Port-Nummer muss zwischen 0-65535 sein";
+"port_format" = "Port-Format muss aus Ziffern bestehen";
+
+"encryption_mode" = "Verschlüsselungs-Modus";
+"one_encryption" = "Keine";
+
+"manual_setting" = "Handbuch-Einstellung";
+"pwd_smtp_error" = "SMTP oder Passwort ist falsch";
+
+//DoorBell_2016.1.11
+"somebody_visit" = "Gast-Alarm";
+
+"door_bell" = "Türklingel";
+"confirm_open" = "Tür öffnen?";
+"not_support_operation" = "Gerät nicht unterstützt";
+"too_frequent" = "Der Betrieb ist zu häufig.";
+"not_open" = "GPIO nicht offen";
+
+"motion_adjust" = "Bewegungs-Level";
+"no_playback_file" = "Keine gespeicherten Daten";
+
+
+//V8.4.1_新增
+"playback_TFCard" = "Fern-Aufnahme";
+"playback_cellphone" = "Lokal-Aufnahme";
+"no_record_file" = "Keine Aufnahme-Dateien";
+"no_previous_files" = "Keine vorherigen Dateien";
+"no_next_files" = "Keine nächste Datei";
+"file_info" = "Datei-Information";
+"save_ok_photoalbum" = "Gespeichert";
+"save_to_photoalbum" = "In Foto-Album speichern";
+"save_photoalbum_tip" = "Unter Iphone Menu-Einstellung‘Einstellung-Privat-Foto’ erlauben die Fotos anzuzeigen.";
+
+
+"screenshot_list_empty" = "Screenshot-Liste ist leer !";
+"alarm_vibration" = "Alarm-Vibration";
+"alarm_bell" = "Alarm-Klingel";
+"Configuration_WiFi" = "WiFi-Konfiguration";
+"restart_set" = "Gerät neustarten";
+"modify_defenceArea_name" = "Name änderen";
+"modify_channel_name" = "Name ändern"; //2016.1.18
+"phone_code_error" = "Bestätigungscode ist falsch";
+"wifi_set_title" = "WiFi-Einstellung";
+"device_password_too_simple" = "Gerät-Passwort ist zu einfach, Neues Passwort muss 6-100 Zeichen, bestehend aus Alphabet und Ziffern, enhalten.";
+"device_new_password_prompt" = "Neues Passwort muss 6-100 Zeichen, bestehend aus Alphabet und Ziffern enthalten";
+"set_wifi_failed_prompt" = "Mögliche Gründe:\n1.WiFi-Passwort falsch \n2.Kamera untersützt keine Router mit 5 Ghz Bandbreite \n3.WiFi-Netzwerk unstabil";
+"set_wifi_success_title" = "Einstellung erfolgreich!";
+"set_initPassword" = "Passwort festlegen";
+"set_TH_alert" = "Temp. & Feucht. Alarm festlegen";
+"select_restart" = "Gerät neustarten?";
+
+"questionone" = "Q: Wie verbinde ich die Kamera mit dem Mobiltelefon??";
+"questiontwo" = "Q: Wie verbinde ich die Kamera mit dem WiFi?";
+"questionthree" = "Q: Wie resette ich die Kamera?";
+"questionfour" = "Q: Wie starte ich die Videoaufnahme mit der Kamera?";
+"questionfive" = "Q: Wie paare ich den RF-Wireless-Sensors mit der Kamera?";
+"questionsix" = "Q: Wie ändere ich das Standard Admin Passwort?";
+"questionseven" = "Q: Wie update ich die Firmware mit dem Mobiltelefon?";
+"questioneight" = "Q: Wie starte ich die Videowiedergabe?";
+"questionnine" = "Q: Wie update ich die APP Version?";
+"questionten" = "Q: Wie aktiviere ich die Vibration und den Klingelton für die Alarm-Benachrichtigung mit der APP?";
+"questioneleven" = "Q: Wenn ich auf den Live-Stream gehe, bekomme ich die Nachricht Passwort ist falsch.";
+"questiontwelve" = "Q: Gerät wird als Offline angezeigt unter “Gerät-Liste”";
+"questionthirteen" = "Q: WiFi-Router-Name ist nicht in der WiFi-List.";
+"questionfourteen" = "Q: Video-Datei wird nicht für die Videowiedergabe gefunden";
+"questionfifteen" = "Q: Kamera stürzt während Firmware-Upgrade oder vor dem Ende ab.";
+"questionsixteen" = "Q: IR-Schnitt ändert häufig und sorgt für Bildänderung von Farb- zu Nachtsicht";
+"questionseventeen" = "Q: 'Flüster'-Sound erscheint, wenn Kamera und Mobiltelefon in der selben Betriebsumgebung sind.";
+"questioneighteen" = "Q: Es ist nicht möglich die Kamera mit dem WiFi zu verbinden oder die Verbindung ist unstabil:";
+"questionnineteen" = "Q: Wie exportiere ich Video-Datein von der microSD-Karte auf den PC?";
+"questiontwenty" = "Q: Was ist zu tun, wenn das Gerät offline ist?";
+"questionTwentyone" = "Q:APP bekommt kein Alarm-Benachrichtigung";
+"questionTwentytwo" = "Q: Kamera registriert die microSD-Karte nicht";
+"answerone" = "A: Methode 1: Verbinde das Ethernet-Kabel mit der Kamera um sie mit dem Internet zu verbinden. Drücke das “+” Symbol oben Rechts auf dem Bildschirm. Wähle manuell hinzufügen und füge die Kamera-ID, angepassten Gerät-Name und  Kamera-Passwort ein. Sie können sich auf mit dem WiFi unter Netzwerk-Einstellungen verbinden – WiFi-Liste. Wenn das RJ45-Kabel nicht verfügbar ist, drücken und halten sie den Reset-Knopf auf der Kamera bis ein 'Swish'-Ton ertönt, gefolgt von einem 'Di-Di-Di'-Ton. Klick auf das “+” Symbol oben rechts in der Ecke und Wähle Smart Wifi Konfiguration. Folge der APP-Anleitung zum konfigurieren. Router wird mit ihrem Mobiltelefon verbunden, gebe nun das WiFi-Passwort des Routers ein, klicke “Weiter” und warte auf die Verbindung. Bei einem fehlschlag, prüfe ob das WiFi-Passwort korrekt ist oder probiere es mit Methode II.";
+"answertwo" = "A: Methode 1: Verbinde das Ethernet-Kabel mit der Kamera um sie mit dem Internet zu verbinden. Drücke das “+” Symbol oben Rechts auf dem Bildschirm. Wähle manuell hinzufügen und füge die Kamera-ID, angepassten Gerät-Name und  Kamera-Passwort ein. Sie können sich auf mit dem WiFi unter Netzwerk-Einstellungen verbinden – WiFi-Liste. . Methode 2: Schalte die Kamera ein, aber verbinde das Ethernet-Kabel nicht mit der Kamera, nun drücke und halte den Reset-Knopf auf der Kamera und warte auf den 'Di-Di-Di'-Ton. Klicke auf das '+' Symbol oben rechts auf dem Bildschirm und wähle Smart WiFi Konfiguration. Folge der APP-Anleitung zum konfigurieren. Router wird mit durch das WiFi mit dem Mobiltelefon verbunden, gebe nun das WiFi-Passwort des Routers ein, klicke 'Weiter' und warte auf die Verbindung. Bei einem fehlschlag, gehe sicher, dass das WiFi-Passwort korrekt ist oder probiere es mit Methode II. Notiz: Diese Methode benötigt Kamera UBoot Version 4 oder höher, Kernel Version 3 oder höher und Firmware Version 13 oder höher.";
+"answerthree" = "A: 1) Drücke und halte den Reset-Knopf mit einem spitzen Gegenstand (Nadel, Zahnstocher) um die Kamera zu reseten. Der Reset-Knopf befindet sich auf der Rückseite der Kamera. Wenn der Reset-Knopf korrekt gedrückt wurde, ertönt ein Ton (“Di”) , gefolgt von “Swing”-Ton, dies zeigt, dass die Kamera erfolgreich resettet wurde. Die Kamera lässt sich auch per APP resetten. Gehe dazu auf Geräteinstellung und klicke auf auf Werkeinstellung zurücksetzen.";
+"answerfour" = "A: Fügen sie eine formatierte (FAT32-Format kann mit dem PC erledigt werden) Micro-SD-Karte in den dafür vorgesehenen Slot der Kamera ein und starten die Kamera neu. Die maximale Kapazität, die von der Kamera unterstützt wird ist eine Micro-SD-Karte mit 128GB, aber benutzen sie nur Original Micro-SD-Karten Klasse 4 oder höher. Unter Geräteinstellungen – Aufnahmeeinstellungen, wähle eine von 3 Optionen zum aufnehmen. Manuelle-Aufnahme bezieht sich auf 24 Stunden Aufnehmen, Alarm-Aufnahme beginnt erst nachdem der Alarm-Auslöser aktiviert wurde ( in einem Intervall von 1 min, 2 min, 3 min) und Zeitplan-Aufnahmen beziehen sich auf die eingestellte Start- und Endzeit. Standard Auflösung für die Aufnahme ist die Standard Bildschärfe.";
+"answerfive" = "A: Kabellose-RF-Sicherheitskomponenten beziehen sich auf die Batterie oder verbundene Sicherheitsprodukte, wie Tür- oder Fenstersensoren, PIR-Wahrnehmungssensoren, Rauch und Gas-Detektoren mit RF-Modulen. Die genutzten Sensoren mit der Kamera müssen bei RF 433 MHz mit 1527 oder 2262 Protokollen liegen. Sie können diese Komponenten von uns oder anderen Verkäufern erhalten. Um die Kamera mit Sensoren zu paaren, klicke auf Kamera-Ansicht und nutze die Vertikale-Ansicht und wische auf dem Bildschirm nach links. Klicke auf Sensorpaarung, Sensor auslösen um mit Kamera zu paaren. Sie können die Voreinstellung für die Posotion des Sensors nach wunsch festlegen. Die Voreinstellung der Position besitzt 5 Postionen und diese sind festgelegt. Position 1 ist ganz links, Position 3 ist in der Mitte, während Position 5 ganz rechts ist. Um die Fernbedienung zu paaren, klicke auf Fernbedienung-Paarung und drücke einen beliebigen Knopf auf der Fernbedienung. Um eine Alarm-Benachrichtigung auf ihr Mobiltelefon zu bekommen, muss die Account-ID in der Benachrichtigungsliste sein und die Kamera im Abwehr-Modus. ";
+"answersix" = "A: Klicke auf Geräteinstellung – Sicherheitseinstellungen um das Admin-Passwort zu ändern und das Gast-Passwort festzulegen.";
+"answerseven" = "A: Um die Kamera-Firmware zu updaten, klicke auf Geräteinstellung – Gerät-Update. Wenn es eine geupdatete Firmware-Version gibt, wird diese runtergeladen. Bei einem fehlschlag, starte die Kamera neu oder stelle die Kamera auf die Werkeinstellung zurück.";
+"answereight" = "A: Um ein Video wiederzugeben, klicke oben links auf das Symbol oder wische auf dem Bidlschirm nach rechts und klicke auf Videowiedergabe. Klicke auf der Kamera, Sie benötigen die Ansicht auf Videowiedergabe und wählen eine Datei von der Micro-SD-Karte oder vom Mobiltelefon.";
+"answernine" = "A: Um nach eine geupdatete APP-Version zu prüfen, klicke oben links auf das Symbol oder wische auf dem Bildschirm nach rechts unter “About” steht die aktuelle APP-Version. Klicke auf “Prüfe Version” nun wird die Version geprüft und falls nötig geupdatet.";
+"answerten" = "A: Um die Alarm-Ton für Alarmbenachrichtigung auszuwählen, klicke oben links aus das Symbol oder wische auf dem Bildschirm nach rechts und klicke auf Einstellung – Alarm-Ton und wähle ein gewünschten Klingelton aus. Wähle die Alarmbenachrichtigung mit Alarm-Ton und Vibration nach wunsch.";
+"answereleven" = "A: Gehen Sie sicher, dass das Kamera-ID-Passwort für den Fernzugriff korrekt ist. Klicke unter Meine Kamera auf das Notizblock-Symbol um das korrekte Passwort einzugeben. Wenn das Kamera-Passwort vergessen wurde, resette die Kamera auf die Werkeinstellungen - Werkeinstellung stellen das Standard-Passwort wieder auf 123.;";
+"answertwelve" = "A: Prüfe das Energiequelle und Router-Netzwerk funktionieren. Netzwerk-Indikator-Licht sollte leuchten, wenn die Verbindung mit dem Internet normal sein sollte. Wenn die Verbindung mit der Kamera fehlschlägt, entfernen sie die Energiequelle und schalten die die Kamera erst nach einer Minute wieder an oder resette die Kamera. Aktualisiere den Verbindungsstatus, indem auf dem Bildschirm nach unten gewischt wird.";
+"answerthirteen" = "A: Die Kamera unterstützt nur WiFi 2.4Ghz. Gehen Sie sicher, dass der Rotuer 2.4Ghz Bandbreite hat. Gehen Sie sicher die SSID für WiFi ist nicht versteckt und nutze das Original Betriebssystem für das Mobiltelefon oder Tablet.";
+"answerfourteen" = "A: Prüfe, dass die Micro-SD-Karte nicht beschädigt ist. Kamera-System-Zeit und Video-Zeit ist ausgeglichen, ändere die Kamera-System-Zeit durch das klicken auf Geräteinstellung (Zahnrad-Symbol) – Datum und Zeit. Entferne die Micro-SD-Karte, schalte die Kamera aus und füge die Micro-SD-Karte ein bevor Sie die Kamera einschalten. Wenn das Problem weiterhin besteht, resette die Kamera auf die Werkeinstellung und versuche es erneut. Ist das Problem immer noch vorhanden, kontaktieren Sie den Verkäufer oder den Hersteller für Unterstützung.";
+"answerfifteen" = "Prüfe Kamera-System-Zeit, nach dem zurücksetzten auf Werkeinstellung. Das gelagerte Datei-Datum und Zeit and beziehen sich auf die Kamera-System-Zeit, daher gehe sicher, dass die System-Zeit richtig ist.";
+"answersixteen" = "A： Die Kamera hat ein IR-Einschnitt-Filter Funktion. Die Kamera wechselt von Farbbilder und Nachtsicht, durch die entsprechende Helligkeit. Folgende Szenen schalten den IR-Einschnitt dauernd schnell ein und aus. IE: Während dem Fernseh gucken in einer dämmernden Umgebung, eine schwach beleuchtete Umgebung und verschieden wechselnde Lichtquellen sorgen dafür, dass der IR-Einschnitt schnell wechselt.";
+"answerseventeen" = "A: 'Flüster'-Ton wird erzäugt durch Ein- und Ausgabe der Kamera und Lautsprecher und Mikrofon des Mobiltelefons. Das Problem ist normal Sie können die Lautstärke des Mobiltelefons leiser stellen oder Stummschalten, um den Ton zu verringern. Bei einer Ansicht von verschiedenen Umgebungen existiert das Produkt nicht.";
+"answereighteen" = "A: 1、Resette die Kamera auf die Werkeinstellung, wenn es unmöglich ist die Kamera mit dem WiFi oder Mobiltelefon zu verbinden. \n2、Kamera untersützt nur 2.4 Ghz Netzwerk-Bandbreite. \n3、Es wird WPA empfohlen / WPA2 Einstellungen mit AES-Verschlüsselung und benutzen Sie nicht TKIP. n4、Schalte die AP-Isolierung unter Router-Fortschritt-Einstellungen. \n7、Einige WiFi-Hotspots, wie der 360 portable WiFi Hotspot mini router wird nicht vom Router unterstützt. \n8 Signal-Störung von der Umgebung kann die WiFi-Verbindung und Bandbreite beeinflussen. Sie können den WiFi-Router-Kanal ändern, falls nötig. \n9、SSID-Passwort sollte nur aus dem Alphabe oder aus Nummern bestehen.  \n10、Schalte die MAC-Filter-Adresse von den Router-Einstellung aus. \n11、Schalte die ARP-Option vom Router aus. \n12、Beschränke Benutzung für G1-Option, wenn Sie ein TotoLink Router benutzen(Korea).  \n13、Beim verbinden mit dem Router behalten Sie eine angemessene Entfernung ein \n14、Gehe sicher, dass die Internet-Brandweite angemessen ist für eine stabile Kamera-Performence. \n15、Singal-Störung bei der Kamera. Platzieren Sie die Kamera nicht in die Nähe eines Wireless Telefon, Mikrowelle oder Geräte, die die Kamera-Performence beeinflussen können. \n16、Gehen Sie sicher, dass WiFi-Signal ist stark. Einige Materialien können das WiFi-Signal schwächen.";
+"answernineteen" = "A：1)Schalte die Kamera aus und entferne die Micro-SD-Karte. Kopiere, zur Sicherung, die Video-Dateien auf den Computer.. \n2）Benutze die PC-Software umd die Datein auf den PC zu übertragen.";
+"answertwenty" = "A: Entferne die Netzwerk Verbindung bevor dem einschalten der Kamera, stecke das Ethernet-Kabel an die Kamera. Resette die Kamera und rekonfiguriere das WiFi durch die Netzwerk-Einstellung - WiFi-Liste der APP..";
+"answerTwentyone" = "A: Gehe sicher die Alarm-Benachrichtigung ist eingeschalten unter Alarmbenachrichtigungs-Einstellungen. Kamera-Abwehr ist im aktivierten Status.";
+"answerTwentytwo" = "A: Gehe sicher Micro-SD-Karte ist ein Orginal Klasse 4 oder höher und formatiere Micro-SD-Karte auf FAT32-Format mit dem Computer. Das Kamera-Format unterstützt nicht alle Karten die es auf dem Markt gibt.";
+
+"FTP" = "  FTP-Einstellung";
+"server_address" = " Server-Adresse:";
+"port_number" = "  Port-Nummer:";
+"sever_name" = "  Server-Name:";
+"sever_password" = "  Server-Passwort:";
+"FTP_lable" = "FTP-Funktion AN/AUS";
+"please_server_address" = "Server-Adresse eingeben";
+"please_port_number" = "Port-Nummer eingeben";
+"please_sever_name" = "Server-Name eingeben";
+"please_sever_password" = "Server-Passwort eingeben";
+"FTP_format_error" = "Netzwerk-Information ist falsch, Benutzer-Name, Passwort oder Domain-Name überschreiten maximal Anzahl.";
+"FTP_operator_failure" = "Netzwerk-Information ist falsch, Netzwerk Fehler.";
+"sever_not_empty" = "Server-Adresse darf nicht leer sein";
+"port_not_empty" = "Port darf nicht leer sein";
+"username_not_empty" = "Name darf nicht leer sein";
+"possword_not_empty" = "Passwort darf nicht leer sein";
+
+"update" = "Update";
+"Version" = "Version";
+"Next_time" = "Cancel";
+"Update_now" = "Update";
+
+//记住用户登录密码
+"Un_rem_pass" = "Werden Passwort";
+"Rem_pass" = "Passwort merken";
+
+
+
+
+
+
+

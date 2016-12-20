@@ -1,0 +1,552 @@
+/* Localized versions of Info.plist keys */
+
+"account_login" = " Cuenta de Registro";
+"input_username" = "Por favor ingrese su E-mail/ID/número de teléfono";
+"input_password" = "Ingrese su contraseña";
+"login" = "Login";
+"unInputUsername" = " Por favor ingrese su E-mail/ID/número de teléfono";
+"unInputPassword" = "Ingrese su contraseña";
+
+"login_failure" = "Fallo al iniciar sesión";
+"user_unexist" = "El usuario no existe";
+"password_error" = "Error en la contraseña";
+
+"ok" = "OK";
+"cancel" = "Cancelar";
+
+"contact" = "Lista de dispositivos";
+"discover" = "Sacudir";
+"no_device" = "No se puede buscar ningún dispositivo";
+"recent" = "Reciente";
+"toolbox" = "Herramientas";
+"setting" = "Ajuste del sistema";
+
+"logout" = "Cerrar sesión";
+"exit" = "Salir";
+
+"account_information" = "Mi información";
+
+
+"exit_prompt" = "¿Está seguro de que quiere salir?";
+"logout_prompt" = "¿Está seguro de que quiere cerrar sesión?";
+"call" = "Llamar";
+"monitor" = "Monitor";
+"accept" = "Aceptar";
+"reject" = "Colgar";
+
+"input_monitor_id" = "Ingrese el ID del monitor";
+"input_call_id" = "Ingrese el ID de la llamada";
+"input_device_password" = "Ingrese la contraseña del dispositivo";
+
+"account_info" = "Información de la cuenta";
+"check_update" = "Actualizar";
+"screenshot" = "Instantánea";
+"about_us" = "Acerca de";
+
+"screenshot_success" = "Instantánea exitosa";
+
+"device_name" = "Apodo del dispositivo";
+"device_password" = "Contraseña del dispositivo";
+"delete_device" = "Eliminar dispositivo";
+"delete" = "Eliminar";
+
+"sure_to_delete" = "¿Está seguro de eliminar?";
+"sure_to_clear" = "¿Está seguro de borrar?";
+"operator_success" = "Modificación exitosa";
+"operator_failure" = "La modificación falló";
+"operator_failure_unsupport_wifi" = "La modificación falló, el dispositivo no es compatible con wifi";
+"operator_failure_unsupport_wire" = "La modificación falló, el dispositivo no es compatible con Ethernet";
+"modify_success" = "Operación exitosa";
+"modify_failure" = "La operación falló";
+"no_permission" = "Permisos denegados";
+
+"online" = "(En línea)";
+"offline" = "(Desconectado)";
+"add_contact" = "Agregar dispositivo";
+"add_Wi-Fi" = "Conectar Wi-Fi";
+"add_new_device" = "Agregar nuevo dispositivo";
+"addByManual" = "Agregar dispositivo";
+"add_manual" = "Agregar manual";
+"input_contact_id" = "Ingrese el ID del dispositivo";
+"input_contact_name" = "Ingrese el nombre del dispositivo";
+"input_contact_password" = "Ingrese la contraseña del dispositivo";
+
+"next" = "Siguiente";
+"save" = "Guardar";
+
+"contact_already_exists" = "El dispositivo ya existe";
+
+"monitor" = "Monitor";
+"chat" = "Llamar";
+"message" = "Mensaje";
+"playback" = "Reproducir";
+"control" = "Ajustes";
+"device_control" = "Ajustes";
+"modify" = "Editar";
+
+"recent_one_day" = "Un día";
+"recent_three_day" = "Tres días";
+"recent_one_month" = "Un mes";
+"custom" = "Personalizar";
+
+"device_password_error" = "Error en la contraseña del dispositivo";
+"net_exception" = "Error de red";
+
+"about" = "Acerca de";
+"about_text" = "Camnoopy, As micro video service platform, provides real-time view, the remote care, video sharing and other comprehensive video application service for family and small & micro enterprise users.\n◎With Camnoopy, you are easy to view the real-time and the history at your home, your store and your office etc.\n◎With Camnoopy, you can receive instant exception alert from the places you care about, and take the safety protection measures at once.\n◎With Camnoopy, you can share your most interesting life to whom you care about most.";
+
+"start_time" = "Hora de inicio:";
+"end_time" = "Hora de finalización:";
+"search" = "Buscar";
+
+"unselected_start_time" = "Seleccione una hora de inicio";
+"unselected_end_time" = "Seleccione una hora de finalización";
+"start_time_must_before_end_time" = "La hora de inicio debe ser antes de la hora de finalización";
+
+"account_info" = "Cuenta";
+"account" = "Cuenta";
+"email" = "E-mail";
+"phone_number" = "Teléfono";
+"modify_login_password" = "Contraseña de inicio de sesión";
+
+"unbind" = "Desvincular";
+"UNbind" = "Desvincular";
+"modify_password" = "Modificar contraseña";
+"input_original_password" = "Ingrese la antigua contraseña";
+"input_new_password" = "Ingrese la nueva contraseña";
+"confirm_input" = "Confirmar entrada";
+"two_passwords_not_match" = "Las dos contraseñas no coinciden";
+"password_too_long" = "La contraseña no puede exceder los 30 caracteres";
+"original_password_error" = "Error en la contraseña original";
+
+"unknown_error" = "Error desconocido";
+
+"sure_to_unbind_email" = "¿Está seguro de desvincular el e-mail?";
+"sure_to_unbind_phone" = "¿Está seguro de desvincular el teléfono?";
+
+"bind_email" = "Vincular E-mail";
+"unbind_email" = "Editar E-mail";
+"input_email" = "Ingrese el e-mail";
+"email_length_error" = "El e-mail debe ser de 5-31 caracteres de largo";
+"email_used" = "El e-mail ya ha sido usado";
+"email_format_error" = "Error en el formato del E-mail";
+
+"input_login_password" = "Ingrese la contraseña para iniciar sesión";
+"session_error" = "Error de sesión, su cuenta puede iniciar sesión en otro lugar, por favor vuelva a iniciar";
+
+//"control" = "Control";
+
+"time_set" = "Fecha y hora";
+"media_set" = "Ajsutes de medios";
+"security_set" = "Ajustes de seguridad";
+"network_set" = "Ajustes de red";
+"alarm_set" = "Ajustes de alarma";
+"record_set" = "Ajustes de grabación";
+"defenceArea_set" = "Ajustes de seguridad";
+"remote_set" = "Ajustes de remoto";
+"remote_reset" = "Reiniciar remoto";
+"device_update" = "Actualizar dispositivo";
+
+"time_zone" = "Zona horaria";
+"apply" = "Aplicar";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+
+"video_format" = "Formato de vídeo";
+"volume" = "Volumen";
+
+"modify_device_password" = "Modifica la contraseña del dispositivo";
+
+"motion" = "Modo de detección";
+"buzzer" = "Zumbador";
+"buzzer_time" = "Hora del zumbador (minuto)";
+
+"alarm_email" = "Alarma por correo electrónico";
+"bind_account" = "Vincular cuenta";
+
+"sure_to_unbind_account" = "¿Está seguro de desvincular el ID de la alarma?";
+"input_alarm_id" = "Ingrese el ID de la alarma";
+"id_too_long" = "El ID no debe ser mayor que 9 caracteres";
+"alarm_id_must_zero_begin" = "El ID de la alarma debe ser \'0\' en el inicio";
+"add_bind_account_prompt1" = "Sólo se puede agregar";
+"add_bind_account_prompt2" = "Cuenta de la alarma";
+
+"remote_defence" = "Seguridad remota";
+"remote_record" = "Grabación remota";
+
+"record_type" = "Tipo de grabación";
+"record_time" = "Tiempo de grabación (minuto)";
+
+"manual_record" = "Grabación manual";
+"alarm_record" = "Grabación de alarma";
+"timer_record" = "Grabación programada";
+"plan_time_table" = "Planificar programación";
+
+"net_type" = "Tipo de red";
+"wired" = "Ethernet";
+"wifi" = "WIFI";
+"alarm_push" = "ID de la alarma push";
+
+"change_net_prompt" = " Cambiar la red puede hacer que el dispositivo se desconecte, ¡por favor confirme la acción!";
+
+"wifi_list" = "Lista de WIFI";
+
+"input_wifi_password" = "Ingrese la contraseña del wifi";
+"wifi_password_format_error" = "Error en el formato de la contraseña del wifi";
+
+"remote" = "Remoto";
+"hall" = "Pasillo";
+"window" = "Ventana";
+"balcony" = "Balcón";
+"bedroom" = "Dormitorio";
+"kitchen" = "Cocina";
+"courtyard" = "Patio";
+"door_lock" = "Cerrojo de puerta";
+"other" = "Otro";
+"infrared" = "Infrarrojo";
+"smoke" = "Humo";
+"gas" = "Gas";
+
+"clear_defence_prompt" = "¿Confirmar para borrar?";
+"learn_defence_prompt" = "Clic en ok para activar el sensor inalámbrico y codificar";
+"device_not_support_defence_area" = "Este dispositivo no es compatible con el Área de Seguridad";
+"modify_defenceArea_name" = "Renombrar";
+"modify_channel_name" = "Renombrar";//2016.1.18
+
+"bind_phone" = "Vincular teléfono";
+"unbind_phone" = "Desvincular número de teléfono";
+"input_phone" = "Ingrese su número de teléfono";
+
+"china" = "China";
+"america" = "América";
+
+"phone_length_error" = "El teléfono debe ser de 6-15 caracteres";
+
+"phone_used" = "El teléfono ya ha sido usado";
+"get_phone_code_too_times" = " Intento de obtener el código de teléfono con demasiada frecuencia, por favor intente más tarde";
+"phone_format_error" = "Error en el formato del teléfono";
+
+"phone_code_was_send_to" = "El código de verificación ha sido enviado a";
+"phone_check_code" = "Código de verificación";
+
+"choose_country" = "Escoger país";
+
+"email_id_login" = "E-mail/ID";
+"phone_login" = "Teléfono";
+
+"register_type_phone" = "Registrar por teléfono>>";
+"register_type_email" = "Registrar por e-mail>>";
+
+"register_success_prompt" = "¡Registro correcto!";
+
+"searching_device_in_local" = "Buscando dispositivo en LAN";
+
+"create_init_password_prompt" = " La contraseña del dispositivo está vacía, por favor cree una nueva contraseña";
+"device_already_exist_password" = "Fallo al añadir, ya existía una contraseña para el dispositivo";
+
+"call_in_prompt" = "Llamando de";
+"call_out_prompt" = "Llamando a";
+"monitor_out_prompt" = "Conectando a";
+
+"net_warning_prompt" = "Esta red no está disponible, revise sus ajustes de red.";
+
+"now_version_is_latest" = "Esta es la versión más reciente";
+"other_was_check_device_update" = "Dispositivo ocupado";
+"device_not_support" = "Dispositivo no compatible";
+
+"send" = "Enviar";
+
+"alarm_history" = " Registros de alarmas ";
+"alarm_device" = "Dispositivo:";
+"alarm_type" = "Tipo:";
+
+"input_message" = "Ingrese mensaje";
+"message_too_long" = "Mensaje muy largo";
+"can_not_send_message_to_myself" = "No se puede enviar mensajes a usted mismo";
+"send_failure" = "Fallo al enviar";
+
+"device" = "Dispositivo";
+"view" = "Ver";
+"extern_alarm" = "Alarma externa";
+"motion_dect_alarm" = "Alarma de modo de detección";
+"emergency_alarm" = "Alarma de emergencia";
+"debug_alarm" = "eliminar";
+"ext_line_alarm" = "Alarma I/O";
+"low_vol_alarm" = "Alarma de baja bateria";
+"pir_alarm" = "Alarma de detección PIR";
+"defence_enable_alarm" = "activar seguridad";
+"defence_disable_alarm" = "desactivar seguridad";
+"battery_low_alarm" = "batería baja";
+"parameters_upload_alarm" = "cargar parámetros del servidor";
+"temperature_alarm" = "Alarma de temperatura";
+"doorbell_alarm" = "Timbre de alarma";
+"keypress_alarm" = "Presionar tecla";
+"record_failed_alarm" = "Fallo en la grabación";
+
+"forget_password" = "¿Olvidó su contraseña?";
+
+"device_password_too_long" = "La contraseña del dispositivo no debe ser mayor que 10 caracteres";
+"password_zero_format_error" = "La contraseña del dispositivo debe ser una combinación difital y no puede iniciar en \'0\' ";
+"password_number_format_error" = "La contraseña del dispositivo debe ser sólo una combinación de 0-9";
+
+"set_wifi" = "Establecer Wifi";
+
+"no_connect_wifi" = "El teléfono no se conecta al WIFI, conéctese al WIFI primero";
+"set" = "Establecer";
+
+"infrared_remote" = "Infrarrojo remoto";
+
+"input_ssid" = "Ingrese el WIFI-SSID";
+
+"discovered" = "Descubrir";
+"new_device" = "Nuevo dispositivo";
+"local_device_list" = "Lista del nuevo dispositivo";
+
+"device_id_zero_format_error" = "El ID del dispositivo debe ser una combinación digital y no puede iniciar con \'0\' ";
+
+"id_unknown_error" = "Error desconocido";
+"id_overdate" = "El ID del remoto ha expirado";
+"id_disabled" = "El ID del remoto está desactivado";
+"id_inactived" = "El ID del remoto no está activado";
+"id_offline" = "Desconectado";
+"id_busy" = "Ocupado";
+"id_powerdown" = "ID del objetivo desconectado";
+"id_connect_failed" = "Falló la conexión";
+"id_hangup" = "Colgar";
+"id_timeout" = "Tiempo finalizado";
+"id_internal_error" = "Error interno";
+"id_no_accept" = "Sin respuesta";
+"id_password_error" = "Error en la contraseña del dispositivo ";
+"id_not_support" = "No compatible";
+
+"cur_version_is" = "La versión actual es";
+"can_update_to" = "Se puede actualizar a";
+"start_update" = "Iniciar actualización";
+"update_failed" = "La actualización falló";
+"cancel_update" = "Cancelar";
+
+"loading" = "cargando...";
+"cur_version" = "CurVersion";
+"kernel_version" = "KernelVersion";
+"rootfs_version" = "RootfsVersion";
+"uboot_version" = "uBootVersion";
+
+"device_info" = "Información del dispositivo";
+
+"release_new_version"="Hay una nueva versión";
+"ask_update_immediately"="¿Actualizar ahora?";
+"remain_me"="recordar más tarde";
+"update_me"="actualizar ahora";
+"rate_me"="Calificarme";
+"skip_me"="saltar esta versión";
+"latest_version"="Esta es la versión más reciente";
+"quit_update"="No hay necesidad de actualizar";
+
+"no_init_password_device" = "No está establecida una contraseña con el dispositivo";
+
+"defence_group" = "Grupo";
+"defence_item" = "Elemento";
+"already_learn" = "ha sido registrado";
+"learning" = "registrando...";
+"clearing" = "eliminando...";
+
+"qrcode_add" = "Escaneo inteligente";
+"qrcode" = "Establecer Wifi por medio del código QR";
+"make" = "Hacer";
+"help" = "Ayuda";
+
+"add_device" = "Agregar dispositivo";
+
+"empty_contact_prompt" = "Aquí está vacío. Así que agrega un dispositivo";
+"smart_key" = "Establecer Wifi por Smart Key";
+"smart_key_add" = "Smart Key";
+"search_local_area" = "Escanear LAN";
+"manually_add" = "Manual";
+
+"input_smart_key_prompt" = "Inserte el smart-key, y ajuste el sonido de medios al más alto nivel.";
+
+"input_wifi_password_sk" = "Ingrese la contraseña del WiFi";
+"input_device_password_sk" = "Ingrese la contraseña del dispositivo";
+"set_wifi_content_prompt" = " Por favor, mantenga el objetivo de la smart key en la cámara hasta que escuche un sonido como Bing.";
+"set_wifi_content_prompt1" = "Coloque la Smart Key de frente a la cámara:";
+"set_wifi_content_prompt2" = "Si escuach un sonido de la cámara como“Ding”,por favor presione en “escuchado";
+"set_wifi_content_prompt3" = " Si escucha el sonido de la cámara como un 'Bi-Bi-Bi', pulse en Volver y vuelva a introducir la contraseña del dispositivo ";
+"set_scanning_code_prompt" = " Por favor, dirija la cámara al código de escaneo inteligente, y espere hasta que escuche un sonido como “Ding";
+"heard" = "Escuchado";
+"back" = "Regresar";
+"waiting_content_prompt" = "Esperando por la conexión de WiFi";
+"set_wifi_failed_title" = "La conexión falló";
+"set_wifi_failed_prompt" = "1. El teléfono y el dispositivo no están en el mismo dispositivo LAN \ n2. No se puede conectar al dispositivo WiFi \ n3.No es compatible con el wifi 5G";
+"set_wifi_success_title" = "¡Ajustes con éxito!";
+
+"qrcode_prompt" = " Por favor, coloque el teléfono móvil de 20 a 30 centímetros de distancia de la cámara, póngala enfrente del código de exploración inteligente, espere hasta que escuche un sonido como Ding";
+
+"modify_visitor_password" = "Contraseña de invitado";
+"auto_update" = "Actualizar automáticamente";
+
+"accept_alarm" = " Recibe mensaje por alarma ";
+
+"human_infrared_detection" = "Encender infrarrojo";
+"wired_alarm_input" = " Entrada de alarma con conexión de cable";
+"wired_alarm_output" = " Salida de alarma con conexión de cable ";
+"image_inversion" = "Voltear imagen";
+
+"TH_alert" = "Alarma de TEMP & HUM";
+"temperature_now" = "Temperatura actual";
+"humidity_now" = "Humedad actual";
+"temperature_max" = "Límite más bajo de temperatura";
+"temperature_min" = "Límite másalto de temperatura";
+
+"input_new_visitor_password" = "Ingrese la contraseña de invitado";
+"human_infrared" = "Encender infrarrojo";
+"anonymous_login" = "Iniciar sesión de forma anónima";
+
+"anonymous" = "Anónimo";
+
+"remote_record_switch" = "Cambiar grabación";
+
+"modify_manager_password" = "Contraseña de administrador";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "Número de usuarios:";
+
+"time_zone_set" = "Ajuste de zona horaria";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "Registrar";
+"phone_register" = "Registrar por teléfono";
+"email_register" = "Registrar por e-mail";
+"register_account" = "Guía de registro";
+
+"storage_info" = "Información de almacenamiento";
+"sd_card_capacity" = "Capacidad de SD:";
+"sd_card_rem_capacity" = "SD disponible:";
+"u_disk_capacity" = "Capacidad del disco:";
+"u_disk_rem_capacity" = "U disponible:";
+"sd_card_format" = "Borrar tarjeta SD";
+"no_storage" = "No hay dispositivos de almacenamiento.";
+"device_not_support_no_storage" = " El dispositivo no es compatible o no encuentra la tarjeta SD";
+"not_support_format" = "El dispositivo no es compatible con el formato.";
+"sd_format_success" = "Se borró la tarjeta SD con éxito";
+"format_sd_card" = "Formatear tarjeta SD";
+"confirm_format" = "¿Está seguro de borrar? Si lo hace, ¡perderá todos los datos!";
+
+"device_not_support_sensor_switch" = "El dispositivo actual no es compatible con el sistema";
+"learn_code" = "Registrar código";
+
+"no_record" = "Sin grabación";
+//"unknown_error" = "Error desconocido";
+"no_more_record" = "Sin más grabaciones.";
+
+//----------
+"scan_switch" = "Cambiar";
+"scan_complete" = "Completo";
+"scan_add_successfully" = "Se agregó exitosamente";
+"scan_tip" = "Consejo";
+"scan_tryagain" = "Intentar de nuevo";
+"scan_error01" = "Error en la contraseña del Wifi";
+"scan_error02" = "Actualmente el dispositivo no es compatible con el router 5G";
+"scan_error03" = "La función DHCP del router no está abierta";
+
+"mainmenu_alarmset" = "AlarmSet";
+"mainmenu_help" = "Ayuda";
+
+"adddevice_btn_rader" = "Rader";
+"adddevice_btn_manual" = "Manual";
+"adddevice_tip" = "La cámara wifi es de conexiones";
+"adddevice_btn_setwifi" = "establecer wifi";
+"adddevice_btn_skip" = "Omitir";
+"add_guard_text06" = "Encender";
+"add_guard_text07" = "Encender, espere el sonido como di-di-di de la cámara;\n si no escucha el sonido, reiníciela.";
+"waiting_content_prompt01" = "Esperando a la conexión";
+"waiting_content_prompt02" = "Conectando...\n Por favor sea paciente, la conexión estará realizada muy pronto.";
+"adddevice_warm_tip" = "Consejos: utilice ingles para ingresar la contraseña.";
+"addDevice_warm_tips" = " Consejos: En el primer uso, modifique la contraseña predeterminada, con el fin de evitar la pérdida de la privacidad";
+
+"manual_set_time" = "Establecer tiempo manualmente";
+"network_set_time" = "Establecer tiempo de la red";
+"year" = "año";
+"month" = "mes";
+"day" = "día";
+"hour" = "hora";
+"minute" = "min";
+"mac_address" = "dirección mac";
+"enabled" = "habilitado";
+"Automatic_get_ip" = "obtener ip automáticamente";
+"ip_address" = "IP";
+"Subnet_mask" = " Máscara de subred";
+"gateway" = "Gateway";
+"dns" = "DNS";
+"input_ip" = "ingrese la dirección IP";
+"input_subnet" = "Ingrese la máscara de subred";
+"input_gateway" = "Ingrese el Gateway";
+"input_dns" = "Ingrese el DNS";
+"connected" = "conectado";
+"connect_ipc_wifi" = "WiFi conectado--%@,Contraseña 12345678";
+
+"one_min" = "un minuto";
+"two_min" = "dos minutos";
+"three_min" = "tres minutos";
+"addshield_device" = "Añadir el dispositivo de blindaje";
+"addshield_tip" = " Su APP ya no recibirá la alarma del equipo";
+"already_shield" = "Se ha bloqueado el acceso a esta cuenta";
+"alarm_shield_device" = " Alarma de protección del dispositivo";
+"alarm_interval" = "Intervalo de alarma (Segundos)";
+
+"smart_cameras" = "Cámaras inteligentes";
+"check_for_setting" = " Autentificando...";
+
+
+"pull_to_refresh" = "Actualizar";
+"release_refresh" = " lanzamiento de actualización";
+"loading" = "Actualizando...";
+
+"resend" = "Reenviar";
+"Skip" = "Omitir";
+
+"tempe_format_error" = " Error de formato de entrada";
+"set_TH_alert" = "Establecer alarma de TEMP & HUM";
+"please_input_number" = "Ingrese el valor de la temperatura";
+"input_outnumber_limit" = "Sobre el rango de la temperatura";
+
+"delete_success" = "Eliminado correctamente";//2015.8.6
+
+"select_all" = "Todo";
+"sure_delete" = "¿Confirmar eliminar?";
+
+"delete_success" = "eliminar con éxito";//2015.8.6
+"select_reset" = "¿Seguro de restaurar este dispositivo a la configuración de fábrica?";
+
+
+"sender" = "Email:";
+"password" = "Clave:";
+"validating" = "Verificación...";
+"pwd_error" = "La contraseña no coincide";
+"not_verified" = "Buzón no verificado, hacen servicio SMTP seguro es activar.";
+"not_support" = "No soportado";
+"check_box" = "Casilla de verificación, el emisor y el receptor son la misma persona";
+"recipient" = "Beneficiario:";
+
+"set_preset" = "Set Preset";
+"check_preset" = "Revisión preestablecido";
+
+"confirm_unblock" = "Vuelva a confirmar antes de dispositivo de desbloqueo:";
+
+"sound_alarm" = "alarma de sonido";
+
+
+
+
+
+
+
+
+
+
+
+

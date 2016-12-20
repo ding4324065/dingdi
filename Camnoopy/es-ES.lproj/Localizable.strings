@@ -1,0 +1,700 @@
+/* Localized versions of Info.plist keys */
+
+"account_login" = "Acceso a cuenta";
+"input_username" = "Acceso con Email / ID Cuenta ID / Numero de Movil";
+"input_password" = "Introduzca clave de la cuenta";
+"login" = "Acceso";
+"unInputUsername" = "Acceso con Email / ID Cuenta / Numero de Movil";
+"unInputPassword" = "Introduzca clave de la cuenta";
+
+"login_failure" = "Acceso incorrecto";
+"user_unexist" = "El usuario no existe";
+"password_error" = "Error en la clave";
+
+"ok" = "OK";
+"cancel" = "Cancelar";
+
+"contact" = "Lista de Dispositivos de Camara";
+"discover" = "Agite para buscar el Dispositvo de Camara";
+"no_device" = "No hay Dspositivo de Camara disponible";
+"recent" = "Reciente";
+"toolbox" = "Herramientas";
+"setting" = "Configuracion del Sistema";
+
+"logout" = "Cerrar Sesion";
+"exit" = "Salir";
+
+"account_information" = "Informacion de cuenta";
+
+
+"exit_prompt" = "¿Confirma que desea salir?";
+"logout_prompt" = "¿Confirma que desea cerrar la sesion?";
+"call" = "LLamar al Dispositivo de Camara";
+"monitor" = "Acceso remoto para monitorizacion en tiempo real";
+"accept" = "Acceptar";
+"reject" = "Colgar";
+
+"input_monitor_id" = "Introduzca la ID del Dispositvo de Camara para iniciar la monitorizacion";
+"input_call_id" = "Introduzca la ID del Dispositivo de Camara para llamar";
+"input_device_password" = "Introduzca la clave del Dispositvo de Camara";
+
+"account_info" = "Informacion de la cuenta";
+"check_update" = "Actualizar Version";
+"screenshot" = "Fotograma";
+"about_us" = "Acerca APP";
+
+"screenshot_success" = "Fotograma correcto";
+
+"device_name" = "Configure el nombre del Dispositvo de Camara";
+"device_password" = "Clave de Dispositivo de Camara";
+"delete_device" = "Borrar el Dispositivo de Camara";
+"delete" = "Borras";
+
+"sure_to_delete" = "¿Confima el borrado del Dispositivo de Camara?";
+"sure_to_clear" = "¿Confirm el borrado de los datos?";
+"operator_success" = "Modificacion realizada";
+"operator_failure" = "Modifificacion fallida";
+"operator_failure_unsupport_wifi" = "Modificacion fallida, el Dispositivo de Camara no soporta WiFi";
+"operator_failure_unsupport_wire" = "Modificacion fallida, el Dispositivo de Camara podria no soportar la conexion Ethernet";
+"modify_success" = "Modificacion realizada";
+"modify_failure" = "Modificacion fallida";
+"no_permission" = "Permiso denegado";
+
+"online" = "(En linea)";
+"offline" = "(Fuera de linea)";
+"add_contact" = "Incluir el Dispositivo de Camara";
+"add_Wi-Fi" = "Configuracion Inteligente Wifi";
+"add_new_device" = "Incluir nuevo Dispositivo de Camara";
+"addByManual" = "Incluir Dispositivo de Camara";
+"add_manual" = "Incluir Dispositvo manualmente";
+"input_contact_id" = "Introduzca ID del Dispositivo de Camara";
+"input_contact_name" = "Introduzca el nombre personalizado del Dispositivo de Camara";
+"input_contact_password" = "Introuzca la clave del Dispositivo de Camara";
+
+"next" = "Siguiente";
+"save" = "Salvar";
+
+"contact_already_exists" = "El Dispositvo ya existe";
+
+"monitor" = "Acces remoto a la monitorizacion en tiempo real";
+"chat" = "Llamar al Dispositivo de Camara";
+"message" = "Mensaje";
+"playback" = "Reproducir Video";
+"control" = "Configuraciones del Dispositivo";
+"device_control" = "Configuraciones del Dispositivo";
+"modify" = "Editar";
+
+"recent_one_day" = "Un dia";
+"recent_three_day" = "Tres dias";
+"recent_one_month" = "Un mes";
+"custom" = "Personalizar";
+
+"device_password_error" = "Clave erronea del Dispositivo de Camara";
+"net_exception" = "Error de Red";
+
+"about" = "Acerca de APP";
+"about_text" = "Camnoopy, como plataforma Servidora de Video, suministra video en tiempo real, teleasistencia, video compartido y otras servicios de aplicaciones de video para usuarios de familias y negocios.\n◎Con Camnoopy, dispondra de una sencilla visualizacion en tiempo real y lo ocurrido en su hogar, alamcen, oficina etc.\n◎Camnoopy Pro, recibira alarmas instantaneas desde el lugar que desea controlar, y podra tomar las medidas de proteccion que desee.\n◎Con Camnoopy, compartira sus momentos con quien mas le interesa proteger.";
+
+"start_time" = "Inicio de la hora del Video:";
+"end_time" = "Find e la hora del Video:";
+"search" = "Buscar";
+
+"unselected_start_time" = "Seleccione la hora de inicio del video";
+"unselected_end_time" = "Seleccione la hora de fin del video";
+"start_time_must_before_end_time" = "La busqueda de la hora de inicio no puede ser superior a la de finalizacion";
+
+"account_info" = "Informacion de la cuenta";
+"account" = "Cuenta";
+"email" = "Email";
+"phone_number" = "Numero de movil";
+"modify_login_password" = "Introduzca la clave";
+
+"unbind" = "No enlazado";
+"UNbind" = "No enlazado";
+"modify_password" = "Modificar la clave";
+"input_original_password" = "Introduzca la clave antigua";
+"input_new_password" = "Introduzca la clave nueva";
+"confirm_input" = "Confirmar la clave";
+"two_passwords_not_match" = "Las claves no coinciden";
+"password_too_long" = "La clave no debe exceder de 100 caracteres";
+"original_password_error" = "Error en la clave original";
+
+"unknown_error" = "Error desconocido";
+
+"sure_to_unbind_email" = "¿Confirmar el mail para desemparejar?";
+"sure_to_unbind_phone" = "¿Confirmar el movil para desemparejar?";
+
+"bind_email" = "Email de enlace";
+"unbind_email" = "Editar la direccion de Email";
+"input_email" = "Introduzca la direccion de Email";
+"email_length_error" = "El Email debe tener de 5 a 31 caracteres de longuitud";
+"email_used" = "La direccio de Email ha sido usada";
+"email_format_error" = "Direccion de Email erronea";
+
+"input_login_password" = "Introduzca la calve de acceso";
+"session_error" = "Clave erronea. Puede haberse acedido a la cuenta desde otro dispositivo, por favor intentelo de nuevo.";
+
+//"control" = "Control";
+
+"time_set" = "Dia y hora";
+"media_set" = "Configuraciones de video";
+"security_set" = "Configuraciones de Seguridad";
+"network_set" = "Configuraciones de Red";
+"alarm_set" = "Notificacion de Alarma";
+"record_set" = "Configuraciones de Grabacion";
+"defenceArea_set" = "Configuraciones de Alarma";
+"remote_set" = "Configuraciones Remotas";
+"remote_reset" = "Reseinicializar el Dispositvo de Camara";
+"device_update" = "Actualizar el Firmware del Dispositivo";
+
+"time_zone" = "Zona Horaria";
+"apply" = "Aplicar";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "Formato de Video";
+"volume" = "Volumen";
+
+"modify_device_password" = "Modificar la clave del Dispositivo";
+
+"motion" = "Deteccion de Movimiento";
+"buzzer" = "Sonido de Alarma";
+"buzzer_time" = "Tiempo del sonido de Alarma(minutos)";
+
+"alarm_email" = "Email de notificacion";
+"bind_account" = "Cuenta de enlace";
+
+"sure_to_unbind_account" = "¿Confirmaa que desea borrar la ID de la notificacion de la APP?";
+"input_alarm_id" = "Introduzca la ID de la cuenta para recibir notificaciones";
+"id_too_long" = "La ID no deberia exceder de 9 caracteres";
+"alarm_id_must_zero_begin" = "La ID de la Alarma deberia comenzar con \'0\' ";
+"add_bind_account_prompt1" = "Solo puede incluir";
+"add_bind_account_prompt2" = "Cuenta de notificacion de Alarma";
+
+"remote_defence" = "Acceso remoto para armar el Dispositivo de Camara";
+"remote_record" = "Acceso remoto a la grabacion";
+
+"record_type" = "Tipo de garabacion";
+"record_time" = "Hora de grabacion(minuto)";
+
+"manual_record" = "Grabacion 24 horas";
+"alarm_record" = "Activacion de la Alarma de Grabacion";
+"timer_record" = "Agenda de Grabacion";
+"plan_time_table" = "Agenda del Calendario";
+
+"net_type" = "Tipo de Red";
+"wired" = "Ethernet";
+"wifi" = "WiFi";
+"alarm_push" = "ID de la notificacion de Alarma";
+
+"change_net_prompt" = "Cambiar la red actual podria causar que el dispositivo se desconecte, ¡¡por favor confirme que desea proceder!!";
+
+"wifi_list" = "WiFi preparada";
+
+"input_wifi_password" = "Introduzca la clave del Router WiFi";
+"wifi_password_format_error" = "Clave del WiFi erronea";
+
+"remote" = "Control remoto";
+"hall" = "Salon";
+"window" = "Ventana";
+"balcony" = "Balcon";
+"bedroom" = "Habitacion";
+"kitchen" = "Cocina";
+"courtyard" = "Patio";
+"door_lock" = "Cerradura de puerta";
+"other" = "Otros";
+"infrared" = "Sensor PIR";
+"smoke" = "Humo";
+"gas" = "Gas";
+
+"clear_defence_prompt" = "¿Confirma el borrado?";
+"learn_defence_prompt" = "Pulse OK para emparejar y codificar el Sensor";
+"device_not_support_defence_area" = "Dispositivo no soportado por la Alarma";
+"defence_rename" = "Personalice el nombre";
+
+"bind_phone" = "Enlazar numero de movil";
+"unbind_phone" = "Desenlazar numero de movil";
+"input_phone" = "Introduzca su numero de movil";
+
+"china" = "China";
+"america" = "America";
+
+"phone_length_error" = "El telefono deberia de tener una loguitud enter 6 y 15 caracteres";
+
+"phone_used" = "El numero de movil ya ha sido usado";
+"get_phone_code_too_times" = "Intentelo de nuevo. Ha excedido el envio de verificacion de codigo";
+"phone_format_error" = "Formato erroneo en el numero de movil";
+
+"phone_code_was_send_to" = "El codigo de verificacion ha sido enviado a";
+"phone_check_code" = "Codigo de Verificacion";
+
+"choose_country" = "Seleccione Pais";
+
+"email_id_login" = "Email/ Acceso ID de cuenta";
+"phone_login" = "Acceso numero de movil";
+
+"register_type_phone" = "Registrar con el numero de movil>>";
+"register_type_email" = "Registar con el Email>>";
+
+"register_success_prompt" = "¡Registro realizado!";
+
+"searching_device_in_local" = "Buscando el dispositivo en la Red de Area local";
+
+"create_init_password_prompt" = "¡La Clave del dispositvo no puede estar vacia!";
+
+"device_already_exist_password" = "Inclusion del dispositvo fallida. La clave del dispositvo ya existe";
+
+"call_in_prompt" = "Llamada de";
+"call_out_prompt" = "Llamando a";
+"monitor_out_prompt" = "Conectando a";
+
+"net_warning_prompt" = "La red actual no esta disponible, por favor la configuracion de su red y la del router";
+
+"now_version_is_latest" = "Ultima Version, No se requieren actualizaciones";
+"other_was_check_device_update" = "La ID del dispositiovo destino esta ocupada";
+"device_not_support" = "Dispositvo no soportado";
+
+"send" = "Enviar";
+
+"alarm_history" = "Lista de activaciones de alarma";
+"alarm_device" = "Dispositivo:";
+"alarm_type" = "Tipo de Alarma:";
+
+"input_message" = "Introduzca mensaje";
+"message_too_long" = "Mensaje demasiado largo";
+"can_not_send_message_to_myself" = "No puede enviarse el mensaje usted mismo";
+"send_failure" = "Envio fallido";
+
+"device" = "Dispositivo";
+"view" = "Visualizacion";
+"extern_alarm" = "Alarma Externa";
+"motion_dect_alarm" = "Alarma de deteccion de movimiento";
+"emergency_alarm" = "Alarma de emergencia";
+"debug_alarm" = "Depurar";
+"ext_line_alarm" = "Alarma E/S";
+"low_vol_alarm" = "Alarma de bajo voltaje";
+"pir_alarm" = "Alarma de deteccion PIR";
+"defence_enable_alarm" = "Habilitar defensa";
+"defence_disable_alarm" = "Deshabilitar defensa";
+"battery_low_alarm" = "Aviso de baeria baja";
+"parameters_upload_alarm" = "Cargar parametros al Servidor";
+"temperature_alarm" = "Alarma de Temperatura";
+"doorbell_alarm" = "Notificaciond de Visitante";
+"keypress_alarm" = "Alarma SOS";
+"record_failed_alarm" = "Grabacion fallida";
+
+"forget_password" = "¿Clave olvidada?";
+
+"device_password_too_long" = "La clave del dispositivo no excede de 100 caracteres";
+"password_zero_format_error" = "La clave del dispositivo deberia de ser una combinacion de numeros y no deberia comenzar con \'0\'";
+"password_number_format_error" = "La clave del dispositivo deberia ser una combinacion de numeros de 0 a 9";
+
+"set_wifi" = "Configuracion de la conexion WiFi";
+
+"no_connect_wifi" = "El Movil o la Tablet no tiene conexion WiFi, por favor conecetese a la WiFi";
+"set" = "Configuracion";
+
+"infrared_remote" = "Infrarrojo remoto";
+
+"input_ssid" = "Por favor introduzca la SSID de la conexion WiFi";
+
+"discovered" = "Descubrir";
+"new_device" = "Nuevo dispostivo";
+"local_device_list" = "Nueva lista de dispositivo";
+
+"device_id_zero_format_error" = "La ID del dispositivo deberia ser una configuracion de numeros y no deberia de comenzar por \'0\'";
+
+"id_unknown_error" = "Error desconocido";
+"id_overdate" = "La ID ha caducado";
+"id_disabled" = "La ID esta deshabilitada";
+"id_inactived" = "La ID no esta activada";
+"id_offline" = "Fuera de linea";
+"id_busy" = "Ocupado";
+"id_powerdown" = "ID fuera de linea";
+"id_connect_failed" = "Conexion fallida";
+"id_hangup" = "Colgar";
+"id_timeout" = "Fuera de tiempo";
+"id_internal_error" = "Error interno";
+"id_no_accept" = "Sin respuesta";
+"id_password_error" = "Error en la clave del Dispositivo";
+"id_not_support" = "ID del dispositivo no soportado";
+
+"cur_version_is" = "Version actual";
+"can_update_to" = "Nueva version disponible, ¿desea actualizar?";
+"start_update" = "Actualizando";
+"update_failed" = "Actualizacion fallida";
+"cancel_update" = "Cancelar la actualizacion";
+
+"loading" = "cargando...";
+"cur_version" = "Version actual";
+"kernel_version" = "Version del Kernel";
+"rootfs_version" = "Version Roots";
+"uboot_version" = "Version uBoot";
+
+"device_info" = "Informacion del dispositivo";
+
+"release_new_version"="Nueva version disponible";
+"ask_update_immediately"="¿Actualizar ahora?";
+"remain_me"="Recordarme mas tarde";
+"update_me"="Actualizar inmediatamente";
+"rate_me"="Dar una calificacion";
+"skip_me"="Saltar la actualizacion de version";
+"latest_version"="La actual version es la ultima";
+"quit_update"="Salir de actualizacion";
+
+"no_init_password_device" = "La clave del dispositivo esta vacia";
+
+"defence_group" = "Area de Alarma";
+"defence_item" = "Sensor";
+"already_learn" = "Empareado y codificado";
+"learning" = "Pareado y codificacion en progreso...";
+"clearing" = "Borrado en progreso...";
+
+"qrcode_add" = "Incluir un dispositivo con codigo QR";
+"qrcode" = "Configuracion WiFi con codigo QR";
+"make" = "Crear codigo de escaneo QR";
+"help" = "Preguntas y respuestas habituales";
+
+"add_device" = "Incluir dispositivo";
+
+"empty_contact_prompt" = "La ista de dispositivos esta vacia, ¡Incluir dispositivo ahora!";
+"smart_key" = "Configurar WiFi mediante la llave IR inteligente";
+"smart_key_add" = "Llave IR ineligente";
+"search_local_area" = "Escanear la red de area local";
+"manually_add" = "Incluir el dispositivo manualmente";
+
+"input_smart_key_prompt" = "insertar la llave IR inteligente, y ajustar las configuraciones de sonido a el volumen mas alto.";
+
+"input_wifi_password_sk" = "Introduzca la clave WiFi";
+"input_device_password_sk" = "Introduzca la clave del dispositivo";
+"set_wifi_content_prompt" = "Acerque la Llave IR inteligente a la camara hasta que escuche un sonido 'Ding'.";
+"set_wifi_content_prompt1" = "Posiciones la Llaver IR inteligente en frente de la camara:";
+"set_wifi_content_prompt2" = "El sonido “Ding” es escuchado, pulse para escuchar el sonido";
+"set_wifi_content_prompt3" = "“Bi-Bi-Bi” se escucha, pulse Retorno e introduzca la clave del dispositivo";
+"set_scanning_code_prompt" = "Muestre y mantenga el codigo QR enfrente de la camara hasta que escuche el sonido 'Ding'";
+"heard" = "Escuchar sonido";
+"back" = "Return";
+"waiting_content_prompt" = "Esperando por la conexion WiFi";
+"set_wifi_failed_title" = "Conexion fallida";
+"set_wifi_failed_prompt" = "Posibles razones:\n1.Clave WiFi incorrecta \n2.El Dispositivo de Camara no soporta la banda de 5 Ghz actualmente \n3.Red WiFi inestable";
+"set_wifi_success_title" = "¡Configuracion realizada!";
+"try_again" = "Intentelo de nuevo";
+
+"qrcode_prompt" = "Posicione el codigo QR del movil a 20 o 30 cms en frente de la camara y permita que la camara escanea el codigo QR. Mantengalo y espera hasta escuchar un sondo de alerta 'Ding'";
+
+"modify_visitor_password" = "Clave de invitado";
+"auto_update" = "Actualizacion autimatica";
+
+"accept_alarm" = "Recibir notificacion de Alarma";
+"human_infrared_detection" = "Sensor PIR";
+"wired_alarm_input" = "Entrada de Sensor Cableado";
+"wired_alarm_output" = "Salida de Sensor Cableado";
+"image_inversion" = "Imagen Invertida";
+
+"TH_alert" = "Alarma de Temperatura y Humedad";
+"temperature_now" = "Temperatura Actual";
+"humidity_now" = "Humedad Actual";
+"temperature_max" = "Limite inferior de temperatura";
+"temperature_min" = "Configuracion del limite superior de temperatura";
+
+"input_new_visitor_password" = "Por favor introduzca la clave de invitado";
+"human_infrared" = "Interruptor Sensor PIR";
+"anonymous_login" = "Acceso Anonimo";
+
+"anonymous" = "Anonimo";
+
+"remote_record_switch" = "Grabacion E/S";
+
+"modify_manager_password" = "Clave administrador";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "Numero de visiualizadores:";
+
+"time_zone_set" = "Configuracion Zona Horaria";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "Registrar Cuenta";
+"phone_register" = "Registrar con numero de movil";
+"email_register" = "Registrar con Email";
+"register_account" = "Registrar Cuneta Guia";
+
+"storage_info" = "Informacion tarjeta Micro SD";
+"sd_card_capacity" = "Capacidad Total:";
+"sd_card_rem_capacity" = "Capacidad sin usar:";
+"u_disk_capacity" = "Capacidad Disco Flash:";
+"u_disk_rem_capacity" = "Capacidad sin usar:";
+"sd_card_format" = "Borrar y Formatear";
+"no_storage" = "La tarjeta Micro SD no esta disponible.";
+"device_not_support_no_storage" = "Dispositivo no soportado o no se ha encontrado la tarejeta SD";
+"not_support_format" = "Formatenado no es soportado.";
+"sd_format_success" = "Borrado de memoria correcto";
+"format_sd_card" = "Formatear tarjeta SD";
+"confirm_format" = "Todos los datos seran borrados con esta opcion. ¿Confirma el borrado?";
+
+"device_not_support_sensor_switch" = "El Dispositivo actual no soporta el emparejamiento del Sensor";
+"learn_code" = "Emparejando y Codificando el Sensor";
+
+"no_record" = "Sin Grabacion";
+//"unknown_error" = "Error desconocido";
+"no_more_record" = "La lista de grabacion esta vacia.";
+
+//----------
+"scan_switch" = "Proceso de cambio";
+"scan_complete" = "Incluir completdo";
+"scan_add_successfully" = "Incuido correctamente";
+"scan_tip" = "Consejos";
+"scan_tryagain" = "Intentelo de nuevo";
+"scan_error01" = "Error en la clave WiFi";
+"scan_error02" = "El dispositivo ni soporta router 5G actualmente";
+"scan_error03" = "La funcion DHCP del Router DHCP esta desactivada";
+
+"mainmenu_alarmset" = "Administracion de alarma";
+"mainmenu_help" = "Preguntas y Respuestas frecuentes";
+
+"adddevice_btn_rader" = "Radar";
+"adddevice_btn_manual" = "Manual";
+"adddevice_tip" = "La camara esta conectandose al WiFi";
+"adddevice_btn_setwifi" = "Configuracion WiFi";
+"adddevice_btn_skip" = "Saltar";
+"add_guard_text06" = "Alimnente el dispositivo";
+"add_guard_text07" = "Alimnente el dispositivo y espere al sonido de alerta 'Di-Di-Di' de la camara;\nsi la camara se resetea el sonido no se escucahara";
+"waiting_content_prompt01" = "Esperando por la conexion";
+"waiting_content_prompt02" = "Conectando...\nPor favor sea paciente, la conexion se completara pronto.";
+"adddevice_warm_tip" = "Consejos:Use el modo Castellano para introducir la clave.";
+"addDevice_warm_tips" = "Consejos: ¡Para evitar accesos sin autorizacion, modifique la clave por defecto en el acceso inicial!";
+
+"manual_set_time" = "Configure la hora manualmente";
+"network_set_time" = "Hora del sistema de la Red";
+"year" = "Año";
+"month" = "Mes";
+"day" = "Dia";
+"hour" = "Hora";
+"minute" = "Minuto";
+"mac_address" = "direccion mac";
+"enabled" = "Habilitado";
+"Automatic_get_ip" = "Obtiener IP automaticamente";
+"ip_address" = "IP";
+"Subnet_mask" = "Mascara de Subred";
+"gateway" = "Puerta de enlace";
+"dns" = "DNS";
+"input_ip" = "Introduzca la direccion IP";
+"input_subnet" = "Itroduzca la Mascara de Subred";
+"input_gateway" = "Introduzca la Puerta de Enlace";
+"input_dns" = "Introuzca DNS";
+"connected" = "Conectado";
+"connect_ipc_wifi" = "Porfavor conectese a la WiFi--%@,Clave 12345678";
+
+"one_min" = "1 minuto";
+"two_min" = "2 minutos";
+"three_min" = "3 minutos";
+"addshield_device" = "Incluir lista de bloqueo";
+"addshield_tip" = "La APP no recibira notificaciones de alarma si el ID esta bloqueado";
+"already_shield" = "Cuent ID incluida en la lista de bloqueo";
+"alarm_shield_device" = "Notificacion de alarma bloqueado en el dispositivo";
+"alarm_interval" = "Intervalo notificacion de alarma(Segundos)";
+
+"smart_cameras" = "Camara Inteligente";
+"check_for_setting" = "Autentificando...";
+
+
+"pull_to_refresh" = "Deslice para refrescar el estado del dispositivo";
+"release_refresh" = "Deslice para refrescar el estado del dispositivo";
+"loading" = "Refrescando...";
+
+"resend" = "Reenvio";
+"Skip" = "Saltar";
+
+"tempe_format_error" = "Formato introducido erroneo";
+"set_limitTemperature_alert" = "Configure la alarma de temperatura";
+"input_temperature_limit" = "Rango: 5~65(alto) 0~55(bajo)";
+"please_input_number" = "Por favor introduzca el valor de temperatura";
+"input_outnumber_limit" = "Configuracion del valor del rango excedido";
+
+"select_all" = "Todo";
+"sure_delete" = "¿Confirma el borrado?";
+
+"delete_success" = "Borrado correcto";//2015.8.6
+"select_reset" = "¿Esta seguro que desea restaurar el dispositivo a configuracion de fabrica?";
+
+
+"mailbox" = "Email:";
+"password" = "Clave:";
+"validating" = "Verificando...";
+"pwd_error" = "La clave no coincide";
+"not_verified" = "Buzon no verificado, asegurese que el servicio SMTP esta habilitado.";
+"not_support" = "No soportado";
+"check_box" = "Active la opcion - Emisor y Receptor seran desde la misma direccion";
+"recipient" = "Receptor:";
+
+"set_preset" = "Configurar Preset en la posicion de Actual";
+"check_preset" = "Posicion de Present en visualizacion actual";
+
+"confirm_unblock" = "Confirmar el borrado del dispositvo de la lista de bloqueos:";
+
+"sound_alarm" = "Alarma de Sonido";
+
+"humidity_min" = "Nivel minimo de humedad";
+"humidity_max" = "Nivel maximo de humedad";
+"input_humidity_limit" = "Rango de humedad:30~90(alto), 10~70(bajo)";
+"input_TH_tips" = "Recordatorio(Rango limite):\nTemperatura:  5~65(Alto),  -5~55(Bajo)\nHumedad:      30~90(Alto), 10~70(Bajo)";
+
+//????????
+"recipient" = "Receptor:";
+"recipient_number" = "Soporta 3 receptores separados por comas";
+"recipient_not_empty" = "Los receptores de la lista no pueden estar vacios";
+"recipient_scope" = "Limite de 3 receptores";
+"recipient_length_format" = "El correo debe tener de 5 a 31 caracteres de longitud";
+"recipient_format" = "Error de formato de correo";
+
+"sender" = "Remitente:";
+"input_sender" = "Introduzca el Correo remitente";
+"sender_not_empty" = "El remitente no puede estar vacio";
+"sender_scope" = "El remitente no puede exceder de uno";
+"sender_length_format" = "El Correo debe tener de 5 a 31 caracteres de longitud";
+"sender_format" = "Error de formato de correo";
+
+"smtp_address" = "Direccion Smtp:";
+"smtp_number" = "Soporta 5 SMTPs separados por comas";
+"smtp_not_empty" = "La direccion Smtp no puede estar vacio";
+"smtp_scope" = "Limite de 5 smtps";
+"smtp_format" = "error de formato Smtp";
+
+"port" = "Puerto:";
+"input_port" = "Introduzca numero de puerto";
+"non_encrypted" = "25(no encriptado)";
+"port_not_empty" = "El numero de Puerto no puede estar vacio";
+"port_scope" = "El Puerto debe estar entre 0 y 65535";
+"port_format" = "El formato del Puerto solo puede ser numerico";
+
+"encryption_mode" = "Modo de encriptacion";
+"one_encryption" = "No";
+
+"manual_setting" = "Configuracion manual";
+"pwd_smtp_error" = "Clave Smtp incorrecta";
+
+//DoorBell_2016.1.11
+"somebody_visit" = "Alerta de visitante";
+
+"door_bell" = "Timbre de puerta";
+"confirm_open" = "¿abrir la puerta?";
+"not_support_operation" = "Dispositivo no soportado";
+"too_frequent" = "La operacion es muy frecuente.";
+"not_open" = "GPIO no abierto";
+
+"motion_adjust" = "Nivel de deteccion";
+"no_playback_file" = "No hay archivos guardados";
+
+//V8.4.1_??
+"playback_TFCard" = "Grabacion remota";
+"playback_cellphone" = "Grabacion Local";
+"no_record_file" = "No hay archivos grabados";
+"no_previous_files" = "No hay archivos previos";
+"no_next_files" = "No hay archivos siguientes";
+"file_info" = "Informacion de archivo";
+"save_ok_photoalbum" = "guardado";
+"save_to_photoalbum" = "guardado foto en album";
+"save_photoalbum_tip" = "Por favor establezca en el menu de configuracion del iphone la privacidad de foto para que se le permita ver su foto.";
+
+
+"screenshot_list_empty" = "¡Lista de capturas vacia!";
+"alarm_vibration" = "Alarma de vibracion";
+"alarm_bell" = "La sirena de alarma";
+"Configuration_WiFi" = "configuracion Wi-Fi";
+"restart_set" = "Reiniciar dispositivo";
+"modify_defenceArea_name" = "Personalizar nombre";
+"modify_channel_name" = "Personalizar nombre"; //2016.1.18
+"phone_code_error" = "Codigo de verificacion erroneo";
+"wifi_set_title" = "Configuracion WiFi";
+"device_password_too_simple" = "La clave es muy simple, La nueva clave debe tener de 6 a 100 caracteres incluyendo letras y numeros";
+"device_new_password_prompt" = "La nueva clave debe tener de 6 a 100 caracteres incluyendo letras y numeros";
+"set_wifi_failed_prompt" = "Razon posible:\n1.La clave WiFi es incorrecta \n2.La camara no soporta la banda de 5 GHz del router \n3.La red WiFi es inestable";
+"set_wifi_success_title" = "¡Configurado correctamente!";
+"set_initPassword" = "Configurar clave";
+"set_TH_alert" = "Configurar alarma de TEMP y HUM";
+"select_restart" = "Esta seguro de que quiere resetear?";
+
+"questionone" = "P: Como se incluye la camara a la aplicacion movil?";
+"questiontwo" = "P: Como se enlaza la camara a traves del wifi?";
+
+"questionthree" = " P: Como se resetea la camara?";
+"questionfour" = " P Como se configura la grabación de video en la camara?";
+"questionfive" = " P: Como se enlazan los sensores inalambricos a la camara?";
+"questionsix" = " P: Como se modifica la clave maestro por defecto?";
+"questionseven" = " P: Como se actualiza el firmware a traves de la aplicacion movil?";
+"questioneight" = " P: Como se reproduce la grabacion?";
+"questionnine" = " P: Como se actualiza la aplicacion?";
+"questionten" = " P: Como se ajusta la vibración y el tono de alarma para la notificacion via aplicacion movil?";
+"questioneleven" = " P: Cuando se pulsa sobre visualizacion en directo aparece clave incorrecta.";
+"questiontwelve" = " P: El dispositivo indica apagado en la lista de dispositivos";
+"questionthirteen" = " P: El nombre de la red wifi no aparece en la lista de conexiones inalambricas detectadas.";
+"questionfourteen" = " P: No se encuentra el fichero de video en reproduccion";
+"questionfifteen" = " P: E sistema se ha corrompido por fallo de alimentacion de la camara mientras se actualizaba el firmware.";
+"questionsixteen" = " P: El filtro IR se activa frecuentemente provocando la conmutacion dia noche continuamente";
+"questionseventeen" = " P: “Se acopla el sonido cuando se accede desde el mismo entorno que la camara.";
+"questioneighteen" = " P: Compruebe lo siguiente si usted no es capaz de conectar la camara al wifi o si el wifi es inestable:";
+"questionnineteen" = " P: Como se exportan los ficheros de video desde la tarjeta SD al PC?";
+"questiontwenty" = " P: Que hacer cuando el dispositivo esta apagado?";
+"questionTwentyone" = " P: la aplicacion no recibe las alertas de alarma";
+"questionTwentytwo" = " P: la camara no reconoce la tarjeta micro SD";
+"answerone" = "R: metodo 1: Conecte la alimentacion de la camara junto al cable de red para acceder a internet. Pulse en el botón + localizado en la esquina superior derecha de la pantalla. Seleccione agregar manual e introduzca el ID de la cámara, personalice el nombre de la cámara y ponga la clave para agregar la cámara a la aplicacion. Puede optar por conectarse a traves de wifi en configuracion de red – Lista wifi. Si el cable RJ45 no esta disponible, pulse y mantenga el botón de reset de la cámara hasta escuchar un dididi. Haga click en el icono + localizado en la esquina superior derecha y seleccione configuración smart wifi. Siga los pasos de configuración que le aparecen en la aplicacion. El nombre del router debe coincidir con la red wifi en su telefono movil, introduzca la clave del router wifi y haga click en siguiente, espere a que la conexion se complete. Si no conecta, asegurese de que la clave introducida es correcta o repita el método 2 de configuracion.";
+"answertwo" = "R: metodo 1: Alimente y conecte el cable de red de la camara a la red para acceder a internet. Haga click en el botón + en la esquina superior derecha de la pantalla. Seleccione agregar manualmente e introduzca la ID de la camara, Personalice el nombre del dispositivo y la clave en su aplicacion. Puede optar por conectarse a traves de wifi en configuracion de red – Lista wifi. metodo 2: Encienda la camara pero no conecte el cable de red, pulse y mantenga el boton de reset hasta escuchar un dididi. Haga click en el botón + localizado en la esquina superior derecha y seleccione la opción smart wifi. Siga las instrucciones de la aplicación para la configuracion. El nombre del router se corresponde a la red wifi conectada con su telefono, introduzca la clave del wifi haga click en siguiente y espere a que se conecte. Si no conecta, compruebe que la clave es la correcta o repita los pasos del método 2. Nota: Este metodo requiere que su camara sea version 4 o superior, version 3 del kernel y version de firmware 13 o superior.";
+"answerthree" = "R: 1) Pulse y mantenga el boton reset con un objeto punzante (aguja, palillo de dientes) para resetear la camara. El botón de reset normalmente esta ubicado en la parte trasera de la cámara. Cuando se pulsa el botón correctamente, se escucha un di confirmando que el reset se ha realizado correctamente. Tambien puede resetear la cámara a través de la aplicacion. Para resetear la camara, vaya a Configuracion dispositivos y pulse en Restaurar Configuracion de fabrica..";
+"answerfour" = "R: Inserte una tarjeta Micro SD formateada (el formateo FAT32 puede ser hecho desde el PC o portátiles) en el slot de la cámara y reinicie la camara. La maxima. capacidad soportada por la camara es de 128 Gb, pero asegurese que la tarjeta usada es de Clase 4 o superior. En la configuración de dispositivos- Configuracion de Grabacion, seleccione una de las tres opciones de grabación: Grabacion Manual se refiere a grabación 24 horas, Grabacion por Alarma solo grabara después de una activación por alarma (con intervalos de 1,2 y 3 minutos) y grabación programada que se refiere a que la grabación comience y acaba en un horario predefinido. Por defecto la resolución de grabación por defecto es la definicion estandard.";
+"answerfive" = "R: Los componentes inalambricos se refieren a cualquier tipo de sensor, de puerta o ventana, PIR, de humo o gas que se comuniquen por RF sin ningun cable de conexion. Los sensores usados con la cámara deben trabajar en la frecuencia de 433 MHz con protocolos 1527 o 2262. Ud  puede adquirir estos dispositivos a través de su distribuidor habitual. Para enlazar estos sensores con la camara, pulse en la pantalla de la camara para entrar en visualizacion vertical y deslice la pantalla a la izquierda. Pulse en el pulsador de enlace del sensor, para que sea reconocida por la camara. Ud puede preconfigurar el sensor en la posición deseada, esta posición es una de las 5 posibles, la posición 1 es la posición extrema de la izquierda, la posición 3 es la central y la 5 es la extrema de derecha. Para enlazar el control remoto pulse el pulsador de enlace del mando y luego pulse cualquier botón del mando. Para recibir una Notificacion de alarma en el móvil, asegurese que la cuenta ID este en la lista de notificación y en modo defensa. ";
+"answersix" = "R: Pulse en configuracion de dispositivos – La configuracion de Seguridad para cambiar la clave del administrador y configurar la clave del invitado si se desea..";
+"answerseven" = "R: Para actualizar el firmware del dispositivo, pulse en configuracion de la camara – Actualizar dispositivo. Si hay una actualización de versión de firmware aparecerá un mensaje. Si la actualización del firmware no ha sido satisfactoria, reinicie o restaure los valores de fabrica de la cámara..";
+"answereight" = "R: Para reproducir video, pulse en la parte superior izquierda del icono o la barra de la derecha pulse Reproducir video. Pulse en el dispositivo de cámara que necesite y seleccione el archivo desde la Micro SD o desde el móvil.";
+"answernine" = "R: Compuebe y actualice la version de APP, pulse en la parte superior izquierda del icono o en la barra de la derecha en “Acerca de” y le indicara la version de la APP. Pulse debajo en “ Comprobar versión” para comprobar si se necesita una actualización..";
+"answerten" = "R: Para seleccionar el sonido de alerta de alarma para la Notificacion push, pulse en el icono de la parte superior izquierda o en la barra de la derecha y pulse “ Configuracion” – Podra seleccionar el Tono de Alarma que desee. Seleccione Notificacion de alertas con el tono de alarma y vibracion segun desee.";
+"answereleven" = "R: Asegurese la clave de ID de camara para que el acceso remoto sea posible en la pagina de Mi Camara, pulse en el icono “ block de notas” para entrar la clave correcta. Si ha olvidado la clave, resetee la cámara a valores de fabrica – La clave de Valores de fabrica por defecto será restablecida en 123.;";
+"answertwelve" = "R:Compruebe la fuente de alimentacion y el router de red y asegurese de su funcionalidad. El indicador de luz de red se iluminara si la conexión a Internet es normal.Si la conexión de la cámara falla, desconecte la fuente de alimentación de la cámara y espere un minuto antes de volver a conectar o resetee la cámara. Para refrescar la conexión desplace la pantalla hacia abajo.";
+"answerthirteen" = "R: La camara soportA solo WiFi 2.4Ghz. Asegurese que el ancho de banda del router 2.4Ghz es operativo. Asegurese que el SSID para  WiFi no esta oculto y que usa el sistema Operativo original en su movil o Tablet.";
+"answerfourteen" = "R: Compruebe que la tarjeta Micro SD no esta dañada. El sistema horario de la cámara y el video están en línea, para variar la hora en la cámara pulse en configuración de cámara (icono de rueda mecánica) – Hora y Fecha. Remueva la tarjeta Micro SD, apague la camara e inserte la tarjeta SD antes de encender el dispositivo. Si el problema persiste contacte con su distribuidor habitual..";
+"answerfifteen" = "R: Compruebe la hora de la camara si reinicia a valores de fabrica. Los datos almacenados tendrán la fecha y la hora antiguos, asegurese que el sistema tiene la hora y fecha correcta..";
+"answersixteen" = "R: La cámara tiene la función de filtro mecanico IR. La imagen en color o la imagen de visión nocturna varian el tipo de luz detectada. Ciertos escenarios podrian causar que el filtro mecanico se active y desactive repetidas veces. Por ejemplo: Si la cámara esta orientada a una TV, el cambio de luz fuerte hara que el filtro salte repetidas veces.";
+"answerseventeen" = "R: Un silbido de audio puede producirse en la entrada y salida de audio del dispositivo y desde el altavoz o micrófono del móvil. Esto es normal se denomina “acoplo de audio” y se quitara simplemente bajando el sonido del móvil o alejándose de la cámara..";
+"answereighteen" = "R: 1 Resetear la camara a valores de fabrica no habilita para el enlace de la camara con el WIFi o el movil.\n2. La cámara soporta solo redes de ancho de banda de 2.4 Ghz. \n3. Se recomienda la configuración  WPA / WPA2 con encripcion AES y no usar TKIP.\n4. Apague el Punto de Acceso bajo la configuración avanzada del router. \n7 Algunos WiFi Hotspot como 360 portatiles WiFi Hotspot mini router no son soportados por la camara. \n8 Las interferencias de señales de alrededor podrian afectar al rendimiento del la conexion WIFI y al ancho de banda. Ud podría cambiar el canal de WIFI si fuera necesario. \n9 La clave SSID solo permite texto numérico y alfabetico.. \n10 Desconecte el filtro de direcciones Mac  desde la configuracion del router. \n11 Desconecte la opcion  ARP de su router. \n12 Restrinja el uso de la opcion G1 si ud usa un router TotoLink router (Korea).  \n13 Cuando enlace una cámara con su router, por favor mantenga una distancia adecuada.. \n14 Asegurese que tiene el ancho de banda de Internet adecuado para una conexión estable de la camara. \n15 Interferencia de señal a la cámara. Asegurese que la cámara no esta cerca de teléfonos inalámbricos, dispositivos de microondas u otros elementos radiantes que podrían afectar al rendimiento de la cámara.. \n16 Asegurese que la señal de WIFI tiene la suficiente señal. Algunos materiales podrían hacer que la señal recibida tuviera picos.";
+"answernineteen" = "R:1)Desconecte la camara y quite la tarjeta Micro SD . Copie los archives en el ordenador como copia de seguridad. \n2 Use el software de PC para descargar los ficheros del ordenador..";
+"answertwenty" = "R: Asegurese de la estabilidad de la conexion de red conectandola directamente a la red . Resetee la cámara y recobnfigure el WIFI de desde la configuración de red. – Lista de WiFi desde la APP..";
+"answerTwentyone" = "R: Asegurese que la notificacion de alarma esta activada en la configuracion de Notificacion de Alarma en la cámara, y que Defensa de cámara este en modo de armado..";
+"answerTwentytwo" = "R: Asegurese que la tarjeta Micro SD Card es genuina y que es Clase 4 o superior y formateada con formato FAT32 con su ordenador. La función de formato de cámara podría no soportar todas las tarjetas disponibles del mercado..";
+
+
+"FTP" = " Configuracion FTP:";
+"server_address" = "  direccion servidor:";
+"port_number" = "  numero puerto:";
+"sever_name" = "  nombre servidor:";
+"sever_password" = "  clave servidor";
+"FTP_lable" = "funcion FTP  ON/OFF";
+"please_server_address" = "por favor direccion servidor";
+"please_port_number" = "por favor numero de puerto";
+"please_sever_name" = "por favor nombre servidor";
+"please_sever_password" = "por favor clave del servidor";
+"FTP_format_error" = "Configuracion de la informacion de la ruta de la informacion es erronea, podria ser que el nombre de usuario, clave o nombre de dominio exceden del limite de caracteres maximo..";
+"FTP_operator_failure" = "Configuracion de la ruta del informacion es erronea, hay un fallo de red.";
+"sever_not_empty" = "La direccion del servidor no puede estar vacia";
+"port_not_empty" = "Los puertos no pueden estar vacios";
+"username_not_empty" = "El nombre no puede estar vacio";
+"possword_not_empty" = "La clave no puede estar en blanco.";
+
+
+"update" = "Actualizar";
+"version" = "versión";
+"next_time" = "Cancelar";
+"update_now" = "Actualizar";
+
+"un_rem_pass" = "Foget contraseña";
+"rem_pass" = "Recordar contraseña";
+
+
+
+
+
+
+
+
+

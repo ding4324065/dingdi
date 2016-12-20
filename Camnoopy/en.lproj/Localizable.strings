@@ -1,0 +1,690 @@
+"account_login" = "Account Login";
+"input_username" = "Login with Email / Account ID / Mobile number";
+"input_password" = "Input Account Password";
+"login" = "Login";
+"unInputUsername" = "Login with Email / Account ID / Mobile number";
+"unInputPassword" = "Input Account Password";
+
+"login_failure" = "Login Unsuccessful";
+"user_unexist" = "User does not exist";
+"password_error" = "Password Error";
+
+"ok" = "OK";
+"cancel" = "Cancel";
+
+"contact" = "Device List";
+"discover" = "Shake to search Camera Device";
+"no_device" = "No available Camera Device";
+"recent" = "Recent";
+"toolbox" = "Tools";
+"setting" = "System Settings";
+
+"logout" = "Logout";
+"exit" = "Exit";
+
+"account_information" = "Account Information";
+
+"exit_prompt" = "Confirm to Exit?";
+"logout_prompt" = "Confirm to logout?";
+"call" = "Call Camera Device";
+"monitor" = "Remote Access Real-time Monitoring";
+"accept" = "Accept";
+"reject" = "Hang Up";
+
+"input_monitor_id" = "Input Camera Device ID to start monitor";
+"input_call_id" = "Input Camera Device ID to call";
+"input_device_password" = "Input Camera Device password";
+
+"account_info" = "Account Info";
+"check_update" = "Update Version";
+"screenshot" = "Snapshot";
+"about_us" = "About";
+
+"screenshot_success" = "Snapshot Successful";
+
+"device_name" = "Camera Device Customize Name";
+"device_password" = "Camera Device Password";
+"delete_device" = "Delete Camera Device";
+"delete" = "Delete";
+
+"sure_to_delete" = "Confirm Camera Device deletion?";
+"sure_to_clear" = "Confirm to clear data?";
+"operator_success" = "Modify Successful";
+"operator_failure" = "Modify Failed";
+"operator_failure_unsupport_wifi" = "Modify Failed, Camera Device does not support WiFi";
+"operator_failure_unsupport_wire" = "Modify Failed, Camera Device might not support Ethernet connection";
+"modify_success" = "Modified Successful";
+"modify_failure" = "Modified Failed";
+"no_permission" = "Permission denied";
+
+"online" = "(Online)";
+"offline" = "(Offline)";
+"add_contact" = "Add Camera Device";
+"add_Wi-Fi" = "WiFi Setup";
+"add_new_device" = "Add New Camera Device";
+"addByManual" = "Add Camera Device";
+"add_manual" = "Add Manually";
+"input_contact_id" = "Input Camera Device ID";
+"input_contact_name" = "Input Customize Camera Device name";
+"input_contact_password" = "Input Camera Device password";
+
+"next" = "Next";
+"save" = "Save";
+
+"contact_already_exists" = "Device already exist";
+
+"monitor" = "Remote Access Real-time Monitoring";
+"chat" = "Call Camera Device";
+"message" = "Message";
+"playback" = "Playback";
+"control" = "Device Settings";
+"device_control" = "Device Settings";
+"modify" = "Edit";
+
+"recent_one_day" = "One day";
+"recent_three_day" = "Three day";
+"recent_one_month" = "One month";
+"custom" = "Custom";
+
+"device_password_error" = "Camera Device password error";
+"net_exception" = "Pls check device network status";
+
+"about" = "About";
+"about_text" = "Camnoopy, As micro video service platform, provides real-time view, the remote care, video sharing and other comprehensive video application service for family and small & micro enterprise users.\n◎With Camnoopy, you are easy to view the real-time and the history at your home, your store and your office etc.\n◎With Camnoopy, you can receive instant exception alert from the places you care about, and take the safety protection measures at once.\n◎With Camnoopy, you can share your most interesting life to whom you care about most.\n";
+
+"start_time" = "Start Time:";
+"end_time" = "End Time:";
+"search" = "Search";
+
+"unselected_start_time" = "Select video start time";
+"unselected_end_time" = "Select video end time";
+"start_time_must_before_end_time" = "Search starting time must not exceed Search ending time";
+
+"account_info" = "Account Information";
+"account" = "Account";
+"email" = "Email";
+"phone_number" = "Mobile Number";
+"modify_login_password" = "Modify Password";
+
+"unbind" = "Not Bind";
+"UNbind" = "Unbind";
+"modify_password" = "Modify Password";
+"input_original_password" = "Input old password";
+"input_new_password" = "Input new password";
+"confirm_input" = "Confirm password";
+"two_passwords_not_match" = "Two passwords does not match";
+"password_too_long" = "Password must not exceed 100 characters";
+"original_password_error" = "Original password error";
+
+"unknown_error" = "Unknown error";
+
+"sure_to_unbind_email" = "Confirm to unbind the email?";
+"sure_to_unbind_phone" = "Confirm to unbind the mobile phone?";
+
+"bind_email" = "Bind Email";
+"unbind_email" = "Edit Email address";
+"input_email" = "Input Email address";
+"email_length_error" = "Email must be 5 to 100 characters in length";
+"email_used" = "Email address has been used";
+"email_format_error" = "Email address error";
+
+"input_login_password" = "Input login password";
+"session_error" = "Login error. Account might be login from another device, please login again.";
+
+//"control" = "Control";
+
+"time_set" = "Date and Time";
+"media_set" = "Media Settings";
+"security_set" = "Security Settings";
+"network_set" = "Network Settings";
+"alarm_set" = "Alarm Settings";
+"record_set" = "Recording Settings";
+"defenceArea_set" = "Defense Area Settings";
+"remote_set" = "Remote Settings";
+"remote_reset" = "Reset Camera Device";
+"device_update" = "Device Firmware Update";
+"time_zone" = "Time zone";
+"apply" = "Apply";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "Video Format";
+"volume" = "Volume";
+"modify_device_password" = "Modify Device password";
+
+"motion" = "Motion Detection";
+"buzzer" = "Alarm Buzzer";
+"buzzer_time" = "Alarm Buzzer Time(minute)";
+
+"alarm_email" = "Notify Email";
+"bind_account" = "Bind Account";
+
+"sure_to_unbind_account" = "Confirm to remove ID from APP Notification?";
+"input_alarm_id" = "Input Account ID to receive Notification";
+"id_too_long" = "ID must not exceed 9 character";
+"alarm_id_must_zero_begin" = "Alarm ID must start with \'0\' ";
+"add_bind_account_prompt1" = "Can add only";
+"add_bind_account_prompt2" = "Alarm Notify account";
+
+"remote_defence" = "Remote Access Arm Camera Device";
+"remote_record" = "Remote Access Recording";
+
+"record_type" = "Record Type";
+"record_time" = "Record Time(minute)";
+
+"manual_record" = "24 hours Recording";
+"alarm_record" = "Alarm Trigger Recording";
+"timer_record" = "Scheduled Recording";
+"plan_time_table" = "Schedule Timetable";
+
+"net_type" = "Network Type";
+"wired" = "Ethernet";
+"wifi" = "Wi-Fi";
+"alarm_push" = "Alarm Notification ID";
+
+"change_net_prompt" = "Changing current network might cause device to disconnect, please confirm to proceed!!";
+
+"wifi_list" = "Wi-Fi List";
+
+"input_wifi_password" = "Input Router WiFi password";
+"wifi_password_format_error" = "WiFi password error";
+
+"remote" = "Remote Controller";
+"hall" = "Hall";
+"window" = "Window";
+"balcony" = "Balcony";
+"bedroom" = "Bedroom";
+"kitchen" = "Kitchen";
+"courtyard" = "Courtyard";
+"door_lock" = "Door Lock";
+"other" = "Others";
+"infrared" = "PIR Sensor";
+"smoke" = "Smoke";
+"gas" = "Gas";
+
+"clear_defence_prompt" = "Confirm to clear?";
+"learn_defence_prompt" = "Click OK to pair and code Sensor";
+"device_not_support_defence_area" = "Device does not support Defense Area";
+
+"bind_phone" = "Bind Mobile Number";
+"unbind_phone" = "Unbind Mobile Number";
+"input_phone" = "Input your Mobile Number";
+
+"china" = "China";
+"america" = "America";
+
+"phone_length_error" = "Number must be 6~15 characters in length";
+
+"phone_used" = "Mobile Number has been used";
+"get_phone_code_too_times" = "Try again later. Excessive Verication Code Sent";
+"phone_format_error" = "Mobile number format error";
+
+"phone_code_was_send_to" = "Verification code sent to";
+"phone_check_code" = "Verification Code";
+
+"choose_country" = "Choose Country";
+
+"email_id_login" = "Email/ Account ID Login";
+"phone_login" = "Mobile Number Login";
+
+"register_success_prompt" = "Sign Up Success";
+
+"searching_device_in_local" = "Searching Device in Local Area Network";
+
+"create_init_password_prompt" = "Device Password cannot be empty!";
+
+"device_already_exist_password" = "Adding Device Failed. Device password already exist";
+
+"call_in_prompt" = "Call from";
+"call_out_prompt" = "Calling to";
+"monitor_out_prompt" = "Connecting to";
+
+"net_warning_prompt" = "Current network not available, please check your network settings and router configuration";
+
+"now_version_is_latest" = "Latest Version, No Upgrades required";
+"other_was_check_device_update" = "Try again later";
+"device_not_support" = "Device does not support";
+
+"send" = "Send";
+
+"alarm_history" = "Alarm Logs";
+"alarm_device" = "Device:";
+"alarm_type" = "Alarm Type:";
+
+"input_message" = "Input message";
+"message_too_long" = "Message too long";
+"can_not_send_message_to_myself" = "Cannot send msg to yourself";
+"send_failure" = "Sending Failed";
+
+"device" = "Device";
+"view" = "View";
+"extern_alarm" = "External Alarm";
+"motion_dect_alarm" = "Motion Detection Alarm";
+"emergency_alarm" = "Emergency Alarm";
+"debug_alarm" = "Debug";
+"ext_line_alarm" = "I/O Alarm";
+"low_vol_alarm" = "Low Voltage Alarm";
+"pir_alarm" = "PIR Detection Alarm";
+"defence_enable_alarm" = "Enable defense";
+"defence_disable_alarm" = "Disable defense";
+"battery_low_alarm" = "Low Battery Warning";
+"parameters_upload_alarm" = "Upload Parameters to Server";
+"temperature_alarm" = "TEMP & HUM Alarm";
+"doorbell_alarm" = "Visitor Notification";
+"keypress_alarm" = "SOS Alarm";
+"record_failed_alarm" = "Recording failed";
+
+"forget_password" = "Forget Password?";
+
+"device_password_too_long" = "Device password does not exceed 100 character";
+"password_zero_format_error" = "Device password must be combination of numerics and should not begin with \'t be \'0\'";
+"password_number_format_error" = "Device password must be combination of numerics 0 to 9";
+
+"set_wifi" = "Set WiFi Connection";
+
+"no_connect_wifi" = "Mobile or Tablet has no WiFi connection, please connect to WiFi";
+"set" = "Set";
+
+"infrared_remote" = "Infra-red Remote";
+
+"input_ssid" = "Please input WiFi-SSID";
+
+
+"discovered" = "Discover";
+"new_device" = "New Device";
+"local_device_list" = "New Device List";
+
+"device_id_zero_format_error" = "Device ID must be combination of numerics and should not begin with \'0\'";
+
+"id_unknown_error" = "Unknown Error";
+"id_overdate" = "Device ID expired";
+"id_disabled" = "Device ID disabled";
+"id_inactived" = "Device ID not activated";
+"id_offline" = "Device offline, Pls check device network status";
+"id_busy" = "Try again later";
+"id_powerdown" = "Device ID is powered off";
+"id_connect_failed" = "Pls check device network status";
+"id_hangup" = "Hangup";
+"id_timeout" = "Network status is not good, pls try again later";
+"id_internal_error" = "Internal Error";
+"id_no_accept" = "No Answer";
+"id_password_error" = "Device password error";
+"id_not_support" = "Device ID does not support";
+
+"cur_version_is" = "Current Version ";
+"can_update_to" = "New Version available, do you wish to update";
+"start_update" = "Updating";
+"update_failed" = "Update Failed";
+"cancel_update" = "Cancel Update";
+
+
+
+"loading" = "loading...";
+"cur_version" = "Current Version";
+"kernel_version" = "Kernel Version";
+
+
+"rootfs_version" = "Roots Version";
+"uboot_version" = "uBoot Version";
+
+"device_info" = "Device Info";
+
+"release_new_version"="New Version Available";
+"ask_update_immediately"="Upgrade now?";
+"remain_me"="Remain me later";
+"update_me"="Update immediately";
+"rate_me"="Give us a rating";
+"skip_me"="Skip Upgrade Version";
+"latest_version"="Current is latest Version";
+"quit_update"="Quit Upgrading";
+
+"no_init_password_device" = "Device password empty";
+
+"defence_group" = "Defense Area";
+"defence_item" = "Sensor";
+"already_learn" = "Paired and Coded";
+"learning" = "Pairing Coding in process...";
+"clearing" = "Deleting in process...";
+
+"qrcode_add" = "Add with QR Code";
+"qrcode" = "WiFi setting with QR Code";
+"make" = "Create QR Scan Code";
+"help" = "FAQ";
+
+"add_device" = "Add Device";
+
+"empty_contact_prompt" = "Device List is empty, Add Device now!";
+"smart_key" = "Set WiFi By Smart IR Key";
+"smart_key_add" = "Smart IR Key";
+"search_local_area" = "Scan Local Area Network";
+"manually_add" = "Add Device Manually";
+
+"input_smart_key_prompt" = "insert Smart IR Key, and adjust media sound settings to highest volume.";
+
+"input_wifi_password_sk" = "Input WiFi password";
+"input_device_password_sk" = "Input Device password";
+"set_wifi_content_prompt" = "Hold Smart IR Key to the camera til “Ding” sound is heard.";
+"set_wifi_content_prompt1" = "Position Smart IR Key infront the camera:";
+"set_wifi_content_prompt2" = "“Ding” sound is heard,click Heard";
+"set_wifi_content_prompt3" = "“Bi-Bi-Bi” is heard,Click Return and re-enter Device password";
+"set_scanning_code_prompt" = "Aim and hold QR Scan Code infront of Camera till 'Ding' sound is heard";
+"heard" = "Heard";
+"back" = "Return";
+"waiting_content_prompt" = "Waiting for WiFi connection";
+"set_wifi_failed_title" = "Device not added, pls try again";
+
+
+"try_again" = "Try again";
+
+"qrcode_prompt" = "Position the QR code from the Mobile Device 20 to 30 cm infront of Camera and allow Camera to Scan QR Code. Hold and Wait till 'Ding' alert sound is heard.";
+
+"modify_visitor_password" = "Guest password";
+"auto_update" = "Automatically Update";
+
+"accept_alarm" = "Receive Notification";
+"human_infrared_detection" = "PIR Sensor";
+"wired_alarm_input" = "Wired Sensor input";
+"wired_alarm_output" = "Wired Sensor output";
+"image_inversion" = "Image Reverse";
+
+"TH_alert" = "TEMP & HUM alarm";
+"temperature_now" = "Current Temperature";
+"humidity_now" = "Current Humidity";
+"temperature_max" = "Upper Temperature Limit";
+"temperature_min" = "Lower Temperature Limit";
+"input_new_visitor_password" = "Please input Guest password";
+"human_infrared" = "PIR Sensor Switch";
+"anonymous_login" = "Anonymous Login";
+
+"anonymous" = "Anonymous";
+
+"remote_record_switch" = "Recording I/O";
+
+"modify_manager_password" = "Admin password";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "Number of viewers:";
+
+"time_zone_set" = "Timezone Setting";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "Sign Up";
+"phone_register" = "Mobile Number";
+"email_register" = "Email";
+"register_account" = "Register Account Guide";
+
+"storage_info" = "Micro SD Card Info";
+"sd_card_capacity" = "Capacity:";
+"sd_card_rem_capacity" = "Available:";
+"u_disk_capacity" = "Flash Disk Capacity:";
+"u_disk_rem_capacity" = "Remaining Capacitiy:";
+"sd_card_format" = "Delete & Format";
+"no_storage" = "Micro SD Card not available.";
+"device_not_support_no_storage" = "Device does not support or no SD Card is found";
+"not_support_format" = "Formatting is not supported.";
+"sd_format_success" = "Delete memory successful";
+"format_sd_card" = "Format SD Card";
+"confirm_format" = "All data will be deleted with this option. Confirm Delete?";
+
+"device_not_support_sensor_switch" = "Current Device does not support Sensor Pairing";
+"learn_code" = "Pairing and Code Sensor";
+
+"no_record" = "No Record";
+//"unknown_error" = "Unknown Error";
+"no_more_record" = "Record list is empty.";
+
+//----------
+"scan_switch" = "Change Batch";
+"scan_complete" = "Add completed";
+"scan_add_successfully" = "Added successfully";
+"scan_tip" = "Tips";
+"scan_tryagain" = "Try again";
+"scan_error01" = "WiFi password error";
+"scan_error02" = "Device does not support 5G router currently";
+"scan_error03" = "Router DHCP function is turned off";
+
+"mainmenu_alarmset" = "Set Alarm";
+"mainmenu_help" = "FAQ";
+
+"adddevice_btn_rader" = "Radar";
+"adddevice_btn_manual" = "Manual";
+"adddevice_tip" = "Camera is connecting to WiFi";
+"adddevice_btn_setwifi" = "Set WiFi";
+"adddevice_btn_skip" = "Skip";
+"add_guard_text06" = "Power Device";
+"add_guard_text07" = "Power Device and wait for 'Di-Di-Di' alert sound from camera;\nif Reset Camera if no sound is heard";
+"waiting_content_prompt01" = "Waiting for connection";
+"waiting_content_prompt02" = "Connecting...\nPlease be patient,connection will be completed soon.";
+"adddevice_warm_tip" = "Tips:Use English mode to input password.";
+"addDevice_warm_tips" = "Tips: To avoid unrequired privacy loss, modify the Device default password on initial usage!";
+
+"manual_set_time" = "Set Time Manually";
+"network_set_time" = "Network System Time";
+"year" = "Year";
+"month" = "Month";
+"day" = "Day";
+"hour" = "Hour";
+"minute" = "Min";
+"mac_address" = "mac address";
+"enabled" = "Enabled";
+"Automatic_get_ip" = "Get IP automatically";
+"ip_address" = "IP";
+"Subnet_mask" = "Subnet mask";
+"gateway" = "Gateway";
+"dns" = "DNS";
+"input_ip" = "Input IP address";
+"input_subnet" = "Input Subnet mask";
+"input_gateway" = "Input gateway";
+"input_dns" = "Input DNS";
+"connected" = "Connected";
+"connect_ipc_wifi" = "Please Connected WiFi--%@,Password 12345678";
+
+"one_min" = "1 min";
+"two_min" = "2 mins";
+"three_min" = "3 mins";
+"addshield_device" = "Add to Blocking List";
+"addshield_tip" = "APP will not receive Alarm Notification if ID is blocked";
+"already_shield" = "Added Account ID to Block List";
+"alarm_shield_device" = "Block Device Alarm";
+"alarm_interval" = "Notification interval(sec)";
+
+"smart_cameras" = "Smart Camera";
+"check_for_setting" = "Authenticating...";
+
+
+"pull_to_refresh" = "Pull to Refresh Device Status";
+"release_refresh" = "Release to Refresh Device Status";
+"loading" = "Refreshing...";
+
+"resend" = "Resend";
+"Skip" = "Skip";
+
+"tempe_format_error" = "Input format error";
+"set_TH_alert" = "Set TEMP & HUM Alarm";
+"please_input_number" = "Please input temperature value";
+"input_outnumber_limit" = "Exceed value setting range";
+
+"select_all" = "All";
+"sure_delete" = "Confirm to delete?";
+
+"delete_success" = "Deletion Successful";//2015.8.6
+"select_reset" = "Are you sure to restore this device to factory settings?";
+
+
+"mailbox" = "Email:";
+"password" = "Password:";
+"validating" = "Verifying...";
+"pwd_error" = "Password do not match";
+"not_verified" = "Mailbox not verified，ensure SMTP service is enable.";
+"not_support" = "Not supported";
+"check_box" = "Tick on option box - Sender and Receipent will be from same address";
+"recipient" = "Recipient:";
+
+"set_preset" = "Set Preset View Position";
+"check_preset" = "View Preset Position";
+
+"confirm_unblock" = "Confirm to remove device from Block List:";
+
+"sound_alarm" = "Sound Alarm";
+
+"humidity_min" = "Lower Humidity Limit";
+"humidity_max" = "Upper Humidity Limit";
+"input_humidity_limit" = "Humidity limit range:30~90(Up), 10~70(Low)";
+"input_TH_tips" = "Reminder(Limit range):\nTemperature:  5~65(Up),  -5~55(Low)\nHumidity:      30~90(Up), 10~70(Low)";
+
+//手动设置邮箱翻译
+"recipient" = "Recipient:";
+"recipient_number" = "Support three recipients,separate by commas";
+"recipient_not_empty" = "Recipient list cannot be empty";
+"recipient_scope" = "Limit to only three receipients";
+"recipient_length_format" = "Email must be 5 to 31 characters in length";
+"recipient_format" = "Mail format error";
+
+"sender" = "Sender:";
+"input_sender" = "Input sender's mail address";
+"sender_not_empty" = "The sender can't be empty";
+"sender_scope" = "The sender can't exceed one";
+"sender_length_format" = "Email must be 5 to 31 characters in length";
+"sender_format" = "Mail format error";
+
+"smtp_address" = "Smtp Address:";
+"smtp_number" = "Support five smtps.Separated stmps by commas";
+"smtp_not_empty" = "Smtp address can't be empty";
+"smtp_scope" = "Limit to only five smtps";
+"smtp_format" = "Smtp format error";
+
+"port" = "Port:";
+"input_port" = "Input port number";
+"non_encrypted" = "25(unencrypted)";
+"port_not_empty" = "Port number cannot be empty";
+"port_scope" = "Port number should be between 0 to 65535";
+"port_format" = "Port format to be only numeric";
+
+"encryption_mode" = "Encryption mode";
+"one_encryption" = "None";
+
+"manual_setting" = "Manual setting";
+"pwd_smtp_error" = "Smtp or password is incorrect";
+
+//DoorBell_2016.1.11
+"somebody_visit" = "Vistor Alert";
+
+"door_bell" = "Doorbell";
+"confirm_open" = "Open the door?";
+"not_support_operation" = "Device not support";
+"too_frequent" = "The operation is too frequent.";
+"not_open" = "GPIO not open";
+
+"motion_adjust" = "Motion Level";
+"no_playback_file" = "No saving files";
+
+//V8.4.1_新增
+"playback_TFCard" = "Remote Recording";
+"playback_cellphone" = "Local Recording";
+"no_record_file" = "No Recording Files";
+"no_previous_files" = "No Previous File";
+"no_next_files" = "No Next File";
+"file_info" = "File information";
+"save_ok_photoalbum" = "Saved";
+"save_to_photoalbum" = "Save to photo album";
+"save_photoalbum_tip" = "Pls set Iphone menu‘setting-privacy-photo’ to be allowed view your photo.";
+
+
+"screenshot_list_empty" = "Screenshot list is empty !";
+"alarm_vibration" = "Alarm vibration";
+"alarm_bell" = "The alarm bell";
+"Configuration_WiFi" = "configuration Wi-Fi";
+"restart_set" = "Device reboot";
+"modify_defenceArea_name" = "Customize Name";
+"modify_channel_name" = "Customize Name"; //2016.1.18
+"phone_code_error" = "Verification code is wrong";
+"wifi_set_title" = "WiFi setting";
+"device_password_too_simple" = "Device password is too simple, New password must be 6 to 100 characters including alphabetic and numbers";
+"device_new_password_prompt" = "New password must be 6 to 100 characters including alphabetic and numbers";
+"set_wifi_failed_prompt" = "Possible reason:\n1.WiFi password incorrect \n2.Camera Device does not support 5 Ghz bandwidth router currently \n3.WiFi Network unstable";
+"set_wifi_success_title" = "Setting Success!";
+"set_initPassword" = "Set password";
+"set_TH_alert" = "Set TEMP & HUM Alarm";
+"select_restart" = "Are you sure you want to restart?";
+
+"questionone" = "Q: How to add Camera to your mobile APP?";
+"questiontwo" = "Q: How to pair Camera to WiFi connection?";
+"questionthree" = "Q: How to reset the Camera?";
+"questionfour" = "Q: How to set video recording for the Camera?";
+"questionfive" = "Q: How to pair RF Wireless Sensors to the Camera?";
+"questionsix" = "Q: How to modify default administrator password?";
+"questionseven" = "Q: How to update Camera firmware with the APP?";
+"questioneight" = "Q: How to playback recording video?";
+"questionnine" = "Q: How to update APP version?";
+"questionten" = "Q: How to set vibration and ringtone mode for Alarm Notification via the APP?";
+"questioneleven" = "Q: When clicking on Camera to view Live-Stream, message indicates password is incorrect.";
+"questiontwelve" = "Q: Device shows offline under “Device list”";
+"questionthirteen" = "Q: WiFi router name not detected under WiFi list.";
+"questionfourteen" = "Q: Video File not located for Video Playback";
+"questionfifteen" = "Q: Camera System crashes due to power failure during Firmware upgrade or Upgrade process termination.";
+"questionsixteen" = "Q: IR Cut changes frequently causing image changes from colour to night vision continuously";
+"questionseventeen" = "Q: “Whistling” sound appears when viewing with Mobile Phone and Camera operating under same environment.";
+"questioneighteen" = "Q: Check the following if you are not able to connect Camera to WiFi or if WiFi is unstable:";
+"questionnineteen" = "Q: How to export video files from Micro SD Card to PC?";
+"questiontwenty" = "Q: What to do if Device is offline?";
+"questionTwentyone" = "Q: APP does not receive Alarm Notification Alerts";
+"questionTwentytwo" = "Q: Camera does not recognize Micro SD Card";
+"answerone" = "A: Method 1: Power and plug Ethernet cable to Camera and will allow Camera to connect to the internet. Click the “+” icon located on screen top right corner. Choose Add Manually and input the Camera ID, Customized Device Name and Camera Password to add the camera to your APP. You can choose to connect using WiFi under Network Settings – WiFi List. If RJ45 cable is not available, press and hold on Reset button on the camera till “Swish” sound is heard followed by “Di-Di-Di” alert sound. Click on the “+” icon located on screen top right corner and choose Smart WiFi Setup. Follow the APP instructions to setup. Router Display name will be the WiFi connected on your mobile phone, input the Router WiFi password, click “Next” and wait for the connection. If unsuccessful, please ensure your WiFi password is correct or restart Method II setup process.";
+"answertwo" = "A: Method 1: Power and plug Ethernet cable to Camera and will allow Camera to connect to the internet. Click the “+” icon located on screen top right corner. Choose Add Manually and input the Camera ID, Customized Device Name and Camera Password to add the camera to your APP. You can choose to connect using WiFi under Network Settings – WiFi List. Method 2: Power on your Camera Device but do not plug the Ethernet cable to Camera Ethernet port and press and hole Reset button on the Camera Device and wait for “Di-Di-Di” sound. Click on the “+” icon located on screen top right corner and choose Smart WiFi Setup. Follow the APP instructions to setup. Router Display name will be the WiFi connected on your mobile phone, input the Router WiFi password, click “Next” and wait for the connection. If unsuccessful, please ensure your WiFi password is correct or restart Method II setup. Note: This method will require your Camera Device UBoot Version 4 and above, Kernel Version 3 and above and Firmware Version 13 and above.";
+"answerthree" = "A: 1) Press and hold the reset button with a pointed object (Needle, Toothpick) to reset the Camera. The reset button is usually located at the back portion of the Camera. When pointed object presses on the reset button correctly, sound alert (“Di”) can be heard followed by “Swing” like sound alert, this indicates that the camera has been reset successfully. You can also reset the Camera via your APP. To reset the Camera, go to Device settings and click on Restore Factory Settings..";
+"answerfour" = "A: Insert a formatted (FAT32 format can be done with PC or Laptop) Micro SD Card to the Camera TF card interface slot and restart the Camera. Max Micro SD Card capacity supported by the Camera is 128GB but please ensure a Genuine Class 4 above Micro SD Card is used. Under Device settings – Record Settings, choose from 3 options for recording. Manual Recording refers to 24 hours recording, Alarm Recording refers to recording will only commence upon alarm trigger ( with intervals of 1 min, 2 mins, 3 mins) and Scheduled Recording refers to setting recording start and ending time. Default resolution for recording is Standard Definition.";
+"answerfive" = "A: Wireless RF Security Components refers to Battery or Wired security products like Door or Window Sensors, PIR Detector Sensors, Smoke or Gas Detector Sensors with RF Module. The Sensors used with the Camera must be RF 433 MHz with 1527 or 2262 protocols. You can purchase these components from us or resellers. To pair and learn Sensors to the Camera, please click on Camera screen to enter vertical view and left slide screen. Click on Sensor Pairing, trigger Sensor to pair to Camera. You can preset the Sensor position if desired. The preset position consists of 5 positions and positions are fixed. Position 1 is extreme left, position 3 is central while position 5 is extreme right. For Remote Controller pairing, click on Remote Controller Pairing and press on any button of the controller. To receive Alarm Notification on mobile phone, please ensure Account ID is in the notification list and Camera in defense mode. ";
+"answersix" = "A: Click on Device settings – Security settings to change administrator password and set guest password is desired.";
+"answerseven" = "A: To update Camera Device Firmware, click on Camera settings – Device Update. If there is an updated Firmware version, it will prompt to download. If updating of Firmware was not successful, please reboot or restore factory settings to the Camera.";
+"answereight" = "A:To playback video, click on the top left icon or right slide screen and click on Video Playback. Click on the Camera Device you require to view playback and choose file from Micro SD Card or Mobile.";
+"answernine" = "A:To check and update APP version, click on the top left icon or right slide screen and click on “About” will indicate the APP version. Click on below “Check Version” will check and update APP version if required.";
+"answerten" = "A: To choose the Alarm sound alert for Alarm Push Notification, click on the top left icon or right slide screen and click on “Settings” – Alarm Tone and choose the type of ringtone you desire. Choose Alerts Notification with Alarm Tone and Vibration according to your preference.";
+"answereleven" = "A:Ensure Camera ID password for remote access is correct. On My Camera page, click on the “notepad” icon to input correct password. If Camera password is forgotten, reset Camera to Factory Settings – Factory Settings Default password will be restored to 123.;";
+"answertwelve" = "A:Check Power source and Router Network and ensure functional. Network Indicator light ought to be lithe if connection to internet is normal. If connection to the camera fails, unplug the power source and power Camera in a min or Reset the Camera. Refresh the connection status by sliding downward on screen.";
+"answerthirteen" = "A:Camera Device supports WiFi 2.4Ghz only. Please ensure router 2.4Ghz bandwidth is operational, Camera and Router connected to 2.4Ghz bandwidth. Ensure the SSID for WiFi is not hidden and use original Operating System for Mobile or Tablets.";
+"answerfourteen" = "A: Check Micro SD Card is not damaged. Camera System Time and Video Time is align, alter Camera System time by clicking Camera Setting (Gearwheel icon) – Date and Time. Remove Micro SD Card, power off Camera and insert Micro SD Card before powering the Camera Device. If problem still exists, Reset Camera to Default Factory Settings and try again. If problem persist, contact the seller or manufacturer for more assistance.";
+"answerfifteen" = "Check Camera System Time if restore to factory default settings. The file stored date and time will be previous Camera Time System hence please ensure System Time is correct.";
+"answersixteen" = "A：The camera has IR Cut Filter function. Color image or Night Vision image varies from the detection of light density. Certain scenarios will cause IR Cut features to turn on and off rapidly. IE: While watching Television in a dimly lit environment and the various light source from the television will cause the switch of the IR Cut to work rapidly.";
+"answerseventeen" = "A:”Whistling“ sound is due to input and output sound produced from Camera Device and Mobile Device speaker and Microphone. This problem is normal and you can lower the volume or mute the mobile device volume to decrease or avoid the sound. When viewed from different environment this product will not exist.";
+"answereighteen" = "A: 1、Reset Camera Device to Default Factory Setting if unable to pair Camera to WiFi and Mobile. \n2、Camera Device supports only 2.4 Ghz Network Bandwith currently. \n3、Recommend WPA / WPA2 settings with AES encryption and do not use TKIP. n4、Turn of AP Isolation under the Router Advance Settings. \n7、Some WiFi Hotspot like 360 portable WiFi Hotspot mini router is not supported by the Camera. \n8 Signal interference from the surrounding enviroment might affect the WiFi connection and bandwidth. You can change the WiFi routing channel if required. \n9、SSID Password to be only alphabetical and numeric text only.  \n10、Switch off Mac Filter Address from Router Settings. \n11、Switch off ARP option from your router. \n12、Restrict use for G1 option if you are using TotoLink router (Korea).  \n13、When pairing camera device to your router, please maintain adequate distance. \n14、Ensure adequate internet bandwidth for Camera stability connection performance. \n15、Signal interference to Camera. Refrain from placing the Camera near Wireless Telephone, Microwave appliances or appliances that might affect the Camera performance. \n16、Ensure WiFi signal strength. Some renovation material might weaken WiFi signal.";
+"answernineteen" = "A：1)Power off the Camera and remove the Micro SD Card. Copy the Video files to computer for backup. \n2）Use PC software to download the files to the computer.";
+"answertwenty" = "A: Rule out network connection stability by power on Camera device, plug in ethernet cable to Camera. Reset the Camera and reconfigure WiFi from the Network settings - WiFi List from APP..";
+"answerTwentyone" = "A: Ensure Alarm Notification is turn on from Camera Alarm Notification Settings. Camera Defense in in Armed status.";
+"answerTwentytwo" = "A: Ensure Micro SD Card is genunie with Class 4 above standard and format Micro SD Card to FAT32 format with your computer. The Camera format function might not support all the cards available in the market.";
+
+"FTP" = "  FTP Setting";
+"server_address" = "  server address:";
+"port_number" = "  port number:";
+"sever_name" = "  sever name:";
+"sever_password" = "  sever password:";
+"FTP_lable" = "FTP function ON/OFF";
+"please_server_address" = "please server address";
+"please_port_number" = "please port number";
+"please_sever_name" = "please sever name";
+"please_sever_password" = "please sever password";
+"FTP_format_error" = "Set the network the way information is wrong, there may be a user name, password, domain name exceeds the maximum character limit.";
+"FTP_operator_failure" = "Set the network the way information is wrong, there may be a network failure.";
+"sever_not_empty" = "Server address can not be empty";
+"port_not_empty" = "Ports can not be empty";
+"username_not_empty" = "Name can not be empty";
+"possword_not_empty" = "password can not be blank";
+
+"update" = "Update";
+"version" = "version";
+"next_time" = "Cancel";
+"update_now" = "Update";
+
+//记住用户登录密码
+"un_rem_pass" = "Foget password";
+"rem_pass" = "Remember password";
+
+
+
+
+
+
+

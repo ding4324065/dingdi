@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Camnoopy
+
+  Created by 卡努比 on 16/8/23.
+  Copyright © 2016年 guojunyi. All rights reserved.
+*/
+CFBundleDisplayName = "Camnoopy";
+NSCameraUsageDescription="";
+NSMicrophoneUsageDescription="";
+NSPhotoLibraryUsageDescription="";

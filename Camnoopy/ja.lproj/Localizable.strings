@@ -1,0 +1,597 @@
+/* Localized versions of Info.plist keys */
+
+"account_login" = "アカウントログイン";
+"input_username" = "入力してください　メールアドレス/ID/携帯電話番号";
+"input_password" = "パスワードを入力してください";
+"login" = "ログイン";
+"unInputUsername" = "入力してください　メールアドレス/ID/携帯電話番号";
+"unInputPassword" = "パスワードを入力してください";
+
+"login_failure" = "ログイン失敗";
+"user_unexist" = "ユーザーが存在しません";
+"password_error" = "パスワードエラー";
+
+"ok" = "確定";
+"cancel" = "キャンセル";
+
+"contact" = "カメラリスト";
+"discover" = "フルフル";
+"no_device" = "カメラを検出できません";
+"recent" = "直近";
+"toolbox" = "ツール";
+"setting" = "システム設定";
+
+"logout" = "ログアウト";
+"exit" = "終了";
+
+"account_information" = "ユーザー情報";
+
+
+"exit_prompt" = "終了しますか？";
+"logout_prompt" = "ログアウトしますか?";
+"call" = "コール";
+"monitor" = "モニター";
+"accept" = "Accept";
+"reject" = "HangUp";
+
+"input_monitor_id" = "モニターIDを入力してください";
+"input_call_id" = "コールIDを入力してくださ";
+"input_device_password" = "カメラパスワードを入力してください";
+
+"account_info" = "アカウント情報";
+"check_update" = "アップデート";
+"screenshot" = "写真撮影";
+"about_us" = "アプリについて";
+
+"screenshot_success" = "撮影成功";
+
+"device_name" = "カメラ名";
+"device_password" = "カメラパスワード";
+"delete_device" = "カメラ消去";
+"delete" = "消去";
+
+"sure_to_delete" = "消去しますか?";
+"sure_to_clear" = "クリアーしますか?";
+"operator_success" = "変更完了";
+"operator_failure" = "変更失敗";
+"operator_failure_unsupport_wifi" = "変更失敗,そのカメラはWifiに接続されていません";
+"operator_failure_unsupport_wire" = "変更失敗,可能そのカメラはLANに接続されえいません";
+"modify_success" = "完了";
+"modify_failure" = "失敗";
+"no_permission" = "アクセスできません";
+
+"online" = "(オンライン)";
+"offline" = "(オフライン)";
+"add_contact" = "カメラ追加";
+"add_Wi-Fi" = "Wi-Fi 接続";
+"add_new_device" = "新カメラ追加";
+"addByManual" = "カメラ追加";
+"add_manual" = "手動追加";
+"input_contact_id" = "カメラIDを入力してください";
+"input_contact_name" = "カメラ名を入力してください";
+"input_contact_password" = "カメラパスワードを入力してください";
+
+"next" = "次";
+"save" = "保存";
+
+"contact_already_exists" = "すでに登録済みです";
+
+"monitor" = "モニター";
+"chat" = "コール";
+"message" = "メッセージ";
+"playback" = "戻る";
+"control" = "設定";
+"device_control" = "設定";
+"modify" = "編集";
+
+"recent_one_day" = "1日";
+"recent_three_day" = "3日 ";
+"recent_one_month" = "1か月";
+"custom" = "カスタム";
+
+"device_password_error" = "カメラパスワードエラー";
+"net_exception" = "ネットワークエラー";
+
+"about" = "アプリについて";
+"about_text" = "「Camnoopy」、ホームユーザーや中小企業のためのマイクロビデオサービスプラットフォームは、リアルタイム視聴、遠隔医療、ビデオ共有やその他の包括ビデオアプリケーションを提供することを目的とします。\n◎によって「Camnoopy」、あなたは簡単にあなたの家、店舗、オフィス、リアルタイムビデオ、歴史的な記録の他の場所を表示することができます。\n◎によって「Camnoopy」、あなたのお気に入りの場所に異常アラーム、セキュリティ対策を取るのは初めてについての簡単な情報を受け取ることができます。\n◎によって「Camnoopy」、あなたが最も気に人々と生活を共有することがあなたの最高の面白いを置くことができます。";
+
+"start_time" = "開始時間:";
+"end_time" = "終了時間:";
+"search" = "検索";
+
+"unselected_start_time" = "開始時間を選択してください";
+"unselected_end_time" = "終了時間を選択してください";
+"start_time_must_before_end_time" = "開始時間は終了時より前に設定してください";
+
+"account_info" = "アカウント";
+"account" = "アカウント";
+"email" = "メールアドレス";
+"phone_number" = "携帯電話";
+"modify_login_password" = "ログインパスワード";
+
+"unbind" = "削除";
+"UNbind" = "削除";
+"modify_password" = "パスワード変更";
+"input_original_password" = "旧パスワードを入力してください";
+"input_new_password" = "新パスワードを入力してください";
+"confirm_input" = "入力内容を確認";
+"two_passwords_not_match" = "パスワードが一致しません";
+"password_too_long" = "パスワードは30文字以内にしてください";
+"original_password_error" = "パスワードエラー";
+
+"unknown_error" = "エラー";
+
+"sure_to_unbind_email" = "メールアドレスを削除しても良いですか?";
+"sure_to_unbind_phone" = "電話番号を削除してもいいですか?";
+
+"bind_email" = "メールアドレス登録";
+"unbind_email" = "メールアドレス削除";
+"input_email" = "メールアドレスを入力してください";
+"email_length_error" = "メールアドレスの長さは5-31文字でお願いします";
+"email_used" = "メールアドレスは既に登録済です";
+"email_format_error" = "メールアドレスフォーマットエラー";
+
+"input_login_password" = "ログインパスワードを入力してください";
+"session_error" = "エラー　貴方のアカウントは別の場所で使われています　再度ログインしてください";
+
+//"control" = "各種設定";
+
+"time_set" = "日時設定";
+"media_set" = "カメラ設置";
+"security_set" = "パスワード設定";
+"network_set" = "ネットワーク設定";
+"alarm_set" = "警報設定";
+"record_set" = "録画設定";
+"defenceArea_set" = "監視エリア設定";
+"remote_set" = "リモート設定";
+"remote_reset" = "リモート解除";
+"device_update" = "カメラアップデート";
+
+"time_zone" = "標準時間";
+"apply" = "適応";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "ビデオ形式";
+"volume" = "音量";
+
+"modify_device_password" = "カメラパスワード変更";
+
+"motion" = "動体検知";
+"buzzer" = "ブザー音";
+"buzzer_time" = "ブザー音時間(分)";
+
+"alarm_email" = "警報メールアドレス";
+"bind_account" = "アカウント";
+
+"sure_to_unbind_account" = "警報IDを削除しても良いですか?";
+"input_alarm_id" = "警報IDを入力してください";
+"id_too_long" = "IDは9文字以内にしてください";
+"alarm_id_must_zero_begin" = "警報ＩＤは先頭に0を入力してください";
+"add_bind_account_prompt1" = "追加できます";
+"add_bind_account_prompt2" = "警報アカウント";
+
+"remote_defence" = "リモート警報";
+"remote_record" = "リモート録画";
+
+"record_type" = "録画タイプ";
+"record_time" = "録画時間(分)";
+
+"manual_record" = "手動録画";
+"alarm_record" = "警報録画";
+"timer_record" = "定時録画";
+"plan_time_table" = "スケジュール";
+
+"net_type" = "ネットワークタイプ";
+"wired" = "有線LAN";
+"wifi" = "無線Wi-Fi";
+"alarm_push" = " 警報ID";
+
+"change_net_prompt" = "ネットワークを変更すると、カメラがオフラインになる場合がございます。ご確認ください!";
+
+"wifi_list" = "WIFIリスト";
+
+"input_wifi_password" = "Wifiパスワードを入力してください";
+"wifi_password_format_error" = "Wifi パスワードエラー";
+
+"remote" = "リモート";
+"hall" = "ホール";
+"window" = "窓";
+"balcony" = "ベランダ";
+"bedroom" = "寝室";
+"kitchen" = "台所";
+"courtyard" = "中庭";
+"door_lock" = "ドア";
+"other" = "その他";
+"infrared" = "赤外線";
+"smoke" = "スモーク";
+"gas" = "ガス";
+
+"clear_defence_prompt" = "クリアーしてよいですか?";
+"learn_defence_prompt" = "コードへのセンサー接続するために「OK」を押してください";
+"device_not_support_defence_area" = "このカメラは警報エリアをサポートしていません";
+"modify_defenceArea_name" = "改名";
+"modify_channel_name" = "チャンネル名変更";//2016.1.18
+
+"bind_phone" = "携帯電話番号接続";
+"unbind_phone" = "携帯電話番号が接続できません";
+"input_phone" = "携帯電話番号を入力してください";
+
+"china" = "中国";
+"america" = "アメリカ";
+
+"phone_length_error" = "携帯電話番号は6-15文字を入力してください";
+
+"phone_used" = "電話番号は使われています";
+"get_phone_code_too_times" = "商品コードを再取得して、もう一度入力してください";
+"phone_format_error" = "携帯電話番号削除エラー";
+
+"phone_code_was_send_to" = "確認コードがに送信されました";
+"phone_check_code" = "確認ごーど";
+
+"choose_country" = "国選択";
+
+"email_id_login" = "メールアドレス/ID";
+"phone_login" = "携帯電話";
+
+"register_type_phone" = "携帯電話番号で登録>>";
+"register_type_email" = "メールアドレスで登録>>";
+
+"register_success_prompt" = "登録完了!";
+
+"searching_device_in_local" = "LANでカメラを検索";
+
+"create_init_password_prompt" = "カメラパスワードが未入力です。新しいパスワードを作成してください";
+
+"device_already_exist_password" = "追加失敗　カメラは既にパスワード登録されています";
+
+"call_in_prompt" = "呼出し";
+"call_out_prompt" = "呼出し";
+"monitor_out_prompt" = "接続";
+
+"net_warning_prompt" = "ネットワークが使用できません。設定を確認してください";
+
+"now_version_is_latest" = "これは最新バージョンです";
+"other_was_check_device_update" = "カメラ使用中";
+"device_not_support" = "カメラが対応してません";
+
+"send" = "送信";
+
+"alarm_history" = "警報記録";
+"alarm_device" = "カメラ:";
+"alarm_type" = "タイプ:";
+
+"input_message" = "メッセージを入力してください";
+"message_too_long" = "メッセージが長すぎます";
+"can_not_send_message_to_myself" = "自分へはメッセージを送信できません";
+"send_failure" = "送信失敗";
+
+"device" = "カメラ";
+"view" = "見る";
+"extern_alarm" = "外部警報";
+"motion_dect_alarm" = "動体検知";
+"emergency_alarm" = "緊急警報";
+"debug_alarm" = "デバック";
+"ext_line_alarm" = "I/O 警報";
+"low_vol_alarm" = "低電圧警報";
+"pir_alarm" = "PIR 検出警報";
+"defence_enable_alarm" = "警報有効";
+"defence_disable_alarm" = "警報無効";
+"battery_low_alarm" = "バッテリー低電圧";
+"parameters_upload_alarm" = "パラメーターアップロードサーバー";
+"temperature_alarm" = "温度警報「";
+"doorbell_alarm" = "ドアベル警報";
+"keypress_alarm" = "キー押し";
+"record_failed_alarm" = "録画失敗";
+
+"forget_password" = "パスワードを忘れましたか?";
+
+"device_password_too_long" = "カメラパスワードは10文字以内にしてください";
+"password_zero_format_error" = "カメラパスワードは先頭を０以外の数字の組み合わせにしてください";
+"password_number_format_error" = "カメラパスワードは9文字以内にしてください";
+
+"set_wifi" = "Wifi設定";
+
+"no_connect_wifi" = "携帯電話がWifiに接続されていません。再度Wifi接続を確認してください";
+"set" = "設定";
+
+"infrared_remote" = "赤外線リモート";
+
+"input_ssid" = " WIFI-SSIDを入力してください";
+
+"discovered" = "発見";
+"new_device" = "新カメラ";
+"local_device_list" = "新カメラリスト";
+
+"device_id_zero_format_error" = "カメラIDは０以外で始まる数字の組み合わせにしてください";
+
+"id_unknown_error" = "エラー";
+"id_overdate" = "リモートIDの有効期限が切れています";
+"id_disabled" = "リモートIDは無効です";
+"id_inactived" = "リモートIDが有効化されていません";
+"id_offline" = "オフライン";
+"id_busy" = "混線";
+"id_powerdown" = "IDはオフラインです";
+"id_connect_failed" = "接続失敗";
+"id_hangup" = "電話を切る";
+"id_timeout" = "タイムアウト";
+"id_internal_error" = "エラー";
+"id_no_accept" = "つながりません";
+"id_password_error" = "カメラパスワードエラー";
+"id_not_support" = "未対応";
+
+"cur_version_is" = "現在のバージョン";
+"can_update_to" = "アップデートできます";
+"start_update" = "アップデート開始";
+"update_failed" = "アップデート失敗";
+"cancel_update" = "キャンセル";
+
+"loading" = "読み込み中...";
+"cur_version" = "バージョン";
+"kernel_version" = "KernelVersion";
+"rootfs_version" = "RootfsVersion";
+"uboot_version" = "uBootVersion";
+
+"device_info" = "カメラ情報";
+
+"release_new_version"="新しいバージョンがリリースされました";
+"ask_update_immediately"="直ぐにアップデートしますか?";
+"remain_me"="現状維持";
+"update_me"="今すぐ更新";
+"rate_me"="rate for me";
+"skip_me"="このバージョンをスキップする";
+"latest_version"="最新バージョンです";
+"quit_update"="アップデートの必要はありません";
+
+"no_init_password_device" = "カメラパスワードが設定されていません";
+
+"defence_group" = "グループ";
+"defence_item" = "アイテム";
+"already_learn" = "コード化されました";
+"learning" = "コーディング...";
+"clearing" = "clearing...";
+
+"qrcode_add" = "スマートスキャン";
+"qrcode" = "QRコードでWifiを設定する";
+"make" = "作成";
+"help" = "ヘルプ";
+
+"add_device" = "カメラ追加";
+
+"empty_contact_prompt" = "新しいカメラを追加してください!";
+"smart_key" = "スマートキーでWifiを設定する";
+"smart_key_add" = "スマートキー";
+"search_local_area" = "LAN スキャン";
+"manually_add" = "手動";
+
+"input_smart_key_prompt" = "スマートキーを挿入して、音量を最大値にしてください.";
+
+"input_wifi_password_sk" = " WiFiパスワードを入力してください";
+"input_device_password_sk" = "カメラパスワードを入力してください";
+"set_wifi_content_prompt" = " .”ディン”の音がカメラから聞こえるまで、スマートキーをそのまま保持してください.";
+"set_wifi_content_prompt1" = "スマートキーはカメラに直面して配置します:";
+"set_wifi_content_prompt2" = " .”ディン”の音がカメラから聞こえたら「確認」をおしてください";
+"set_wifi_content_prompt3" = "”ビービービー”の音が鳴った場合は「戻る」を押してカメラパスワードを再入力してください";
+"set_scanning_code_prompt" = "“ディン”の音が聞こえるまで、スマートスキャンコードをカメラに向けておいてください";
+"heard" = "聞こえた";
+"back" = "戻る";
+"waiting_content_prompt" = " WiFi接続中";
+"set_wifi_failed_title" = "接続失敗";
+"set_wifi_failed_prompt" = "考えられる理由:\n  1.携帯電話とLANが同じではありません\n  2.カメラは無線LANに接続できませんi\n  3.５G wifiに対応していません";
+"set_wifi_success_title" = "設定完了!";
+"try_again" = "再試行します";
+
+"qrcode_prompt" = "カメラから20～30センチメートル離して携帯電話を置いてください、”ディン”の音が聞こえるまで、スマートキーはカメラに直面して配置してください。?";
+
+"modify_visitor_password" = "ゲストパスワード";
+"auto_update" = "アップデートについて";
+
+"accept_alarm" = "警報メッセージを受信";
+"human_infrared_detection" = "赤外線スイッチ";
+"wired_alarm_input" = "有線警報入力";
+"wired_alarm_output" = "有線警報出力";
+"image_inversion" = "画像反転";
+
+"TH_alert" = "温度　湿度　警報";
+"temperature_now" = "現在温度";
+"humidity_now" = "現在湿度";
+"temperature_max" = "最低温度";
+"temperature_min" = "最高温度";
+
+"input_new_visitor_password" = "ゲストパスワードを入力してください";
+"human_infrared" = "赤外線スイッチ";
+"anonymous_login" = "匿名ログイン";
+
+"anonymous" = "匿名";
+
+"remote_record_switch" = "録画スイッチ";
+
+"modify_manager_password" = "管理者パスワード";
+
+"SD" = "スピード…";
+"LD" = "通常画質";
+"HD" = "高画質";
+"number_viewer" = "視聴者数:";
+
+"time_zone_set" = "標準時間設定";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "登録";
+"phone_register" = "携帯電話で登録";
+"email_register" = "メールアドレスで登録";
+"register_account" = "登録案内";
+
+"storage_info" = "ストレージ情報";
+"sd_card_capacity" = "SDカード容量:";
+"sd_card_rem_capacity" = "SDカード残量:";
+"u_disk_capacity" = "USB容量:";
+"u_disk_rem_capacity" = "USB残量:";
+"sd_card_format" = "SDカード消去";
+"no_storage" = "記憶媒体がありません.";
+"device_not_support_no_storage" = "SDカードを見つけることがきでません";
+"not_support_format" = "カメラはフォーマット未対応です.";
+"sd_format_success" = "SDカード不フォーマット完了";
+"format_sd_card" = "SDカードフォーマット";
+"confirm_format" = "ファーマットしますか？すべてのデータが消去されます!";
+
+"device_not_support_sensor_switch" = "このカメラはセンサースイッチ未対応です";
+"learn_code" = "コード記憶";
+
+"no_record" = "記録なし";
+//"unknown_error" = "エラー";
+"no_more_record" = "これ以上記録はありません.";
+
+//----------
+"scan_switch" = "スイッチ";
+"scan_complete" = "完了";
+"scan_add_successfully" = "追加完了";
+"scan_tip" = "注意";
+"scan_tryagain" = "再試行します";
+"scan_error01" = "Wifiパスワードエラー";
+"scan_error02" = "５Gのルーターは未対応です";
+"scan_error03" = "ルーターのDHCPが確認できません";
+
+"mainmenu_alarmset" = "警報設定";
+"mainmenu_help" = "ヘルプ";
+
+"adddevice_btn_rader" = "レーダー";
+"adddevice_btn_manual" = "手動";
+"adddevice_tip" = "Wi-Fiカメラ　接続について";
+"adddevice_btn_setwifi" = "Wifi設定";
+"adddevice_btn_skip" = "スキップ";
+"add_guard_text06" = "パワーオン";
+"add_guard_text07" = "パワーオンして“ジジジ の音を待ってください。聞こえない場合はリセットしてkうださい";
+"waiting_content_prompt01" = "接続待ち";
+"waiting_content_prompt02" = "接続しています... \n接続は直ぐに完了します。.";
+"adddevice_warm_tip" = "注意:パスワードに英字を使用してください.";
+"addDevice_warm_tips" = "注意: 最初に使用する時に、デフォルトのパスワードを変更してください!";
+
+"manual_set_time" = "手動設定時間";
+"network_set_time" = "ネットワーク設定時間";
+"year" = "年";
+"month" = "月";
+"day" = "日";
+"hour" = "時";
+"minute" = "分";
+"mac_address" = "mac アドレス";
+"enabled" = "使用可能";
+"Automatic_get_ip" = "IP自動取得";
+"ip_address" = "IP";
+"Subnet_mask" = "サブネットマスク";
+"gateway" = "ゲートウェイ";
+"dns" = "DNS";
+"input_ip" = "IPアドレスを入力してください";
+"input_subnet" = "サブネットマスクを入力してください";
+"input_gateway" = "ゲートウェイを入力してください";
+"input_dns" = " DNSを入力してください";
+"connected" = "接続";
+"connect_ipc_wifi" = " WiFiに接続してください--%@,パスワード12345678";
+
+"one_min" = "1分";
+"two_min" = "2分";
+"three_min" = "3分";
+"addshield_device" = "シールドデバイス追加";
+"addshield_tip" = "このAPPは警報を受信しません";
+"already_shield" = "このアカウントへのアクセスをブロックしました";
+"alarm_shield_device" = "シールドデバイス警報";
+"alarm_interval" = "警報間隔(分)";
+
+"smart_cameras" = "スマートカメラ";
+"check_for_setting" = "認証...";
+
+
+"pull_to_refresh" = "更新";
+"release_refresh" = "更新";
+"loading" = "更新中...";
+
+"resend" = "再送";
+"Skip" = "スキップ";
+
+"tempe_format_error" = "入力形式エラー";
+"set_TH_alert" = "温度 湿度気泡設定";
+"please_input_number" = "温度を入力してください";
+"input_outnumber_limit" = "温度範囲を超えています";
+
+"delete_success" = "削除完了";//2015.8.6
+
+"select_all" = "全て";
+"sure_delete" = "削除しますか?";
+"select_reset" = "あなたは工場出荷時の設定を復元してもよろしいですか？";
+
+
+"mailbox" = "ポスト:";
+"password" = "パスワード:";
+"validating" = "検証...";
+"pwd_error" = "パスワードとアカウント番号が一致しません";
+"not_verified" = "未確認のメールボックスは、メールボックスがオープンSMTPサービスであることを確認してください！";
+"not_support" = "サポートされていません";
+"check_box" = "ボックス、送信者を確認し、受信者が同一人物であります";
+"recipient" = "名宛人:";
+
+"set_preset" = "設定プリセット";
+"check_preset" = "見ますプリセット";
+
+"confirm_unblock" = "あなたは機器のマスクを解除してもよろしいです:";
+
+/*2015.11.25*/
+"sound_alarm" = "警報音";
+
+/*2015.12.24*/
+"humidity_min" = "湿度下限";
+"humidity_max" = "湿度上限";
+"input_humidity_limit" = "低い湿度範囲について:30~90(上), 10~70(下)";
+"input_TH_tips" = "ヒント:\n上下の温度範囲:  5~65(上),  -5~55(下)\n低い湿度範囲について:30~90(上),  10~70(下)";
+
+/*2016.1.5*/
+//手动设置邮箱翻译
+"recipient" = "名宛人:";
+"recipient_number" = "これは、カンマで区切られた、3つだけをサポートしています";
+"recipient_not_empty" = "受信者は、空にすることはできません";
+"recipient_scope" = "受信者ができない以上3";
+"recipient_length_format" = "受信者のメールボックスが5〜31でなければなりません";
+"recipient_format" = "受信者のメールボックスには、不正な形式です";
+
+"sender" = "送信者:";
+"input_sender" = "送信者のメールボックスを入力してください";
+"sender_not_empty" = "送信者は、空にすることはできません";
+"sender_scope" = "れていない複数の送信者";
+"sender_length_format" = "送信者のメールボックスの長さがあるべきです5~31";
+"sender_format" = "送信者の電子メール形式エラー";
+
+"smtp_address" = "SMTP番地:";
+"smtp_number" = "これは、カンマで区切られた、唯一の5つをサポートしています";
+"smtp_not_empty" = "SMTPアドレスは空にすることはできません";
+"smtp_scope" = "SMTPアドレスが5を超えることはできません";
+"smtp_format" = "SMTPアドレス誤り";
+
+"port" = "ポート:";
+"input_port" = "ポート番号を入力してください";
+"non_encrypted" = "25(暗号化されていません)";
+"port_not_empty" = "端口号不能为空";
+"port_scope" = "端口号在0~65535之间";
+"port_format" = "端口格式为数字";
+
+"encryption_mode" = "加密方式";
+"one_encryption" = "无";
+
+"manual_setting" = "手动设置";
+"pwd_smtp_error" = "SMTP或密码不匹配";
+
+//门铃_2016.1.11
+"somebody_visit" = "有人来访";
+
+"door_bell" = "门铃";
+"confirm_open" = "确认开门?";
+"not_support_operation" = "设备不支持此操作";
+"too_frequent" = "操作过于频繁";
+"not_open" = "该GPIO未开放";
+
+"motion_adjust" = "移动侦测灵敏度";
+"no_playback_file" = "没有搜索到回放文件";
+
+
+
+
+

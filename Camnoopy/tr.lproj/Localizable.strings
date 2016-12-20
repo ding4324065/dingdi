@@ -1,0 +1,685 @@
+/* Localized versions of Info.plist keys */
+
+"account_login" = "Hesaba Giriş";
+"input_username" = "Email ile Giriş / Hesap ID / Mobil No";
+"input_password" = "Şifre Girin";
+"login" = "Login";
+"unInputUsername" = " Email ile Giriş / Hesap ID / Mobil No ";
+"unInputPassword" = " Şifre Girin ";
+
+"login_failure" = "Giriş Başarılı";
+"user_unexist" = "Kullanıcı Bulunmuyor";
+"password_error" = "Şifre Hatalı";
+
+"ok" = "TAMAM";
+"cancel" = "İptal";
+
+"contact" = "Cihaz Listesi";
+"discover" = "Kamera Cihazını Bulmak İçin Sallayın";
+"no_device" = "Uygun Kamera Cihazı Yok";
+"recent" = "En son";
+"toolbox" = "Araçlar";
+"setting" = "Sistem Ayarları";
+
+"logout" = "Sistemden Çıkış";
+"exit" = "Çıkış";
+
+"account_information" = "Hesap Bilgisi";
+
+"exit_prompt" = "Çıkışı Onaylıyor musunuz?";
+"logout_prompt" = " Çıkışı Onaylıyor musunuz?";
+"call" = "Kamera Cihazını Çağır";
+"monitor" = "Uzaktan Giriş Gerçek Zamanlı İzleme";
+"accept" = "Kabul Et";
+"reject" = "Askıya Al";
+
+"input_monitor_id" = "İzlemeyi Başlatmak İçin Kamera ID Giriniz";
+"input_call_id" = "Arama İçin Kamera ID Girin";
+"input_device_password" = "Kamera Şifresini Girin";
+
+"account_info" = "Hesap Bilgisi";
+"check_update" = "Versiyonu Yükseltin";
+"screenshot" = "Snapshot";
+"about_us" = "Hakkında";
+
+"screenshot_success" = "Snapshot Başarılı";
+
+"device_name" = "Kamera İsmi";
+"device_password" = "Kamera Şifresi";
+"delete_device" = "Kamerayı Silin";
+"delete" = "Delete";
+
+"sure_to_delete" = "Kameranın Silinmesini Onaylıyor musunuz?";
+"sure_to_clear" = "Kayıtların Silinmesini Onaylıyor musunuz?";
+"operator_success" = "Modifiye Başarılı";
+"operator_failure" = "Modifiye Başarısız";
+"operator_failure_unsupport_wifi" = "Modifiye Başarısız, Kamera WiFi desteklemiyor";
+"operator_failure_unsupport_wire" = "Modifiye Başarısız, Kamera Eternet Bağlantısını Desteklemiyor Olabilir";
+"modify_success" = "Modifiye Başarılı";
+"modify_failure" = "Modifiye Başarısız";
+"no_permission" = "İzin Reddedildi";
+
+"online" = "(Çevrimiçi)";
+"offline" = "(Çevrimdışı)";
+"add_contact" = "Kamera Ekleyin";
+"add_Wi-Fi" = "WiFi Ayarları";
+"add_new_device" = "Yeni Kamera Ekleyin";
+"addByManual" = "Kamera ekleyin";
+"add_manual" = "Manuel Olarak Ekleyin";
+"input_contact_id" = "Kamera ID Girin";
+"input_contact_name" = "Özelleştirilmiş Kamera İsmi Girin";
+"input_contact_password" = "Kamera Şifresi Girin";
+
+"next" = "Sonraki";
+"save" = "Kaydet";
+
+"contact_already_exists" = "Cihaz Zaten Mevcut";
+
+"monitor" = "Uzaktan Erişim Gerçek Zamanlı İzleme";
+"chat" = "Kamera Ara";
+"message" = "Mesaj";
+"playback" = "Oynatma";
+"control" = "Cihaz Ayarları";
+"device_control" = "Cihaz Ayarları";
+"modify" = "Düzenle";
+
+"recent_one_day" = "Bir gün";
+"recent_three_day" = "Üç gün";
+"recent_one_month" = "Bir ay";
+"custom" = "Özel";
+
+"device_password_error" = "Kamera Şifre Hatası";
+"net_exception" = "Şebeke Hatası";
+
+"about" = "About";
+"about_text" = " Camnoopy, mikro video servis platfromu olarak, gerçek zamanlı görüntüleme, uzaktan kontrol, video paylaşma ve aileler ile küçük ve büyük mikro işletme kullanıcılari için diğer video uygulama servislerini sağlar. Camnoopy ile evinizi, depo ve ofisinizi hem gerçek zamanlı hem de kaydedilen görüntüleri izleyebilirsiniz. Cor pro ile önem verdiğiniz yerler hakkında sıra dışı bir durum anında uyarı alabilir ve bir an önce gerekli güvenlik önlemlerini sağlayabilirsiniz. Camnoopy ile hayatınızdaki en ilginç anları paylaşabilirsiniz. ";
+
+"start_time" = "Başlatma Zamanı:";
+"end_time" = "Bitiş Zamanı:";
+"search" = "Ara";
+
+"unselected_start_time" = "Video Başlatma Zamanını Seçin";
+"unselected_end_time" = "Video Bitiş Zamanını Seçin";
+"start_time_must_before_end_time" = "Arama Başlatma Zamanı Arama Bitiş Zamanınını Aşmamalılıdır";
+
+"account_info" = "Hesap Bilgisi";
+"account" = "Hesap";
+"email" = "Email";
+"phone_number" = "Mobil No";
+"modify_login_password" = "Modifiye Şifresi";
+
+"unbind" = "Bağlı değil";
+"UNbind" = "Çöz";
+"modify_password" = "Modifiye Şifresi";
+"input_original_password" = "Eski şifreyi girin";
+"input_new_password" = "Yeni Şifreyi Girin";
+"confirm_input" = "Şifreyi Teyit Edin";
+"two_passwords_not_match" = "İki Şifre Eşleşmiyor";
+"password_too_long" = "Şifre 100 karakterden fazla olamaz";
+"original_password_error" = "Orijinal şifre hatası";
+
+"unknown_error" = "Bilinmeyen hata";
+
+"sure_to_unbind_email" = "Emaili açmayı onaylayın?";
+"sure_to_unbind_phone" = "Mobil telefonu açmayı onaylayın?";
+
+"bind_email" = "Emaili bağlayın";
+"unbind_email" = "Email adresini düzenleyin";
+"input_email" = "Email adresini girin";
+"email_length_error" = "Email 5 ila 100 karakter uzunluğunda olmalıdır";
+"email_used" = "Email addresi kullanılmıştır";
+"email_format_error" = "Email addresi hatalı";
+
+"input_login_password" = "Giriş şifresini yazın";
+"session_error" = "Giriş hatası. Hesap başka bir cihaza giriş yapmış, lütfen yeniden girin.";
+
+//"control" = "Kontrol";
+
+"time_set" = "Tarih ve Saat";
+"media_set" = "Media Ayarları";
+"security_set" = "Güvenlik Ayarları";
+"network_set" = "Network Ayarları";
+"alarm_set" = "Alarm Ayarları";
+"record_set" = "Kayıt Ayarları";
+"defenceArea_set" = "Güvenlik Bölgesi Ayarları";
+"remote_set" = "Uzaktan Erişim Ayarları";
+"remote_reset" = "Kamerayı Resetleyin";
+"device_update" = "Cihaz Firmware Güncellemesi";
+"time_zone" = "Zaman bölgesi";
+"apply" = "Uygula";
+"video_format_pal" =  "50Hz";
+"video_format_ntsc" = "60Hz";
+
+"video_format" = "Video Formatı";
+"volume" = "Volume";
+
+"modify_device_password" = "Cihaz Şifresini Modifye Edin";
+
+"motion" = "Hareket Dedektörü";
+"buzzer" = "Alarm Buzzer";
+"buzzer_time" = "Alarm Buzzer Zamanı(dakika)";
+
+"alarm_email" = "Uyarı Emaili";
+"bind_account" = "Bind Account";
+
+"sure_to_unbind_account" = "APP Bildirimlerinden ID kaldırılmasını onaylayın?";
+"input_alarm_id" = "Bildirimleri alkmak için hesap ID girin";
+"id_too_long" = "ID 9 karakterden fazla olamaz";
+"alarm_id_must_zero_begin" = "Alarm ID \'0\' ile başlamalı";
+"add_bind_account_prompt1" = "Sadece eklenebilir";
+"add_bind_account_prompt2" = "Alarm Bildirim hesabı";
+
+"remote_defence" = "Remote Access Arm Camera Device";
+"remote_record" = "Kayıtlara uzaktan erişim";
+
+"record_type" = "Kayıt Tipi";
+"record_time" = "Kayıt Sürei(dakika)";
+
+"manual_record" = "24 saat kayıt";
+"alarm_record" = "Alarm ile Tetikli Kayıt";
+"timer_record" = "Belirlenmiş Kayıt";
+"plan_time_table" = "Belirlenmiş Zaman Çizelgesi";
+
+"net_type" = "Network Tipi";
+"wired" = "Eternet";
+"wifi" = "Wi-Fi";
+"alarm_push" = "Alarm Bildirim ID";
+
+"change_net_prompt" = "Mevcut networku değiştirmek bağlantının kopmasına neden olabilir, devam etmek istiyor musunuz!!";
+
+"wifi_list" = "Wi-Fi Listesi";
+
+"input_wifi_password" = "Router WiFi şifresini girin";
+"wifi_password_format_error" = "WiFi şifre hatası";
+
+"remote" = "Uzaktan Kumanda";
+"hall" = "Hol";
+"window" = "Pencere";
+"balcony" = "Balkon";
+"bedroom" = "Yatak Odası";
+"kitchen" = "Mutfak";
+"courtyard" = "Avlu";
+"door_lock" = "Kapı Kilidi";
+"other" = "Diğerleri";
+"infrared" = "PIR Sensörü";
+"smoke" = "Duman";
+"gas" = "Gaz";
+
+"clear_defence_prompt" = "Silmeyi Onaylıyor musunuz?";
+"learn_defence_prompt" = "Eşleştirmek için OK e basın";
+"device_not_support_defence_area" = "Cihaz Güvenlik Alanını Desteklemiyor";
+"modify_defenceArea_name" = "Bölge Adı";
+"modify_channel_name" = " Bölge Adı";//2016.1.18
+
+"bind_phone" = "Mobil No Bağlayın";
+"unbind_phone" = "Mobile No’dan Ayırın";
+"input_phone" = "Mobile Numaranızı Girin";
+
+"china" = "Çin";
+"america" = "Amerika";
+
+"phone_length_error" = "Numara 6~15 karakter uzunlukta olmalıdır";
+
+"phone_used" = "Mobile Numara Kullanılmaktadır";
+"get_phone_code_too_times" = "Daha Sonra Yeniden Deneyin. Çok fazla doğrulama kodu gönderildi";
+"phone_format_error" = "Mobile numara format hatası";
+
+"phone_code_was_send_to" = "Doğrulama kodu gönderildi";
+"phone_check_code" = "Doğrulama Kodu";
+
+"choose_country" = "Ülke Seçiniz";
+
+"email_id_login" = "Email/ Hesap ID Girişi";
+"phone_login" = "Mobile Numara Girişi";
+
+"register_success_prompt" = "Kayıt Başarılı";
+
+"searching_device_in_local" = "Cihaz yerel ağda aranıyor";
+
+"create_init_password_prompt" = "Cihaz şifresi boş bırakılamaz!";
+
+"device_already_exist_password" = "Cihaz ekleme başarısız. Cihaz şifrwsi zaten var";
+
+"call_in_prompt" = "… dan arayın";
+"call_out_prompt" = "… dan aranıyor";
+"monitor_out_prompt" = "… ya bağlanıyor";
+
+"net_warning_prompt" = "Mevcut networke bağlanamıyor, lütfen network ayarlarınızı ve router konfigürasyonunuzu kontrol edin";
+
+"now_version_is_latest" = "En son versiyon, güncelleme gerekli değil";
+"other_was_check_device_update" = "Hedef cihaz ID meşgul";
+"device_not_support" = "Cihaz desteklenmiyor";
+
+"send" = "Gönder";
+
+"alarm_history" = "Alarm Kayıtları";
+"alarm_device" = "Cihaz:";
+"alarm_type" = "Alarm Tipi:";
+
+"input_message" = "Mesajı Girin";
+"message_too_long" = "Mesaj çok uzun";
+"can_not_send_message_to_myself" = "Kendinize mesaj gönderemezsiniz";
+"send_failure" = "Gönderme Başarısız";
+
+"device" = "Cihaz";
+"view" = "İzle";
+"extern_alarm" = "Dış Alarm";
+"motion_dect_alarm" = "Hareket Dedektör Alarmı";
+"emergency_alarm" = "Panik Alarmı";
+"debug_alarm" = "Hata ayıklama";
+"ext_line_alarm" = "I/O Alarm";
+"low_vol_alarm" = "Düşük Voltaj Alarmı";
+"pir_alarm" = "PIR Dedektör Alarmı";
+"defence_enable_alarm" = "Güvenliği Etkinleştir";
+"defence_disable_alarm" = "Güvenliği Devre Dışı Bırak";
+"battery_low_alarm" = "Düşük Pil Uyarısı";
+"parameters_upload_alarm" = "Parametreleri Sunucuya Yükleyin";
+"temperature_alarm" = "TEMP & HUM Alarm";
+"doorbell_alarm" = "Ziyretçi Bildirimi";
+"keypress_alarm" = "SOS Alarmı";
+"record_failed_alarm" = "Kayıt Hatası";
+
+"forget_password" = "Şifrenizi mi unuttunuz?";
+
+"device_password_too_long" = "Cihaz şifresi 100 karakterden fazla olamaz";
+"password_zero_format_error" = "Cihaz şifresi rakamsal kombinasyonlardan oluşmalı ve \'t be \'0\' ile başlamalı";
+"password_number_format_error" = " Cihaz şifresi rakamsal kombinasyonlardan oluşmalı ve 0 ila 9 arası olmalıdır";
+
+"set_wifi" = "WiFi Bağlantısını Ayarlayın";
+
+"no_connect_wifi" = "Mobil telefon ya da Tabletin WiFi bağlantısı yok, lütfen WiFi’a bağlanın";
+"set" = "Ayar";
+
+"infrared_remote" = "IR Uzaktan Kumanda";
+
+"input_ssid" = "Lütfen WiFi-SSID girin";
+
+"discovered" = "Ara";
+"new_device" = "Yeni Cihaz";
+
+"local_device_list" = "Yeni Cihaz Listesi";
+
+"device_id_zero_format_error" = " Cihaz IDsi rakamsal kombinasyonlardan oluşmalı ve \'0\' ile başlamalı";
+
+"id_unknown_error" = "Bilinmeyen Hata";
+"id_overdate" = "Hedef ID süresi doldu";
+"id_disabled" = "Hedef ID etkin değil";
+"id_inactived" = "Hedef ID aktive edilemedi";
+"id_offline" = "Çevrimdışı";
+"id_busy" = "Meşgul";
+"id_powerdown" = "Hedef ID çevrimdışı";
+"id_connect_failed" = "Bağlantı kesildi";
+"id_hangup" = "Askıya alındı";
+"id_timeout" = "Zamanaşımı";
+"id_internal_error" = "Dahili Hata";
+"id_no_accept" = "Cevap yok";
+"id_password_error" = "Cihaz şifre hatası";
+"id_not_support" = "Cihaz IDsi desteklenmiyor";
+
+"cur_version_is" = "Mevcut versiyon";
+"can_update_to" = "Yeni versiyon mevcut, güncellemek ister misiniz?";
+"start_update" = "Güncelleniyor";
+"update_failed" = "Güncelleme Başarısız";
+"cancel_update" = "Güncellemeyi iptal et";
+
+"loading" = "yükleniyor...";
+"cur_version" = "Mevcut versiyon";
+"kernel_version" = "Çekirdek Versiyon";
+"rootfs_version" = "Kök Versiyon";
+"uboot_version" = "uBoot Versiyon";
+
+"device_info" = "Cihaz Bilgisi";
+
+"release_new_version"="Yeni Versiyon Mevcut";
+"ask_update_immediately"="Şimdi güncellensin mi?";
+"remain_me"="Sonr tekrar hatırlat";
+"update_me"="Hemen güncelle";
+"rate_me"="Bizi puanlayın";
+"skip_me"="Versiyon güncellemeyi geç";
+"latest_version"="En güncel sürüm mevcut";
+"quit_update"="Güncellemeden çık";
+
+"no_init_password_device" = "Cihaz şifresi boş";
+
+"defence_group" = "Güvenlik alanı";
+"defence_item" = "Sensör";
+"already_learn" = "Eşleşti ve kodlandı";
+"learning" = "Eşleşme ve kodlama devam ediyor...";
+"clearing" = "Siliniyor...";
+
+"qrcode_add" = "QR Code ile ekle";
+"qrcode" = "QR Code ile WiFi ayarı";
+"wifi_set_title" = "WiFi ayarı";
+"make" = "QR Tarama Kodu Olurun";
+"help" = "SSS";
+
+"add_device" = "Cihaz Ekle";
+"empty_contact_prompt" = "Cihaz listesi boş, yeni bir cihaz eklemek ister misiniz!";
+"smart_key" = "Smart IR Key ile WiFi Ayarı";
+"smart_key_add" = "Smart IR Key";
+"search_local_area" = "Yerel Ağı Tara";
+"manually_add" = "Cihazı Mauel Olarak Ekle";
+
+"input_smart_key_prompt" = "Smart IR Key girin ve medya sesini en yükseğe ayarlayın.";
+
+"input_wifi_password_sk" = "WiFi şifresini girin";
+"input_device_password_sk" = "Cihaz şifrsini girin";
+"set_wifi_content_prompt" = "Kamera “Ding” sesi duyulna kadar Smart IR Key tutun.";
+"set_wifi_content_prompt1" = "Smart IR Keyi kameranın önünde tutun:";
+"set_wifi_content_prompt2" = "“Ding” sesi duyulduğunda ,Duyuldu’ya basın";
+"set_wifi_content_prompt3" = "“Bi-Bi-Bi” sesi duyulduğunda, Geri’ye basın ve cihaz şifresini yeniden girin";
+"set_scanning_code_prompt" = "’Ding’ sesi duyulana kadar QR tarama kodunu kameranın önünde tutun";
+"heard" = "Duyuldu";
+"back" = "Geri";
+"waiting_content_prompt" = "WiFi bağlantısı için bekleniyor";
+"set_wifi_failed_title" = "Bağlantı başarısız";
+"set_wifi_failed_prompt" = "Olası sebep:\n1.WiFi şifre yanlış \n2.Kamera mevcut router ile 5 Ghz bant genişliğini desteklemiyor \n3.WiFi Network stabil değil";
+"set_wifi_success_title" = "Başarı ile ayarlandı!";
+"try_again" = "Yeniden deneyin";
+
+"qrcode_prompt" = "QR kodu kameranın 20-30 cm önünde tutun ve kameranın QR kodu taramasına izin verin. ‘Ding’ sesi duyuluncaya kadar bekleyin.";
+
+"modify_visitor_password" = "Misafir şifresi";
+"auto_update" = "Otomatik olarak güncelle";
+
+"accept_alarm" = "Alındı bildirimi";
+"human_infrared_detection" = "PIR dedektörü";
+"wired_alarm_input" = "Kablolu sensör girişi";
+"wired_alarm_output" = "Kablolu sensör çıkışı";
+"image_inversion" = "Görüntüyü çevirme";
+
+"TH_alert" = "ISI & NEM alarmı";
+"temperature_now" = "Mevcut Sıcaklık";
+"humidity_now" = "Mevcut Nem";
+"temperature_max" = "En Üst Sıcaklık Limiti";
+"temperature_min" = "En Düşük Sıcaklık Limiti";
+"input_new_visitor_password" = "Lütfen misafir şifresini girin";
+"human_infrared" = "PIR Dedektörü Anahtarı";
+"anonymous_login" = "Ortak Giriş";
+
+"anonymous" = "Ortak";
+
+"remote_record_switch" = "I/O Kaydediyor";
+
+"modify_manager_password" = "Yönetici şifresi";
+
+"SD" = "SD";
+"LD" = "LD";
+"HD" = "HD";
+"number_viewer" = "İzleyen Sayısı:";
+
+"time_zone_set" = "Zaman Bölgesi Ayarı";
+
+/*
+ * new translations(2014.12.20)-已同步Chinese
+ */
+"new_account_register" = "Kayıt";
+"phone_register" = "Mobil No";
+"email_register" = "Email";
+"register_account" = "Hesap Kayıt Kılavuzu";
+
+"storage_info" = "Micro SD Card Bilgisi";
+"sd_card_capacity" = "Kapasite:";
+"sd_card_rem_capacity" = "Müsait:";
+"u_disk_capacity" = "Flash Disk Kapasitesi:";
+"u_disk_rem_capacity" = "Kalan Kapasite:";
+"sd_card_format" = "Sil & Formatla";
+"no_storage" = "Micro SD Card yok.";
+"device_not_support_no_storage" = "Cihaz desteklemiyor ya da SD Card bulunamadı";
+"not_support_format" = "Formatlama desteklenmiyor.";
+"sd_format_success" = "Hafıza başarıyla silindi";
+"format_sd_card" = "SD Kartı Formatla";
+"confirm_format" = "Tüm bilgiler silinecek. Silmeyi onaylayın?";
+
+"device_not_support_sensor_switch" = "Mevcut cihaz sensör eşleşmesini desteklemiyor.";
+"learn_code" = "Eşleşme ve sensör kodu";
+
+"no_record" = "Kayıt yok";
+//"unknown_error" = "Bilinmeyen hata";
+"no_more_record" = "Kayıt listesi boş.";
+
+//----------
+"scan_switch" = "Grubu değiştirin";
+"scan_complete" = "Eklendi";
+"scan_add_successfully" = "Başarıyla eklendi";
+"scan_tip" = "İpuçları";
+"scan_tryagain" = "Yeniden deneyin";
+"scan_error01" = "WiFi şifre hatası";
+"scan_error02" = "Cihaz şu an için 5G routerı desteklemiyor";
+"scan_error03" = "Router DHCP fonksiyonu kapatıldı";
+
+"mainmenu_alarmset" = "Alarm Ayarı";
+"mainmenu_help" = "SSS";
+
+"adddevice_btn_rader" = "Radar";
+"adddevice_btn_manual" = "Manuel";
+"adddevice_tip" = "Kamera WiFi’a bağlanamıyor";
+"adddevice_btn_setwifi" = "WiFi Ayarla";
+"adddevice_btn_skip" = "Geç";
+"add_guard_text06" = "Güç Cihazı";
+"add_guard_text07" = "Power Device and wait for 'Di-Di-Di' alert sound from camera;\nif Reset Camera if no sound is heard";
+"waiting_content_prompt01" = "Bağlantı için bekleniyor";
+"waiting_content_prompt02" = "Bağlanıyor...\Lütfen bekleyin, bağlantı kısa sürede kurulacaktır.";
+"adddevice_warm_tip" = "İpucu:Şifreyi girmek için İngilizce modu kullanın.";
+"addDevice_warm_tips" = "İpucu: Güvenlik açığına neden olmamak için ilk kullanımda şifreyi değiştirin!";
+
+"manual_set_time" = "Zamanı manuel olarak ayarla";
+"network_set_time" = "Network Sistem Zamanı";
+"year" = "Yıl";
+"month" = "Ay";
+"day" = "Gün";
+"hour" = "Saat";
+"minute" = "Dakika";
+"mac_address" = "mac adresi";
+"enabled" = "Etkinleştirildi";
+"Automatic_get_ip" = "Otomatik IP al";
+"ip_address" = "IP";
+"Subnet_mask" = "Alt ağ maskesi";
+"gateway" = "Gateway";
+"dns" = "DNS";
+"input_ip" = "IP adresi girin";
+"input_subnet" = " Alt ağ maskesi girin";
+"input_gateway" = "Gateway girin";
+"input_dns" = "DNS girin";
+"connected" = "Bağlandı";
+"connect_ipc_wifi" = "Lütfen WiFi’a bağlanın--%@,Şifre 12345678";
+
+"one_min" = "1 dk";
+"two_min" = "2 dk";
+"three_min" = "3 dk";
+"addshield_device" = "Bloklu listeye ekle";
+"addshield_tip" = "ID bloklu ise APP alarm bildirimlerini almayacaktır";
+"already_shield" = "Added Account ID to Block List";
+"alarm_shield_device" = "Bloklu Cihaz alarmı";
+"alarm_interval" = "Bildirim Zaman Aralığı(sn)";
+
+"smart_cameras" = "Akıllı Kamera";
+"check_for_setting" = "Kimlik doğrulanıyor...";
+
+"pull_to_refresh" = "Cihaz durumunu yenilemek için çekin";
+"release_refresh" = " Cihaz durumunu yenilemek için bırakın";
+"loading" = "Yenileniyor...";
+
+"resend" = "Yeniden gönder";
+"Skip" = "Geç";
+
+"tempe_format_error" = "Giriş formatı hatası";
+"set_TH_alert" = "Sıcaklık ve Nem Alarmını Ayarla";
+"please_input_number" = "Lütfen sıcaklık değerini girin";
+"input_outnumber_limit" = "Değer ayar aralığını aşıyor";
+
+"select_all" = "Tümü";
+"sure_delete" = "Silmeyi onaylayın?";
+
+"delete_success" = "Silme başarılı";//2015.8.6
+"select_reset" = "Fabrika ayarlarına dönmek istediğinize emin misiniz??";
+
+"mailbox" = "Email:";
+"password" = "Şifre:";
+"validating" = "Doğürulanıyor...";
+"pwd_error" = "Şifre eşleşmedi";
+"not_verified" = "Mail kutusu doğrulanamadı，SMTP servisinin etkin olduğundan emin olun.";
+"not_support" = "Desteklenmiyor";
+"check_box" = "Opsiyon kutusunu işaretleyin – Gönderen ve alıcı aynı olmalı";
+"recipient" = "Alıcı:";
+
+"set_preset" = "Önceden ayarlanmış izleme konumunu ayarlayın";
+"check_preset" = " Önceden ayarlanmış izleme konumunu";
+
+"confirm_unblock" = "Cihazı bloklu listeden kaldırmayı onaylayın:";
+
+"sound_alarm" = "Sesli Alarm";
+
+"humidity_min" = "En düşük nem";
+"humidity_max" = "En yüksek nem";
+"input_humidity_limit" = "Nem aralığı:30~90(Üst), 10~70(Alt)";
+"input_TH_tips" = "Hatırlatma(Limit aralığı):\Sıcaklık:  5~65(Üst),  -5~55(Alt)\Nem:      30~90(Üst), 10~70(Alt)";
+
+//手动设置邮箱翻译
+"recipient" = "Alıcı:";
+"recipient_number" = "Virgül ile ayırarak üç alıcı destekler";
+"recipient_not_empty" = "Alıcı listesi boş olamaz";
+"recipient_scope" = "Üç alıcı ile sınırlı";
+"recipient_length_format" = "Email 5 ila 31 karakter olmalıdır";
+"recipient_format" = "Mail format hatası";
+
+"sender" = "Gönderici:";
+"input_sender" = "Gönderici email adresi girin";
+"sender_not_empty" = "Gönderici boş olamaz";
+"sender_scope" = "Gönderici biri aşamaz";
+"sender_length_format" = " Email 5 ila 31 karakter olmalıdır ";
+"sender_format" = " Mail format hatası ";
+
+"smtp_address" = "Smtp Adresi:";
+"smtp_number" = "Beş smtps destekler. Stmps’ler virgül ile ayırılır";
+"smtp_not_empty" = "Smtp adresi boş olamaz";
+"smtp_scope" = "Yalnızca 5 smtps ile sınırlıdır";
+"smtp_format" = "Smtp format hatası";
+
+"port" = "Port:";
+"input_port" = "Port no girin";
+"non_encrypted" = "25(şifresiz)";
+"port_not_empty" = "Port no boş olamaz";
+"port_scope" = "Port no 0 ila 65535 arası bir değer olmalıdır";
+"port_format" = "Port formatı nümerik bir değer olmalıdır";
+
+"encryption_mode" = "Şifre modu";
+"one_encryption" = "Yok";
+
+"manual_setting" = "Manuel ayar";
+"pwd_smtp_error" = "Smtp ya da şifre hatalı";
+
+//DoorBell_2016.1.11
+"somebody_visit" = "Ziyaretçi Alarmı";
+
+"door_bell" = "Kapı zili";
+"confirm_open" = "Kapıyı aç?";
+"not_support_operation" = "Cihaz desteklenmiyor";
+"too_frequent" = "İşlem çok yoğun.";
+"not_open" = "GPIO açık değil";
+
+"motion_adjust" = "Hareket seviyesi";
+"no_playback_file" = "Kaydedilmiş dosya yok";
+
+//V8.4.1_add following
+"playback_TFCard" = " Kayıt Butonu";
+"playback_cellphone" = "Lokal Kayıt";
+"no_record_file" = "Kayıtlı Dosya Bulunamadı";
+"no_previous_files" = "Önceki Dosya Bulunamadı";
+"no_next_files" = "Sonraki Dosya Bulunamadı";
+"file_info" = "Dosya Bilgisi";
+"save_ok_photoalbum" = "Kaydedildi";
+"save_to_photoalbum" = "Foto Albümüne Kaydet";
+"save_photoalbum_tip" = "Iphone’unuzun ayarlarından fotoğraf görüntülemeye izin verin.";
+
+
+"screenshot_list_empty" = "Snapshot listesi boş !";
+"alarm_vibration" = "Alarm titreşimi";
+"alarm_bell" = "Alarm zilil";
+"Configuration_WiFi" = "Wi-Fi Konfigürasyonu";
+"restart_set" = "Cihazı Yeniden Başlat";
+"modify_defenceArea_name" = "Özelleştirilmiş İsim";
+"modify_channel_name" = " Özelleştirilmiş İsim"; //2016.1.18
+"phone_code_error" = "Doğrulama Kodu Yanlış";
+"wifi_set_title" = "WiFi Ayarları";
+"device_password_too_simple" = "Şifre çok basit, yeni şifre sayı ve harflerden oluşan 6 ila 100 haneli olmalıdır";
+"device_new_password_prompt" = " Yeni şifre sayı ve harflerden oluşan 6 ila 100 haneli olmalıdır ";
+"set_wifi_failed_prompt" = "Muhtemel neden:\n1.WiFi şifresi yanlış \n2.Kamera 5 Ghz band genişliğini mevcut router ile sağlayamıyor \n3.WiFi Network stabil değil";
+"set_wifi_success_title" = "Ayarlar Başarılı!";
+"set_initPassword" = "Şifre Ayarları";
+"set_TH_alert" = "ISI & Nem Alarmını Ayarla";
+"select_restart" = "Yeniden başlatmak istediğinize emin misiniz?";
+
+"questionone" = "S: Mobil uygulamaya kamera nasıl eklenir?";
+"questiontwo" = "S: Kamera WIFI bağlantısı ile nasıl paylaşılır?";
+"questionthree" = "S: Kamera nasıl resetlenir?";
+"questionfour" = "S: Kamera video kayıta nasıl ayarlanır?";
+"questionfive" = "S: RF kablosuz Sensorler kameraya nasıl bağlanır?";
+"questionsix" = "S: Mevcut yönetici şifresi nasıl değiştirilir?";
+"questionseven" = "S: Kamera firmware’i uygulamadan nasıl güncellenir?";
+"questioneight" = "S: Kaydedilmiş video nasıl izlenir?";
+"questionnine" = "S: Uygulama nasıl güncellenir?";
+"questionten" = "S: Alarm bildirimleri için titreşim ve zil tonu, uygulama aracılığıyla nasıl ayarlanır?";
+"questioneleven" = "S: Canlı izleme sırasında yanlış şifre mesajı alınıyorsa ne yapabilirim?";
+"questiontwelve" = "S:“Cihaz Listesinde” kamera çevrimdışı görünüyor";
+"questionthirteen" = "S: WiFi router adı WiFi listesinde mevcut değil.";
+"questionfourteen" = "S: Video oynatma için video dosyası bulunamadı.";
+"questionfifteen" = "S: Firmware yükseltilmesi sırasında sistem çöktü. Ne yapabilirim?";
+"questionsixteen" = "S: Kızılötesi çok hızlı değişiyor ve gece net görüntü alamıyorum";
+"questionseventeen" = "S: Mobil telefon ve Kamera ortamda çalışırken “Islık” sesi duyuluyor.";
+"questioneighteen" = "S: Kamera WiFi’a bağlanamıyorsa veya WiFi stabil değilse aşağıdakileri kontrol edin:";
+"questionnineteen" = "S: Video kayıtları Micro SD karttan PC’ye nasıl aktarılır?";
+"questiontwenty" = "S: Cihaz çevrimdışı ise ne yapılır?";
+"questionTwentyone" = "S: Uygulama alarm uyarılarını almıyor";
+"questionTwentytwo" = "S: Kamera, Micro SD kartı tanımıyor";
+"answerone" = "A: Güç ve Ethernet kablosunu Kameraya takın. Kameranın internete bağlanmasını sağlayın. Ekranın sağ üst köşesindeki + ikonuna basın. Elle ekleyini seçip kamera ID, belirlenmiş cihaz adını ve kamera şifresini girerek kamerayı uygulamanıza ekleyin. Network ayarları-WiFi listesi altında yer alan WiFi’yi kullanarak bağlanabilirsiniz. Kamera cihazını açın ama Ethernet kablosunu kameraya bağlamayın. Kameradaki reset tuşuna önce “swish” sesi sonra ise “Di-Di-Di” sesini duyuncaya kadar basılı tutunuz. Ekranın sağ üst köşesindeki + ikonuna basın ve akıllı WiFi yüklemeyi seçiniz. Router WiFi şifrenizi girin ve bağlanmak için “Sonraki”ne basın. Eğer başarısız olursa, WiFi şifrenizin doğru olduğuna emin olun ya da Method 2’yi tekrar uygulayın.";
+"answertwo" = "A: Method 1: Güç ve Ethernet kablosunu Kameraya takın. Kameranın internete bağlanmasını sağlayın. Ekranın sağ üst köşesindeki + ikonuna basın. Elle ekleyini seçip kamera ID, belirlenmiş cihaz adını ve kamera şifresini girerek kamerayı uygulamanıza ekleyin. Network ayarları-WiFi listesi altında yer alan WiFi’yi kullanarak bağlanabilirsiniz. Method 2: Kamera cihazını açın ama Ethernet kablosunu kameraya bağlamayın. Kameradaki reset tuşuna “Di-Di-Di” sesini duyuncaya kadar basılı tutunuz. Ekranın sağ üst köşesindeki + ikonuna basın ve akıllı WiFi yüklemeyi seçiniz. Ayarlar için uygulama talimatlarını seçin. Mobil cihazınızın WIFI bağlantısı router adı olarak görünecektir, Router WiFi şifresini girip, “Sonraki”ne basın ve bağlanmasını bekleyin. Eğer başarısız olursa, WiFi şifrenizin doğru olduğuna emin olun ya da Method 2’yi tekrar uygulayın. Not: Bu method kamera cihaz versiyonun UBoot 4 ve yukarısı, Kernel 3 ve yukarısı ve Firmware 13 ve yukarısı olmasını gerektirir.";
+"answerthree" = "C: 1) Reset atmak için kameranın reset tuşuna sivri bir cisimle (iğne, kürdan) basılı tutunuz. Reset tuşu kameranın arkasında yer almaktadır. Sivri bir cisimle reset tuşuna doğru bir şekilde basıldığında önce “Di” sesini ardından“Swing” sesini duyulur. Bu sesler resetlemenin başarılı olduğunu belirtir. Kameranızı ayrıca uygulama ile de resetleyebilirsiniz. Kamerayı resetlemek için cihaz ayarlarına giderek Fabrika Ayarlarına geri döne basınız...";
+"answerfour" = "C: Format edilmiş Micro SD kardı, Kamera TF kart boşluğuna takıp tekrar başlatınız. Kameranın destekleyebileceği max SD Kart kapasitesi 128GB boyutundadır ama lütfen orijinal Sınıf 4 veya üzeri bir SD Kart kullanıldığından emin olun. Cihaz ayarları-Kayıt ayarları altında 3 kayıt opsiyonundan birini seçiniz. Manual kayıt, 24 saat kayıt, tetiklenme anında Alarm kaydı anlamına gelir (1 dk, 2 dk, 3 dk zaman aralıklarıyla) ve Programlanmış kayıt, başlangıç ve bitiş zamanı belirli kayıt anlamına gelir. Kayıt için önceden belirlenmiş çözünürlük, Standart Çözünürlüktür.";
+"answerfive" = "C: Kablosuz RF Güvenlik Parçaları, kapı ve pencere sensörleri, PIR detektörleri, RF modüllü sigara ya da gaz  dedektör sensörleri gibi pilli ya da kablolu güvenlik ürünleridir. Kamera ile kullanılan sensörler 1527 ya da 2262 protokollü RF 433MHz olmalıdır. Bu parçaları bizden ya da bayilerden alabilirsiniz. Kameraya sensörleri eşleştirmek için kamera ekranını tıklayın ve dikey görünüme girin ve ekranı sola kaydırın. Sensör eşlemeye tıklayın, sensörü kameraya eşleyin. Tercih edildiğinde sensör pozisyonunu önceden hazırlayabilirsiniz. Önceden hazırlanmış pozisyonlar 5 adettir ve sabittir. Pozisyon 1 tam sol, pozisyon 3 merkez iken pozisyon 5 tam sağdır. Uzaktan kumandayı eşlerken, uzaktan kumanda eşlemeye tıklayın ve kumandadaki her hangi bir yere basın. Cep telefonunuza alarm bildirimi almak için kameranızın koruma modunda olduğuna ve hesap IDnizin bildirim listesinde olduğuna emin olun. ";
+"answersix" = "C: Arzu edildiğinde yönetici şifresini değiştirmek ve misafir şifresini düzenlemek için Cihaz – Güvenlik ayarlarına tıklayın.";
+"answerseven" = "C: Kamera cihazı aygıt yazılımını güncellemek için Kamera – Cihaz ayarlarına tıklayın. Eğer bir güncelleme varsa, indirme işlemine başlanacaktır. Eğer güncelleme başarılı olmazsa, lütfen cihazını yeniden başlatın ya da fabrika ayarlarına geri dönün.";
+"answereight" = "C: Video oynatmak içik, ekranın sol üst köşesindeki ikona basın ya da ekranı sağa kaydırın ve video oynata basın. Kamera cihazına basın ve Micro SD Kart ya da cep telefonundan videoyu seçin.";
+"answernine" = "C: Uygulama versiyonunu kontrol etmek ve güncellemek için, ekranın sol üst köşesindeki ikona basın ya da ekranı sağa kaydırın ve “Hakkında”ya basın. Altında “Versiyonu kontrol et”e basarak kontrol edin ve gerekirse güncelleyin.";
+"answerten" = "C: Alarm tekik bildirimlerini almak için, sol üst köşedeki ikona tıklayınız veya ekranı sağa kaydırıp “Ayarlar” – Alarm Sesi Ayarları veya titreşimini tercihinize göre ayarlayın";
+"answereleven" = "C: Uzaktan erişim için Kamera ID şifrenizin doğru olduğundan emin olun. Benim kamera sayfasında, notepad ikonuna tıklayınız ve doğru şifreyi giriniz. Eğer kamera şifresini unuttuysanız, kameraya reset atarak fabrika ayarlarına dönünüz. Ön tanımlı şifre 123 şeklindedir.;";
+"answertwelve" = "C: Güç kaynağını ve Router networkünü kontrol edin ve işlevsel olduğundan emin olun. Network göstergesi ışığı yanıyorsa, bağlantı normal durumdadır. Eğer kameraya bağlantı başarısız olursa, güç kaynağı kablosunu çıkarıp bir dakika bekleyin ya da kameraya reset atın. Bağlantıyı yenilemek için ekranı aşağıya doğru kaydırın.";
+"answerthirteen" = "C: Kamera cihazı sadece WiFi 2.4Ghzyi desteklemektedir. Routerin 2.4Ghz band genişliğinde çalıştığından ve kamera ve routerin 2.4Ghz band genişliğine bağlandığından emin olun. WiFi için SSID’nin gizli olmadığından ve mobil cihazlar için orijinal işletim sisteminin kullanıldığından emin olun.";
+"answerfourteen" = "C: Micro SD Kartın zarar görmediğnden emin olun. Kamera Sistem Zamanı ve Video Zamanı hizalanmıştır, Kamera Sistem zamanını, Kamera Ayarlarına girerek değiştirin – Tarih ve Saat. Micro SD kartı çıkartın, kamerayı kapatın ve kartı kamerayı açmadan önce takın. Problem hala devam ediyorsa, kamerayı fabrika ayarlarına döndürün ve tekrar deneyin. Daha fazla yardım için satıcınızdan destek alın.";
+"answerfifteen" = "C:Ön tanımlı fabrika ayarlarından Kamera Sistem Zamanını kontrol edin. Kamera sistem Zaman Ayarının doğru olduğundan emin olun.";
+"answersixteen" = "C: Kamera kızılötesi filtresine sahiptir. Renkli objeler veya gece görüşü, ışık yoğunluğuna bağlı olarak değişkenlik gösterir. Kızılötesi kesme özelliği çok hızlı açılır ve kapanır.";
+"answerseventeen" = "C: Cihazdan ıslık sesi duyulabilir. Bu normal bir problemdir ve mobil cihazınızın sesi kısarak ya da sessize alarak gelen ıslık sesini önleyebilirsiniz";
+"answereighteen" = "C: 1、Kamera, WiFi ve Mobil cihaza eşleşmiyorsa kamera cihazınıza reset atarak fabrika ayarlarına geri dönüş yapınız \n2、Kamera cihazınız sadece 2.4Ghz network band aralığını destekler. \n3 Tavsiye edilen AES şifrelemesi ile WPA / WPA2. TKIP kullanmayınız. n4、AP Isolation’ı Router Gelişmiş Ayaralarından kapatın. \n7、Bazı WiFi Hotspot routerlar kamera tarafından desteklenmemektedir. \n8 Çevresel faktörler nedeniyle sinyal girişimi olabilir. WiFi routing kanalı, gerektiğinde değiştirilebilir. \n9、SSID şifresi sadece alfabe ve sayı formatında olmalıdır.\n10、Mac Filter Adresini , Router Ayarlarından kapatın. \n11、ARP opsiyonunu router üzerinden kapatın. \n12、Totolink Router (Kore) için rezerve edilmiştir.  \n13、Kamera cihazınızı Router’a eşlerken, lütfen yeterli uzaklığı sağlayınız. \n14、Kamera bağlantısının stabil olabilmesi için yeterli internet band aralığını sağlayınız. \n15、Sinyal girişimini önlemek için cihazı kablosuz telefon, mikrodalga cihazlar veya kamera performansını etkileyecek cihazlardan uzak tutunuz. \n16、Wifi sinyalinin güçlü olduğundan emin olun. Bazı yenilenen materyaller WiFi sinyal gücünü azaltabilir.";
+"answernineteen" = ": 1) Kamerayı kapatın ve Mikro SD Kartı çıkarın. Video dosyalarını bilgisayara kaydedin.\n2）Dosyaları bilgisayara indirmek için PC yazılımınızı kullanın.";
+"answertwenty" = "C: Kural olarak şebeke bağlantı stabilitesini korumak için eternet kablosunu takılı tutunuz. Kamerayı resetleyin ve WiFi bağlantısını Şebeke Ayarlarından yeniden yapılandırın. – Uygulamadan WiFi listesi .";
+"answerTwentyone" = "C: Kamera Alarm Bildirimlerinin açık olduğundan emin olun. Kamera Güvenlik içinde Koruma durumu.";
+"answerTwentytwo" = "C: Micro SD kartın gerçek Class 4 olduğundan ve bilgisayarınızda doğru şekilde formatlandığından emin olun. Kameranın format fonksiyonu piyasada satılan tüm kartlar için uygun olmayabilir.";
+
+"FTP" = "  FTP Ayarları";
+"server_address" = "  server adresi:";
+"port_number" = "  port numarası:";
+"sever_name" = "  server adı:";
+"sever_password" = "  sever şifresi:";
+"FTP_lable" = "FTP fonksiyonu ON/OFF";
+"please_server_address" = "lütfen server adresi";
+"please_port_number" = "lütfen port numarası";
+"please_sever_name" = "lütfen server adı";
+"please_sever_password" = "lütfen server şifresi";
+"FTP_format_error" = "Şebekeyi ayarlayın, yol bilgisi doğru değil, kullanıcı adı, şifre, domain adı maksimum karakter limitinin üzerinde olabilir.";
+"FTP_operator_failure" = " Şebekeyi ayarlayın, yol bilgisi doğru değil, şebeke hatası olabilir.";
+"sever_not_empty" = "Server adresi boş olamaz";
+"port_not_empty" = "Portlar boş olamaz";
+"username_not_empty" = "İsim boş olamaz";
+"possword_not_empty" = "Şifre boş olamaz";
+
+"update" = "Güncelle";
+"version" = "versiyon";
+"next_time" = "İptal";
+"update_now" = "Güncelle";
+
+//记住用户登录密码
+"un_rem_pass" = "Şifreyi unut";
+"rem_pass" = "Şifreyi hatırla";
+
+
+

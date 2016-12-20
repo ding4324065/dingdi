@@ -1,0 +1,20 @@
+#ifndef _CONFIG_H_
+#define _CONFIG_H_
+
+#define VIDEO_FRAME_RATE  16
+//#define US_DEBUG_ID
+
+
+#define GWELL_AV_CONTROL
+
+#ifdef GWELL_AV_CONTROL
+#import "P2PCInterface.h"
+#endif
+
+
+#pragma mark -本地视频的功能
+#define LOCAL_VIDEO_ABILITY  ((VIDEO_ABILITY_320x240<<24)|(VIDEO_ABILITY_320x240<<16)|(VIDEO_ABILITY_320x240<<8)|(VIDEO_ABILITY_320x240<<0))
+#pragma mark -远程视频功能
+#define REMOTE_VIDEO_ABILITY  ((VIDEO_ABILITY_320x240<<24)|(VIDEO_ABILITY_320x240<<16)|(VIDEO_ABILITY_320x240<<8)|(VIDEO_ABILITY_320x240<<0))
+
+#endif

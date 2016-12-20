@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1005</key>
+	<string>1005 sq_alarm.caf 	CalendarAlert </string>
+	<key>1004</key>
+	<string>1004 SentMessage.caf 	SMSSent </string>
+	<key>1003</key>
+	<string>1003 ReceivedMessage.caf 	SMSReceived</string>
+	<key>1002</key>
+	<string>1002 Voicemail.caf 	VoicemailReceived </string>
+	<key>1001</key>
+	<string>1001 mail-sent.caf 	MailSent </string>
+	<key>1000</key>
+	<string>1000 new-mail.caf 	MailReceived </string>
+</dict>
+</plist>
